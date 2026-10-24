@@ -1,0 +1,7 @@
+# Keep release-manifest hashes valid after cloning on any operating system.
+# Text remains diffable; disable only automatic line-ending conversion.
+* -text
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.webp binary

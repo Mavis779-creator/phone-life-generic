@@ -1,0 +1,195 @@
+{
+  "scope": "Node VM, mock DOM/storage/media; not browser or device QA",
+  "passed": 47,
+  "failed": 0,
+  "results": [
+    {
+      "name": "compiled scripts are complete and parseable",
+      "status": "PASS"
+    },
+    {
+      "name": "fresh installation has no contacts/messages/notifications/mail/files/plot",
+      "status": "PASS"
+    },
+    {
+      "name": "no historical social fixtures or fabricated follower counts",
+      "status": "PASS"
+    },
+    {
+      "name": "all entry routes preserve the blank start",
+      "status": "PASS"
+    },
+    {
+      "name": "customization completion does not create a plot",
+      "status": "PASS"
+    },
+    {
+      "name": "long idle periods do not manufacture incoming content",
+      "status": "PASS"
+    },
+    {
+      "name": "original storage keys are ignored and never overwritten",
+      "status": "PASS"
+    },
+    {
+      "name": "asset DB and save namespace differ from original",
+      "status": "PASS"
+    },
+    {
+      "name": "user PIN and profile edits persist across reload",
+      "status": "PASS"
+    },
+    {
+      "name": "added characters create empty chats and survive reload",
+      "status": "PASS"
+    },
+    {
+      "name": "private chat sends only the player message",
+      "status": "PASS"
+    },
+    {
+      "name": "groups accept members without injecting scripted replies",
+      "status": "PASS"
+    },
+    {
+      "name": "location and described photo cards retain the target conversation",
+      "status": "PASS"
+    },
+    {
+      "name": "account-scoped posts and drafts remain independent",
+      "status": "PASS"
+    },
+    {
+      "name": "shared wallet starts with one player card and KRW catalogue remains populated",
+      "status": "PASS"
+    },
+    {
+      "name": "empty music is safe and a new-song import action exists",
+      "status": "PASS"
+    },
+    {
+      "name": "imported music metadata survives runtime reinitialization",
+      "status": "PASS"
+    },
+    {
+      "name": "blank live and private letters never create audience replies",
+      "status": "PASS"
+    },
+    {
+      "name": "blank screen renders: renderSettings",
+      "status": "PASS"
+    },
+    {
+      "name": "blank screen renders: renderCalendar",
+      "status": "PASS"
+    },
+    {
+      "name": "blank screen renders: renderNotes",
+      "status": "PASS"
+    },
+    {
+      "name": "blank screen renders: renderPhotos",
+      "status": "PASS"
+    },
+    {
+      "name": "blank screen renders: renderPhone",
+      "status": "PASS"
+    },
+    {
+      "name": "blank screen renders: renderKakao",
+      "status": "PASS"
+    },
+    {
+      "name": "blank screen renders: renderKakaoChats",
+      "status": "PASS"
+    },
+    {
+      "name": "blank screen renders: renderKakaoOpen",
+      "status": "PASS"
+    },
+    {
+      "name": "blank screen renders: renderKakaoMore",
+      "status": "PASS"
+    },
+    {
+      "name": "blank screen renders: renderWeverse",
+      "status": "PASS"
+    },
+    {
+      "name": "blank screen renders: renderYouTube",
+      "status": "PASS"
+    },
+    {
+      "name": "blank screen renders: renderGmail",
+      "status": "PASS"
+    },
+    {
+      "name": "blank screen renders: renderFiles",
+      "status": "PASS"
+    },
+    {
+      "name": "blank screen renders: renderVoiceMemos",
+      "status": "PASS"
+    },
+    {
+      "name": "blank screen renders: renderReminders",
+      "status": "PASS"
+    },
+    {
+      "name": "blank screen renders: renderShop",
+      "status": "PASS"
+    },
+    {
+      "name": "blank screen renders: renderDelivery",
+      "status": "PASS"
+    },
+    {
+      "name": "blank screen renders: renderCompany",
+      "status": "PASS"
+    },
+    {
+      "name": "blank screen renders: renderSafari",
+      "status": "PASS"
+    },
+    {
+      "name": "blank screen renders: renderMaps",
+      "status": "PASS"
+    },
+    {
+      "name": "blank screen renders: renderStorySettings",
+      "status": "PASS"
+    },
+    {
+      "name": "blank social/search/profile renders: Instagram",
+      "status": "PASS"
+    },
+    {
+      "name": "blank social/search/profile renders: X",
+      "status": "PASS"
+    },
+    {
+      "name": "blank social/search/profile renders: Threads",
+      "status": "PASS"
+    },
+    {
+      "name": "blank social/search/profile renders: TikTok",
+      "status": "PASS"
+    },
+    {
+      "name": "custom authored content remains opt-in and resolves its first node",
+      "status": "PASS"
+    },
+    {
+      "name": "custom episode completes without a preset manager or extra closing messages",
+      "status": "PASS"
+    },
+    {
+      "name": "reset touches only this edition state key",
+      "status": "PASS"
+    },
+    {
+      "name": "main entry pages no longer expose original character names",
+      "status": "PASS"
+    }
+  ]
+}

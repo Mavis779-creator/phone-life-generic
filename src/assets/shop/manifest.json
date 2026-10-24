@@ -1,0 +1,455 @@
+{
+  "apple-iphone": {
+    "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/iphone-17-finish-unselect-gallery-1-202509?wid=480&hei=252&fmt=jpeg&qlt=80&.v=1758739980534",
+    "file": "apple-iphone.jpg",
+    "mime": "image/jpeg",
+    "sha256": "bcf602c1fc68402f6f3d474426551abd88442665456c54775af513fa20c4c3c6"
+  },
+  "apple-ipad-air": {
+    "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/ipad-air-model-unselect-gallery-1-202405?wid=480&hei=252&fmt=jpeg&qlt=80&.v=1739381939396",
+    "file": "apple-ipad-air.jpg",
+    "mime": "image/jpeg",
+    "sha256": "0e6194267f7783d4315dae3a1fe0368072be2eb177599224405b4d02f9475844"
+  },
+  "apple-ipad-pro": {
+    "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/ipad-pro-model-select-gallery-1-202405?wid=480&hei=252&fmt=jpeg&qlt=80&.v=1713495958512",
+    "file": "apple-ipad-pro.jpg",
+    "mime": "image/jpeg",
+    "sha256": "3d93af1efe70653add2e8c24c4ab5f0aa8f66f1ecf2f2cc54e5a4057c90705bf"
+  },
+  "apple-airpods": {
+    "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/airpods-5-og-202609?wid=480&hei=252&fmt=jpeg&qlt=80&.v=1786382353126",
+    "file": "apple-airpods.jpg",
+    "mime": "image/jpeg",
+    "sha256": "daafee685b07573260253efb56d05c573da98b08e4b1490406e55f9272f6bfa7"
+  },
+  "apple-pencil": {
+    "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/MX2D3?wid=480&hei=252&fmt=jpeg&qlt=80&.v=1713841707336",
+    "file": "apple-pencil.jpg",
+    "mime": "image/jpeg",
+    "sha256": "9d4ee430b7fb4a00681582c4624c6dab7fab20b722022d4d26f66a9392dc30d6"
+  },
+  "apple-airtag": {
+    "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/airtag-og-202601?wid=480&hei=252&fmt=jpeg&qlt=80&.v=1767659928805",
+    "file": "apple-airtag.jpg",
+    "mime": "image/jpeg",
+    "sha256": "30b652979744f43284823c2a827043f5fa1e5ce5f23a7c05fd6d4e2aeb919e54"
+  },
+  "apple-macbook-air": {
+    "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/macbook-air-size-unselect-202601-gallery-1?wid=480&hei=252&fmt=jpeg&qlt=80&.v=1767638925491",
+    "file": "apple-macbook-air.jpg",
+    "mime": "image/jpeg",
+    "sha256": "8ebe92fa49191b6f3a391c8d7c8cbce62a6827cae03b80510e09b0529b6c6a12"
+  },
+  "apple-macbook-pro": {
+    "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/mac-macbook-pro-size-unselect-202601-gallery-1?wid=480&hei=252&fmt=jpeg&qlt=80&.v=1767812220981",
+    "file": "apple-macbook-pro.jpg",
+    "mime": "image/jpeg",
+    "sha256": "7b564153d2a994bd2330369a4a10f54665b40c8b293e8700d2c84fed35021094"
+  },
+  "apple-imac": {
+    "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/imac-color-unselect-202601-gallery-1?wid=480&hei=252&fmt=jpeg&qlt=80&.v=1767917121718",
+    "file": "apple-imac.jpg",
+    "mime": "image/jpeg",
+    "sha256": "de2e6e8fcb3b25de23d9bdb6f098782d7e5b85aa5d409277725e5301e4ff7d45"
+  },
+  "apple-mac-mini": {
+    "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/mac-mini-chip-unselect-202608-gallery-1?wid=480&hei=252&fmt=jpeg&qlt=80&.v=1785998455498",
+    "file": "apple-mac-mini.jpg",
+    "mime": "image/jpeg",
+    "sha256": "21984d04b2ed673f8eb143a8ac92d2d1e47b60495340aea6e86ccc2c4f27497a"
+  },
+  "samsung-10": {
+    "url": "https://images.samsung.com/kdp/goods/2026/07/03/b33ed251-9763-494d-ab6c-6159e2cd9a44.png?$480_480_PNG$",
+    "file": "samsung-10.png",
+    "mime": "image/png",
+    "sha256": "eaf47ee7cbab86315118e462e6d5bf2e96522c30c461fb4b3b649924ed2ee37a"
+  },
+  "samsung-11": {
+    "url": "https://images.samsung.com/kdp/goods/2026/07/07/195caee9-d5b8-498c-a72d-5d5b40359aba.png?$480_480_PNG$",
+    "file": "samsung-11.png",
+    "mime": "image/png",
+    "sha256": "28f6ee579ea304a3673af26b675e8e29c41447656da256aa49ef4711526c7d60"
+  },
+  "samsung-12": {
+    "url": "https://images.samsung.com/kdp/goods/2026/07/07/073ee49d-77cd-4420-87cb-fee97994d3cd.png?$480_480_PNG$",
+    "file": "samsung-12.png",
+    "mime": "image/png",
+    "sha256": "867688656b1c0e8f3242274036a46b78a811901a125b37f19a78440867f4a7ab"
+  },
+  "samsung-13": {
+    "url": "https://images.samsung.com/kdp/goods/2026/09/16/77357869-e787-46b8-bc2a-48e30aaaa959.png?$480_480_PNG$",
+    "file": "samsung-13.png",
+    "mime": "image/png",
+    "sha256": "085f8f1558905ebb4c887105cc4ec7fae3e076d3016211e768e120cf1e9ddb4e"
+  },
+  "samsung-14": {
+    "url": "https://images.samsung.com/kdp/goods/2026/09/16/71f62a97-938c-4dd4-868d-93919c342f6c.png?$480_480_PNG$",
+    "file": "samsung-14.png",
+    "mime": "image/png",
+    "sha256": "8670876d83fb9a19dcdeeda5503faa1a08c13a3af4692a2dab35c98b933f2281"
+  },
+  "samsung-15": {
+    "url": "https://images.samsung.com/kdp/goods/2026/07/01/17f76f7a-6e5c-424d-9780-c8437c23c101.png?$480_480_PNG$",
+    "file": "samsung-15.png",
+    "mime": "image/png",
+    "sha256": "81f230e41d92eabcae74750dff5d8b0fea8cc389f762e15e2a1b12c85cbf2419"
+  },
+  "samsung-16": {
+    "url": "https://images.samsung.com/kdp/goods/2026/07/01/c14ca24b-7fb9-4782-9693-95b6d42548e5.png?$480_480_PNG$",
+    "file": "samsung-16.png",
+    "mime": "image/png",
+    "sha256": "bd1042ae75f8e157c3297f47ba8cb3b76cc8b8d9f006e5b67a576dd31375e370"
+  },
+  "samsung-17": {
+    "url": "https://images.samsung.com/kdp/goods/2026/02/03/33658cb7-cbfa-4200-bc59-9ada3ee1e459.png?$480_480_PNG$",
+    "file": "samsung-17.png",
+    "mime": "image/png",
+    "sha256": "77bf5feb5e34b560b3bba0485380924b8a95254d9aa8f20f4604a10e61234374"
+  },
+  "samsung-18": {
+    "url": "https://images.samsung.com/kdp/goods/2026/02/03/75ca2f44-6013-406e-b0b3-b57086c33f2c.png?$480_480_PNG$",
+    "file": "samsung-18.png",
+    "mime": "image/png",
+    "sha256": "7689e7edc52d33d34683cb5aeaaf6bd666ab0b4de997672f15b15a12f211109d"
+  },
+  "samsung-NT960XJG-KC51G": {
+    "url": "https://images.samsung.com/kdp/goods/2026/02/05/9fa7c327-3e99-4475-b759-f24f48adb412.jpg?$480_480_PNG$",
+    "file": "samsung-NT960XJG-KC51G.png",
+    "mime": "image/png",
+    "sha256": "6103441424c0bef4050657f449f6502ecbe0c6949aff8df6ebf6e5fe431cfb30"
+  },
+  "samsung-NT960UJH-XD72Y": {
+    "url": "https://images.samsung.com/kdp/goods/2026/01/26/b1fc7e40-0544-4945-b644-fa6daecc9f8d.jpg?$480_480_PNG$",
+    "file": "samsung-NT960UJH-XD72Y.png",
+    "mime": "image/png",
+    "sha256": "cdd7ee65c2b5f4c1b5c0b5288d3a3eb28d7061344ae3b60396e1b308050c9409"
+  },
+  "lv-neverfull": {
+    "url": "https://kr.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-neverfull-mm--M46975_PM2_Front%20view.jpg",
+    "unavailable": true,
+    "reason": "Command '['curl.exe', '-sS', '-L', '--max-time', '30', '--fail', 'https://kr.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-neverfull-mm--M46975_PM2_Front%20view.jpg', '-o', 'D:\\\\again\\\\iphone\\\\CODEX_HANDOFF_IDOL_PHONE_LIFE\\\\src\\\\assets\\\\shop\\\\lv-neverfull.download']' returned non-zero exit status 22."
+  },
+  "gucci-jackie": {
+    "unavailable": true
+  },
+  "gucci-tote": {
+    "unavailable": true
+  },
+  "dior-djoy": {
+    "url": "https://assets.christiandior.com/is/image/diorprod/M0540ONGEM900_SBG_E01-1?%24r4x5_raw%24=&bfc=on&crop=0%2C0%2C4000%2C5000&hei=600&qlt=80&scale=1&wid=480",
+    "unavailable": true,
+    "reason": "Command '['curl.exe', '-sS', '-L', '--max-time', '30', '--fail', 'https://assets.christiandior.com/is/image/diorprod/M0540ONGEM900_SBG_E01-1?%24r4x5_raw%24=&bfc=on&crop=0%2C0%2C4000%2C5000&hei=600&qlt=80&scale=1&wid=480', '-o', 'D:\\\\again\\\\iphone\\\\CODEX_HANDOFF_IDOL_PHONE_LIFE\\\\src\\\\assets\\\\shop\\\\dior-djoy.download']' returned non-zero exit status 35."
+  },
+  "bv-andiamo": {
+    "url": "https://bottega-veneta.dam.kering.com/asset/6fee74b5-22c4-425b-b6cb-c9c3041a9cb6/Medium/766014V76A11702_A.jpg?v=1",
+    "file": "bv-andiamo.jpg",
+    "mime": "image/jpeg",
+    "sha256": "f9d6682ea220294ee68b4f99c103886f44c4c3f4c25d3de02820c0ea8c411b62"
+  },
+  "ysl-puffer": {
+    "url": "https://saint-laurent.dam.kering.com/asset/6c8d04d1-6f70-4815-abe5-8c072bb541e0/eCom/7593371U8073194_A.jpg?v=2",
+    "file": "ysl-puffer.jpg",
+    "mime": "image/jpeg",
+    "sha256": "8077439832b1aaa230b980d3781fb5a9715d9d7c75ece1dcec2cc945c828b687"
+  },
+  "tiffany-smile": {
+    "url": "https://media.tiffany.com/is/image/tco/74957013_PDT_MAIN1X1?fmt=webp&hei=282&wid=282",
+    "file": "tiffany-smile.webp",
+    "mime": "image/webp",
+    "sha256": "2c3026e0d733bf18e3ae96a05d80f45466c546560ccda1a90d9fc55795dfcad7"
+  },
+  "tiffany-hardwear": {
+    "unavailable": true
+  },
+  "chanel-coco": {
+    "unavailable": true
+  },
+  "apple-iphoneair": {
+    "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/iphone-air-finish-unselect-gallery-1-202509?wid=480&hei=252&fmt=jpeg&qlt=80&.v=1757665392198",
+    "file": "apple-iphoneair.jpg",
+    "mime": "image/jpeg",
+    "sha256": "c321516cc79e8e2d83f8244f03dba8e1d8d5126c45c2c7b6af360c2f2f4235f9"
+  },
+  "apple-iphoneduo": {
+    "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/iphone-duo-finish-unselect-gallery-2-202609?wid=480&hei=252&fmt=jpeg&qlt=80&.v=1788026660137",
+    "file": "apple-iphoneduo.jpg",
+    "mime": "image/jpeg",
+    "sha256": "e0774815a75e0cba253675d8d9d7f21b68c36e2e2bd4bb32e5b181ab92a5aa66"
+  },
+  "apple-18-pro": {
+    "unavailable": true
+  },
+  "apple-18-pro-max": {
+    "unavailable": true
+  },
+  "apple-watch12": {
+    "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/s12-case-unselect-gallery-1-202609_GEO_KR?wid=480&hei=252&fmt=jpeg&qlt=80&.v=1787726537738",
+    "file": "apple-watch12.jpg",
+    "mime": "image/jpeg",
+    "sha256": "a1876775c884d2fe0de4defb271d8c2582e7f99589e79b32b774a4e071a5dabd"
+  },
+  "apple-18-scenario": {
+    "unavailable": true
+  },
+  "apple-18air-scenario": {
+    "unavailable": true
+  },
+  "lv-onthego": {
+    "unavailable": true
+  },
+  "lv-neverfull-gm": {
+    "unavailable": true
+  },
+  "dior-mini": {
+    "unavailable": true
+  },
+  "dior-small": {
+    "unavailable": true
+  },
+  "dior-mini-djoy": {
+    "unavailable": true
+  },
+  "bv-mini": {
+    "unavailable": true
+  },
+  "bv-clutch": {
+    "unavailable": true
+  },
+  "ysl-loafer": {
+    "unavailable": true
+  },
+  "ysl-loulou": {
+    "unavailable": true
+  },
+  "tiffany-circle": {
+    "unavailable": true
+  },
+  "tiffany-smile-rg": {
+    "unavailable": true
+  },
+  "tiffany-note": {
+    "unavailable": true
+  },
+  "prada-buckle": {
+    "unavailable": true
+  },
+  "prada-bonnie": {
+    "unavailable": true
+  },
+  "prada-bonnie-medium": {
+    "unavailable": true
+  },
+  "hermes-scarf": {
+    "unavailable": true
+  },
+  "samsung-s26-ultra": {
+    "url": "https://images.samsung.com/kdp/goods/2026/01/30/b3a58f22-3a19-4c20-93d2-d84670e2e233.png?$480_480_PNG$",
+    "file": "samsung-s26-ultra.png",
+    "mime": "image/png",
+    "sha256": "8634e4a0200ecc4f0e04ff2e1dc6374151cfb485346c47015aee77fd0d704912"
+  },
+  "samsung-s26-plus": {
+    "url": "https://images.samsung.com/kdp/goods/2026/01/29/8a048319-ef9d-4c1a-aa35-ce0e2b6d4c15.png?$480_480_PNG$",
+    "file": "samsung-s26-plus.png",
+    "mime": "image/png",
+    "sha256": "0d78b08ae8c263d2be866d35b8ad03c87f6375342aed4addcafcf01c16679163"
+  },
+  "samsung-s26": {
+    "url": "https://images.samsung.com/kdp/goods/2026/01/29/d67557b7-4d1e-4a91-9e0e-eb5ebacc0f71.png?$480_480_PNG$",
+    "file": "samsung-s26.png",
+    "mime": "image/png",
+    "sha256": "39c437d6d5901559f21c631da1a5588c5938cf496685b603d1a80d909d8a8152"
+  },
+  "prada-carry": {
+    "url": "https://www.prada.com/content/dam/pradabkg_products/1/1BA/1BA511/ASKF0002/1BA511_ASK_F0002_V_TOO_SLF.jpg/_jcr_content/renditions/cq5dam.web.hebebed.600.600.jpg",
+    "file": "prada-carry.jpg",
+    "mime": "image/jpeg",
+    "sha256": "19fc182d5c6a043d8391ca654108b272327f750c764404f6dc9547ba03083814"
+  },
+  "prada-bonnie-handbag": {
+    "url": "https://www.prada.com/content/dam/pradabkg_products/1/1BA/1BA486/2CYRF0002/1BA486_2CYR_F0002_V_OOM_SLF.jpg/_jcr_content/renditions/cq5dam.web.hebebed.600.600.jpg",
+    "file": "prada-bonnie-handbag.jpg",
+    "mime": "image/jpeg",
+    "sha256": "fe9f4d566141e553e0bef09ab18c1a318ad67b9d36fb81399ce7ba3dae767d07"
+  },
+  "hermes-garden-party": {
+    "url": "https://assets.hermes.com/is/image/hermesproduct/051551CKCO_front_wm_101?%24product_default_bg%24=",
+    "file": "hermes-garden-party.jpg",
+    "mime": "image/jpeg",
+    "sha256": "c5885cea5150a6a41f6deab91fe2851e4afb067b7dc8069ed64d0b88abe6b136"
+  },
+  "hermes-evelyne": {
+    "url": "https://assets.hermes.com/is/image/hermesproduct/087941CK2S_front_wm_101?%24product_default_bg%24=",
+    "file": "hermes-evelyne.jpg",
+    "mime": "image/jpeg",
+    "sha256": "92aabd116d5d51c187b8ec09b0acc07d619ef51d00a39b3cee8f13de714d70ad"
+  },
+  "hermes-halzan": {
+    "url": "https://assets.hermes.com/is/image/hermesproduct/082027CC55_front_wm_101?%24product_default_bg%24=",
+    "file": "hermes-halzan.jpg",
+    "mime": "image/jpeg",
+    "sha256": "8529628d9b02228c407c29e9d66a3b1ec1acfc06b7faabd00a0b41a5fe4c2db0"
+  },
+  "hermes-2424": {
+    "url": "https://assets.hermes.com/is/image/hermesproduct/085157CKAM_front_wm_101?%24product_default_bg%24=",
+    "file": "hermes-2424.jpg",
+    "mime": "image/jpeg",
+    "sha256": "42b70db94c68cdc4387b05139d98e42efab8e668584d9af6e5f3c2c2c2ea571f"
+  },
+  "hermes-lindy-mini": {
+    "url": "https://assets.hermes.com/is/image/hermesproduct/085956CC10_front_wm_101?%24product_default_bg%24=",
+    "file": "hermes-lindy-mini.jpg",
+    "mime": "image/jpeg",
+    "sha256": "9733aefba2151f15f24fb469100f1fffc309883ef838be4d3b4115ee0b50074e"
+  },
+  "hermes-plume": {
+    "url": "https://assets.hermes.com/is/image/hermesproduct/086559CK3Q_front_wm_101?%24product_default_bg%24=",
+    "file": "hermes-plume.jpg",
+    "mime": "image/jpeg",
+    "sha256": "cc48ec7aae4986c0aefaad048311a3fe86fccb16fc38b49478b1ac3ed5f15dce"
+  },
+  "hermes-in-the-loop": {
+    "url": "https://assets.hermes.com/is/image/hermesproduct/084274CKAZ_front_wm_101?%24product_default_bg%24=",
+    "file": "hermes-in-the-loop.jpg",
+    "mime": "image/jpeg",
+    "sha256": "fc24fa62f694ea43285ef83671f94c9de4c38f158f2f1d7b7335e852e52286f3"
+  },
+  "hermes-picotin": {
+    "url": "https://assets.hermes.com/is/image/hermesproduct/060991CKH0_front_wm_101?%24product_default_bg%24=",
+    "file": "hermes-picotin.jpg",
+    "mime": "image/jpeg",
+    "sha256": "7b4746d0cf0a7820ac9911f768200ac56c7646e6b33ed6af4b982c1f77c56421"
+  },
+  "hermes-lindy26": {
+    "url": "https://assets.hermes.com/is/image/hermesproduct/073428CKH0_front_wm_101?%24product_default_bg%24=",
+    "file": "hermes-lindy26.jpg",
+    "mime": "image/jpeg",
+    "sha256": "191bada0c1cdb3b2f542b7a2f3bf1872027a36282f1159c7d2f8918044101659"
+  },
+  "hermes-avalon-throw": {
+    "url": "https://assets.hermes.com/is/image/hermesproduct/avalon-%EC%93%B0%EB%A1%9C%EC%9A%B0-%ED%94%8C%EB%9E%98%EB%93%9C--102668M%2052-worn-2-0-0-800-800_g.jpg",
+    "file": "hermes-avalon-throw.jpg",
+    "mime": "image/jpeg",
+    "sha256": "cdd37e52c3bf83280e8c7602a42cca7d98d4b978275b1aa6f1b4b231c3c89f48"
+  },
+  "hermes-brides-cushion": {
+    "url": "https://assets.hermes.com/is/image/hermesproduct/brides-de-gala-%EC%BF%A0%EC%85%98--104328M%2005-above-wm-1-0-0-800-800_g.jpg",
+    "file": "hermes-brides-cushion.jpg",
+    "mime": "image/jpeg",
+    "sha256": "bf95f6586997ad86dbc91f76d1d6fbd96710227dc23010e0196fb8d25f76904c"
+  },
+  "hermes-avalon-cushion": {
+    "url": "https://assets.hermes.com/is/image/hermesproduct/avalon-cab-%EC%BF%A0%EC%85%98--104324M%2002-front-wm-1-0-0-800-800_g.jpg",
+    "file": "hermes-avalon-cushion.jpg",
+    "mime": "image/jpeg",
+    "sha256": "09eee6c405f7cfe5484d8675a75d32439fd9b66266cf5895db5d1aecc3340241"
+  },
+  "hermes-atmos": {
+    "url": "https://assets.hermes.com/is/image/hermesproduct/atmos-%EB%AA%A9-%EB%B2%A0%EA%B0%9C--104863M%2002-above-wm-1-0-0-800-800_g.jpg",
+    "file": "hermes-atmos.jpg",
+    "mime": "image/jpeg",
+    "sha256": "cefba30d709b1591d62bfe3f8029ec454d553fcbb2c8b5dc8fad267cf9a68c42"
+  },
+  "hermes-gourmand": {
+    "url": "https://assets.hermes.com/is/image/hermesproduct/h-gourmand-%ED%94%8C%EB%9E%98%EB%93%9C--104350M%2003-flat-wm-1-0-0-800-800_g.jpg",
+    "file": "hermes-gourmand.jpg",
+    "mime": "image/jpeg",
+    "sha256": "748b44722d55a067b531b00866b0f8a5c787cbb36fa73dbc53c36163d38e8f5e"
+  },
+  "hermes-ribambelles": {
+    "url": "https://assets.hermes.com/is/image/hermesproduct/ribambelles-%EB%A8%B8%EA%B7%B8%EC%BB%B5-2%EA%B0%9C-%EC%84%B8%ED%8A%B8n%C2%B01-%26-2--066231P-front-wm-1-0-0-800-800_g.jpg",
+    "file": "hermes-ribambelles.jpg",
+    "mime": "image/jpeg",
+    "sha256": "aa18f2242089f967a42043dbbd36ad8f59ba1700c57519e1f8ba2d9969cd2e7a"
+  },
+  "hermes-hippomobile": {
+    "url": "https://assets.hermes.com/is/image/hermesproduct/hermes-hippomobile-%EB%A8%B8%EA%B7%B8%EC%BB%B5-n%C2%B03--048231P-worn-3-0-0-800-800_g.jpg",
+    "file": "hermes-hippomobile.jpg",
+    "mime": "image/jpeg",
+    "sha256": "fb0091361c04bc5b1e59f1b9434116efb296a409a41f22c9be905da7bf961572"
+  },
+  "hermes-teapot": {
+    "url": "https://assets.hermes.com/is/image/hermesproduct/tressages-equestres-%EC%A3%BC%EC%A0%84%EC%9E%90--057018P-front-wm-1-0-0-800-800_g.jpg",
+    "file": "hermes-teapot.jpg",
+    "mime": "image/jpeg",
+    "sha256": "edc3f553ab49a39dbfe8d2f4c575e9da218b71a84065066a0128f61d65a74724"
+  },
+  "hermes-vase": {
+    "url": "https://assets.hermes.com/is/image/hermesproduct/tressages-equestres-%ED%99%94%EB%B3%91--057054P-front-wm-1-0-0-800-800_g.jpg",
+    "file": "hermes-vase.jpg",
+    "mime": "image/jpeg",
+    "sha256": "81870975d2069e9f486dae57a604e7bcd1cfd43a207bc36f53d21ae4ff7599d6"
+  },
+  "hermes-passifolia": {
+    "url": "https://assets.hermes.com/is/image/hermesproduct/passifolia-%EC%BB%B5%EC%84%B8%ED%8A%B8--044017P-worn-1-0-0-800-800_g.jpg",
+    "file": "hermes-passifolia.jpg",
+    "mime": "image/jpeg",
+    "sha256": "d858ac849e66095a91bacac28c24b44cbc0e28be24c80bceebab13213cbd00f9"
+  },
+  "hermes-birkin25": {
+    "url": "https://assets.hermes.com/is/image/hermesedito/BIRKIN%20EDITO%20VP_1744?wid=767",
+    "file": "hermes-birkin25.jpg",
+    "mime": "image/jpeg",
+    "sha256": "e2a6c9e30f7b31b9fc8e9ee9654b6d35ba26d15ca31aca18eb9b7394aa8992fa"
+  },
+  "hermes-birkin35": {
+    "url": "https://assets.hermes.com/is/image/hermesedito/23_087092CKAA_241016_3019?wid=767",
+    "file": "hermes-birkin35.jpg",
+    "mime": "image/jpeg",
+    "sha256": "6e8c8c031c7d00af80a09d8bbd717c4dec3f252905bdc22c23be546270311feb"
+  },
+  "hermes-kelly25": {
+    "url": "https://assets.hermes.com/is/image/hermesedito/P_11_KELLY_PRODUIT_4?wid=767",
+    "file": "hermes-kelly25.jpg",
+    "mime": "image/jpeg",
+    "sha256": "f1f21ef9102dae049b49f4ea5682a4735e5e0e38ee4f80b5474c3f5b52d78038"
+  },
+  "hermes-kelly28": {
+    "url": "https://assets.hermes.com/is/image/hermesedito/sac_kelly_sellier?wid=767",
+    "file": "hermes-kelly28.jpg",
+    "mime": "image/jpeg",
+    "sha256": "ba1202c37bc39117c3f64c9840d32bcb417701e2d09e4c63738a0d7e091ac856"
+  },
+  "hermes-mini-kelly": {
+    "url": "https://assets.hermes.com/is/image/hermesedito/sac_kelly_II_sellier_mini?wid=767",
+    "file": "hermes-mini-kelly.jpg",
+    "mime": "image/jpeg",
+    "sha256": "037ea8d455a812162d7124212fb045d5afb4a0524ee223c1b6666759ec9ffa69"
+  },
+  "chanel-classic": {
+    "url": "https://www.chanel.com/images///c_crop%2Cw_1600%2Cg_north%2Cf_auto%2Cq_auto%3Agood%2Cdpr_1.1/w_3200/-9555564101662.jpg",
+    "unavailable": true,
+    "reason": "Command '['curl.exe', '-sS', '-L', '--max-time', '30', '--fail', 'https://www.chanel.com/images///c_crop%2Cw_1600%2Cg_north%2Cf_auto%2Cq_auto%3Agood%2Cdpr_1.1/w_3200/-9555564101662.jpg', '-o', 'D:\\\\again\\\\iphone\\\\CODEX_HANDOFF_IDOL_PHONE_LIFE\\\\src\\\\assets\\\\shop\\\\chanel-classic.download']' returned non-zero exit status 35."
+  },
+  "chanel-255": {
+    "url": "https://www.chanel.com/images///c_crop%2Cw_1600%2Cg_north%2Cf_auto%2Cq_auto%3Agood%2Cdpr_1.1/w_3200/-9555549847582.jpg",
+    "unavailable": true,
+    "reason": "Command '['curl.exe', '-sS', '-L', '--max-time', '30', '--fail', 'https://www.chanel.com/images///c_crop%2Cw_1600%2Cg_north%2Cf_auto%2Cq_auto%3Agood%2Cdpr_1.1/w_3200/-9555549847582.jpg', '-o', 'D:\\\\again\\\\iphone\\\\CODEX_HANDOFF_IDOL_PHONE_LIFE\\\\src\\\\assets\\\\shop\\\\chanel-255.download']' returned non-zero exit status 35."
+  },
+  "lv-speedy": {
+    "url": "https://kr.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-speedy-bandouliere-25--M46977_PM2_Front%20view.jpg",
+    "unavailable": true,
+    "reason": "Command '['curl.exe', '-sS', '-L', '--max-time', '30', '--fail', 'https://kr.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-speedy-bandouliere-25--M46977_PM2_Front%20view.jpg', '-o', 'D:\\\\again\\\\iphone\\\\CODEX_HANDOFF_IDOL_PHONE_LIFE\\\\src\\\\assets\\\\shop\\\\lv-speedy.download']' returned non-zero exit status 22."
+  },
+  "lv-alma": {
+    "url": "https://kr.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-alma-bb--M46990_PM2_Front%20view.jpg",
+    "unavailable": true,
+    "reason": "Command '['curl.exe', '-sS', '-L', '--max-time', '30', '--fail', 'https://kr.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-alma-bb--M46990_PM2_Front%20view.jpg', '-o', 'D:\\\\again\\\\iphone\\\\CODEX_HANDOFF_IDOL_PHONE_LIFE\\\\src\\\\assets\\\\shop\\\\lv-alma.download']' returned non-zero exit status 22."
+  },
+  "gucci-jackie1961": {
+    "url": "https://media.gucci.com/style/DarkGray_Center_0_0_490x490/1791563429/863136_AAGDJ_1000_002_100_0000_Light-1961.jpg",
+    "unavailable": true,
+    "reason": "Command '['curl.exe', '-sS', '-L', '--max-time', '30', '--fail', 'https://media.gucci.com/style/DarkGray_Center_0_0_490x490/1791563429/863136_AAGDJ_1000_002_100_0000_Light-1961.jpg', '-o', 'D:\\\\again\\\\iphone\\\\CODEX_HANDOFF_IDOL_PHONE_LIFE\\\\src\\\\assets\\\\shop\\\\gucci-jackie1961.download']' returned non-zero exit status 28."
+  },
+  "prada-galleria": {
+    "url": "https://www.prada.com/content/dam/pradabkg_products/1/1BA/1BA896/NZVF0002/1BA896_NZV_F0002_V_EOO_SLF.jpg/_jcr_content/renditions/cq5dam.web.hebebed.600.600.jpg",
+    "unavailable": true,
+    "reason": "Command '['curl.exe', '-sS', '-L', '--max-time', '30', '--fail', 'https://www.prada.com/content/dam/pradabkg_products/1/1BA/1BA896/NZVF0002/1BA896_NZV_F0002_V_EOO_SLF.jpg/_jcr_content/renditions/cq5dam.web.hebebed.600.600.jpg', '-o', 'D:\\\\again\\\\iphone\\\\CODEX_HANDOFF_IDOL_PHONE_LIFE\\\\src\\\\assets\\\\shop\\\\prada-galleria.download']' returned non-zero exit status 35."
+  },
+  "bv-jodie": {
+    "url": "https://bottega-veneta.dam.kering.com/m/1261504313b2a1/Medium-651876VCPP59143_A.jpg?v=10",
+    "unavailable": true,
+    "reason": "Command '['curl.exe', '-sS', '-L', '--max-time', '30', '--fail', 'https://bottega-veneta.dam.kering.com/m/1261504313b2a1/Medium-651876VCPP59143_A.jpg?v=10', '-o', 'D:\\\\again\\\\iphone\\\\CODEX_HANDOFF_IDOL_PHONE_LIFE\\\\src\\\\assets\\\\shop\\\\bv-jodie.download']' returned non-zero exit status 35."
+  }
+}

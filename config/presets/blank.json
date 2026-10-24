@@ -1,0 +1,173 @@
+{
+  "app": {
+    "title": "PHONE LIFE",
+    "subtitle": "从空白开始，记录你的手机生活。",
+    "hero": "生活的下一页，由你打开。",
+    "defaultPin": "0709"
+  },
+  "player": {
+    "realName": "我",
+    "stageName": "我",
+    "koreanName": "",
+    "gender": "",
+    "age": 22,
+    "nationality": "中国",
+    "company": "",
+    "groupName": "",
+    "groupType": "solo",
+    "roleInGroup": [],
+    "debutYears": 0,
+    "popularityTier": "rising",
+    "fandomName": "",
+    "languages": [
+      "中文"
+    ],
+    "publicImage": "",
+    "privatePersonality": ""
+  },
+  "accountHandle": "my_phone",
+  "profileBio": "",
+  "contacts": [],
+  "desktopPages": [
+    [
+      [
+        "calendar",
+        "日历",
+        "app-calendar"
+      ],
+      [
+        "photos",
+        "照片",
+        "app-photos"
+      ],
+      [
+        "kakao",
+        "KakaoTalk",
+        "app-kakao"
+      ],
+      [
+        "instagram",
+        "Instagram",
+        "app-instagram"
+      ],
+      [
+        "mail",
+        "邮件",
+        "app-mail"
+      ],
+      [
+        "notes",
+        "备忘录",
+        "app-notes"
+      ],
+      [
+        "safari",
+        "Safari",
+        "app-safari"
+      ],
+      [
+        "applemusic",
+        "音乐",
+        "app-applemusic"
+      ],
+      [
+        "phone",
+        "电话",
+        "app-phone"
+      ],
+      [
+        "company",
+        "生活计划",
+        "app-company"
+      ],
+      [
+        "notifications",
+        "通知中心",
+        "app-notifications"
+      ],
+      [
+        "settings",
+        "设置",
+        "app-settings"
+      ]
+    ],
+    [
+      [
+        "x",
+        "X",
+        "app-x"
+      ],
+      [
+        "threads",
+        "Threads",
+        "app-threads"
+      ],
+      [
+        "tiktok",
+        "TikTok",
+        "app-tiktok"
+      ],
+      [
+        "weverse",
+        "Weverse",
+        "app-weverse"
+      ],
+      [
+        "youtube",
+        "YouTube",
+        "app-youtube"
+      ],
+      [
+        "camera",
+        "相机",
+        "app-camera"
+      ],
+      [
+        "maps",
+        "地图",
+        "app-maps"
+      ],
+      [
+        "gmail",
+        "Gmail",
+        "app-gmail"
+      ],
+      [
+        "files",
+        "文件",
+        "app-files"
+      ],
+      [
+        "voicememos",
+        "语音备忘录",
+        "app-voicememos"
+      ],
+      [
+        "reminders",
+        "提醒事项",
+        "app-reminders"
+      ],
+      [
+        "shop",
+        "商城",
+        "app-shop"
+      ],
+      [
+        "delivery",
+        "食光外卖",
+        "app-delivery"
+      ]
+    ]
+  ],
+  "scenarioFile": null,
+  "wallet": {
+    "initialBalance": 50000000,
+    "addressLabel": "家",
+    "address": "首尔 · 生活区门口（情景地址）"
+  },
+  "assets": {
+    "avatar": "",
+    "wallpaper": ""
+  },
+  "calendar": []
+}

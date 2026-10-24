@@ -1,0 +1,2017 @@
+[
+  {
+    "id": "apple-iphone",
+    "brand": "Apple",
+    "name": "iPhone 17",
+    "category": "手机",
+    "variants": [
+      {
+        "id": "MG6L4",
+        "label": "iPhone 17 256GB Mist Blue",
+        "price": 1450000
+      },
+      {
+        "id": "MG6M4",
+        "label": "iPhone 17 256GB Lavender",
+        "price": 1450000
+      },
+      {
+        "id": "MG6J4",
+        "label": "iPhone 17 256GB Black",
+        "price": 1450000
+      },
+      {
+        "id": "MG6K4",
+        "label": "iPhone 17 256GB White",
+        "price": 1450000
+      },
+      {
+        "id": "MG6Q4",
+        "label": "iPhone 17 512GB White",
+        "price": 1750000
+      },
+      {
+        "id": "MG6P4",
+        "label": "iPhone 17 512GB Black",
+        "price": 1750000
+      },
+      {
+        "id": "MG6N4",
+        "label": "iPhone 17 256GB Sage",
+        "price": 1450000
+      },
+      {
+        "id": "MG6U4",
+        "label": "iPhone 17 512GB Lavender",
+        "price": 1750000
+      },
+      {
+        "id": "MG6V4",
+        "label": "iPhone 17 512GB Sage",
+        "price": 1750000
+      },
+      {
+        "id": "MG6T4",
+        "label": "iPhone 17 512GB Mist Blue",
+        "price": 1750000
+      }
+    ],
+    "source": "https://www.apple.com/kr/shop/buy-iphone/iphone-17",
+    "imageUrl": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/iphone-17-finish-unselect-gallery-1-202509?wid=1200&hei=630&fmt=jpeg&qlt=95&.v=1758739980534",
+    "priceBasis": "韩国官网公开售价",
+    "checkedAt": "2026-10-24",
+    "evidence": "商品 analytics.products 中逐 SKU 的 name / partNumber / price.fullPrice；非汇率换算。"
+  },
+  {
+    "id": "apple-ipad-air",
+    "brand": "Apple",
+    "name": "iPad Air 11 英寸",
+    "category": "平板",
+    "variants": [
+      {
+        "id": "MH3A4",
+        "label": "11-inch iPad Air Wi‑Fi 512GB - Space Gray",
+        "price": 1769000
+      },
+      {
+        "id": "MH3G4",
+        "label": "11-inch iPad Air Wi‑Fi 1TB - Space Gray",
+        "price": 2269000
+      },
+      {
+        "id": "MH304",
+        "label": "11-inch iPad Air Wi‑Fi 128GB - Space Gray",
+        "price": 1249000
+      },
+      {
+        "id": "MH354",
+        "label": "11-inch iPad Air Wi‑Fi 256GB - Space Gray",
+        "price": 1419000
+      }
+    ],
+    "source": "https://www.apple.com/kr/shop/buy-ipad/ipad-air",
+    "imageUrl": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/ipad-air-model-unselect-gallery-1-202405?wid=1200&hei=630&fmt=jpeg&qlt=95&.v=1739381939396",
+    "priceBasis": "韩国官网公开售价",
+    "checkedAt": "2026-10-24",
+    "evidence": "商品 analytics.products 中逐 SKU 的 name / partNumber / price.fullPrice；非汇率换算。"
+  },
+  {
+    "id": "apple-ipad-pro",
+    "brand": "Apple",
+    "name": "iPad Pro 11 英寸",
+    "category": "平板",
+    "variants": [
+      {
+        "id": "MDWK4",
+        "label": "11-inch iPad Pro Wi‑Fi 256GB with standard glass - Space Black",
+        "price": 1999000
+      },
+      {
+        "id": "MDWM4",
+        "label": "11-inch iPad Pro Wi‑Fi 512GB with standard glass - Space Black",
+        "price": 2349000
+      },
+      {
+        "id": "MDWP4",
+        "label": "11-inch iPad Pro Wi‑Fi 1TB with standard glass - Space Black",
+        "price": 3049000
+      }
+    ],
+    "source": "https://www.apple.com/kr/shop/buy-ipad/ipad-pro",
+    "imageUrl": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/ipad-pro-model-select-gallery-1-202405?wid=1200&hei=630&fmt=jpeg&qlt=95&.v=1713495958512",
+    "priceBasis": "韩国官网公开售价",
+    "checkedAt": "2026-10-24",
+    "evidence": "商品 analytics.products 中逐 SKU 的 name / partNumber / price.fullPrice；非汇率换算。"
+  },
+  {
+    "id": "apple-airpods",
+    "brand": "Apple",
+    "name": "AirPods 5",
+    "category": "耳机",
+    "variants": [
+      {
+        "id": "MKFW4",
+        "label": "AirPods 5",
+        "price": 199000
+      },
+      {
+        "id": "MKFT4",
+        "label": "AirPods 5 with Wireless Charging Case",
+        "price": 229000
+      }
+    ],
+    "source": "https://www.apple.com/kr/shop/buy-airpods/airpods-5",
+    "imageUrl": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/airpods-5-og-202609?wid=1200&hei=630&fmt=jpeg&qlt=95&.v=1786382353126",
+    "priceBasis": "韩国官网公开售价",
+    "checkedAt": "2026-10-24",
+    "evidence": "商品 analytics.products 中逐 SKU 的 name / partNumber / price.fullPrice；非汇率换算。"
+  },
+  {
+    "id": "apple-pencil",
+    "brand": "Apple",
+    "name": "Apple Pencil Pro",
+    "category": "配件",
+    "variants": [
+      {
+        "id": "MX2D3",
+        "label": "Apple Pencil Pro",
+        "price": 195000
+      }
+    ],
+    "source": "https://www.apple.com/kr/shop/product/mx2d3kh/a/apple-pencil-pro",
+    "imageUrl": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/MX2D3?wid=1200&hei=630&fmt=jpeg&qlt=95&.v=1713841707336",
+    "priceBasis": "韩国官网公开售价",
+    "checkedAt": "2026-10-24",
+    "evidence": "商品 analytics.products 中逐 SKU 的 name / partNumber / price.fullPrice；非汇率换算。"
+  },
+  {
+    "id": "apple-airtag",
+    "brand": "Apple",
+    "name": "AirTag",
+    "category": "配件",
+    "variants": [
+      {
+        "id": "MFE94",
+        "label": "AirTag",
+        "price": 49000
+      },
+      {
+        "id": "MFEA4",
+        "label": "AirTag 4 pack",
+        "price": 169000
+      }
+    ],
+    "source": "https://www.apple.com/kr/shop/buy-airtag/airtag",
+    "imageUrl": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/airtag-og-202601?wid=1200&hei=630&fmt=jpeg&qlt=95&.v=1767659928805",
+    "priceBasis": "韩国官网公开售价",
+    "checkedAt": "2026-10-24",
+    "evidence": "商品 analytics.products 中逐 SKU 的 name / partNumber / price.fullPrice；非汇率换算。"
+  },
+  {
+    "id": "apple-macbook-air",
+    "brand": "Apple",
+    "name": "MacBook Air",
+    "category": "电脑",
+    "variants": [
+      {
+        "id": "MDHE4KH-A",
+        "label": "13inch · midnight · 10 · 8 · 韩国官网标准配置 MDHE4KH/A",
+        "price": 2190000
+      },
+      {
+        "id": "MDH74KH-A",
+        "label": "13inch · silver · 10 · 8 · 韩国官网标准配置 MDH74KH/A",
+        "price": 2190000
+      }
+    ],
+    "source": "https://www.apple.com/kr/shop/buy-mac/macbook-air",
+    "imageUrl": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/macbook-air-size-unselect-202601-gallery-1?wid=1200&hei=630&fmt=jpeg&qlt=95&.v=1767638925491",
+    "priceBasis": "韩国官网公开售价",
+    "checkedAt": "2026-10-24",
+    "evidence": "productSelectionData.products 的 PRECONFIGURED_BTR 标准机型及匹配 priceKey 的 mainDisplayValues.prices.amount；不含选配加价。"
+  },
+  {
+    "id": "apple-macbook-pro",
+    "brand": "Apple",
+    "name": "MacBook Pro",
+    "category": "电脑",
+    "variants": [
+      {
+        "id": "MGDR4KH-A",
+        "label": "14inch · spaceblack · standard · m5pro · 15 · 16 · 韩国官网标准配置 MGDR4KH/A",
+        "price": 4190000
+      },
+      {
+        "id": "MGEA4KH-A",
+        "label": "16inch · spaceblack · standard · m5pro · 18 · 20 · 韩国官网标准配置 MGEA4KH/A",
+        "price": 4990000
+      }
+    ],
+    "source": "https://www.apple.com/kr/shop/buy-mac/macbook-pro",
+    "imageUrl": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/mac-macbook-pro-size-unselect-202601-gallery-1?wid=1200&hei=630&fmt=jpeg&qlt=95&.v=1767812220981",
+    "priceBasis": "韩国官网公开售价",
+    "checkedAt": "2026-10-24",
+    "evidence": "productSelectionData.products 的 PRECONFIGURED_BTR 标准机型及匹配 priceKey 的 mainDisplayValues.prices.amount；不含选配加价。"
+  },
+  {
+    "id": "apple-imac",
+    "brand": "Apple",
+    "name": "iMac",
+    "category": "电脑",
+    "variants": [
+      {
+        "id": "MWUE3KH-A",
+        "label": "green · 8 · 8 · 韩国官网标准配置 MWUE3KH/A",
+        "price": 2490000
+      },
+      {
+        "id": "MWUU3KH-A",
+        "label": "silver · 10 · 10 · 韩国官网标准配置 MWUU3KH/A",
+        "price": 2890000
+      }
+    ],
+    "source": "https://www.apple.com/kr/shop/buy-mac/imac",
+    "imageUrl": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/imac-color-unselect-202601-gallery-1?wid=1200&hei=630&fmt=jpeg&qlt=95&.v=1767917121718",
+    "priceBasis": "韩国官网公开售价",
+    "checkedAt": "2026-10-24",
+    "evidence": "productSelectionData.products 的 PRECONFIGURED_BTR 标准机型及匹配 priceKey 的 mainDisplayValues.prices.amount；不含选配加价。"
+  },
+  {
+    "id": "apple-mac-mini",
+    "brand": "Apple",
+    "name": "Mac mini",
+    "category": "电脑",
+    "variants": [
+      {
+        "id": "MHQK4KH-A",
+        "label": "m6 · 12 · 12 · 韩国官网标准配置 MHQK4KH/A",
+        "price": 1499000
+      },
+      {
+        "id": "MHQN4KH-A",
+        "label": "m5pro · 15 · 16 · 韩国官网标准配置 MHQN4KH/A",
+        "price": 2990000
+      }
+    ],
+    "source": "https://www.apple.com/kr/shop/buy-mac/mac-mini",
+    "imageUrl": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/mac-mini-chip-unselect-202608-gallery-1?wid=1200&hei=630&fmt=jpeg&qlt=95&.v=1785998455498",
+    "priceBasis": "韩国官网公开售价",
+    "checkedAt": "2026-10-24",
+    "evidence": "productSelectionData.products 的 PRECONFIGURED_BTR 标准机型及匹配 priceKey 的 mainDisplayValues.prices.amount；不含选配加价。"
+  },
+  {
+    "id": "samsung-10",
+    "brand": "Samsung",
+    "name": "Galaxy Z Fold8 Ultra",
+    "category": "手机",
+    "variants": [
+      {
+        "id": "listed",
+        "label": "갤럭시 Z 폴드8 울트라 자급제 · 官网展示款",
+        "price": 2660000
+      }
+    ],
+    "source": "https://www.samsung.com/sec/smartphones/galaxy-z-fold8-ultra/",
+    "imageUrl": "https://images.samsung.com/kdp/goods/2026/07/03/b33ed251-9763-494d-ab6c-6159e2cd9a44.png",
+    "priceBasis": "韩国官网商品列表价",
+    "checkedAt": "2026-10-24",
+    "evidence": "JSON-LD Product.offers 的 KRW price；为查询时列表展示款，未套用信用卡专享折扣。"
+  },
+  {
+    "id": "samsung-11",
+    "brand": "Samsung",
+    "name": "Galaxy Z Fold8",
+    "category": "手机",
+    "variants": [
+      {
+        "id": "listed",
+        "label": "갤럭시 Z 폴드8 자급제 · 官网展示款",
+        "price": 2378000
+      }
+    ],
+    "source": "https://www.samsung.com/sec/smartphones/galaxy-z-fold8/",
+    "imageUrl": "https://images.samsung.com/kdp/goods/2026/07/07/195caee9-d5b8-498c-a72d-5d5b40359aba.png",
+    "priceBasis": "韩国官网商品列表价",
+    "checkedAt": "2026-10-24",
+    "evidence": "JSON-LD Product.offers 的 KRW price；为查询时列表展示款，未套用信用卡专享折扣。"
+  },
+  {
+    "id": "samsung-12",
+    "brand": "Samsung",
+    "name": "Galaxy Z Flip8",
+    "category": "手机",
+    "variants": [
+      {
+        "id": "listed",
+        "label": "갤럭시 Z 플립8 자급제 · 官网展示款",
+        "price": 1760800
+      }
+    ],
+    "source": "https://www.samsung.com/sec/smartphones/galaxy-z-flip8/",
+    "imageUrl": "https://images.samsung.com/kdp/goods/2026/07/07/073ee49d-77cd-4420-87cb-fee97994d3cd.png",
+    "priceBasis": "韩国官网商品列表价",
+    "checkedAt": "2026-10-24",
+    "evidence": "JSON-LD Product.offers 的 KRW price；为查询时列表展示款，未套用信用卡专享折扣。"
+  },
+  {
+    "id": "samsung-13",
+    "brand": "Samsung",
+    "name": "Galaxy Tab S12 Ultra · Wi-Fi",
+    "category": "平板",
+    "variants": [
+      {
+        "id": "listed",
+        "label": "갤럭시 탭 S12 울트라 (Wi-Fi) · 官网展示款",
+        "price": 1899700
+      }
+    ],
+    "source": "https://www.samsung.com/sec/tablets/galaxy-tab-s12-ultra/",
+    "imageUrl": "https://images.samsung.com/kdp/goods/2026/09/16/77357869-e787-46b8-bc2a-48e30aaaa959.png",
+    "priceBasis": "韩国官网商品列表价",
+    "checkedAt": "2026-10-24",
+    "evidence": "JSON-LD Product.offers 的 KRW price；为查询时列表展示款，未套用信用卡专享折扣。"
+  },
+  {
+    "id": "samsung-14",
+    "brand": "Samsung",
+    "name": "Galaxy Tab S12+ · Wi-Fi",
+    "category": "平板",
+    "variants": [
+      {
+        "id": "listed",
+        "label": "갤럭시 탭 S12+ (Wi-Fi) · 官网展示款",
+        "price": 1549900
+      }
+    ],
+    "source": "https://www.samsung.com/sec/tablets/galaxy-tab-s12-plus/",
+    "imageUrl": "https://images.samsung.com/kdp/goods/2026/09/16/71f62a97-938c-4dd4-868d-93919c342f6c.png",
+    "priceBasis": "韩国官网商品列表价",
+    "checkedAt": "2026-10-24",
+    "evidence": "JSON-LD Product.offers 的 KRW price；为查询时列表展示款，未套用信用卡专享折扣。"
+  },
+  {
+    "id": "samsung-15",
+    "brand": "Samsung",
+    "name": "Galaxy Watch9 · 40mm 蓝牙版",
+    "category": "穿戴",
+    "variants": [
+      {
+        "id": "listed",
+        "label": "갤럭시 워치9 (블루투스, 40mm) · 官网展示款",
+        "price": 474000
+      }
+    ],
+    "source": "https://www.samsung.com/sec/watches/galaxy-watch/galaxy-watch9/",
+    "imageUrl": "https://images.samsung.com/kdp/goods/2026/07/01/17f76f7a-6e5c-424d-9780-c8437c23c101.png",
+    "priceBasis": "韩国官网商品列表价",
+    "checkedAt": "2026-10-24",
+    "evidence": "JSON-LD Product.offers 的 KRW price；为查询时列表展示款，未套用信用卡专享折扣。"
+  },
+  {
+    "id": "samsung-16",
+    "brand": "Samsung",
+    "name": "Galaxy Watch Ultra2 · 47mm LTE",
+    "category": "穿戴",
+    "variants": [
+      {
+        "id": "listed",
+        "label": "갤럭시 워치 울트라2 (LTE 자급제, 47mm) · 官网展示款",
+        "price": 920600
+      }
+    ],
+    "source": "https://www.samsung.com/sec/watches/galaxy-watch/galaxy-watch-ultra2/",
+    "imageUrl": "https://images.samsung.com/kdp/goods/2026/07/01/c14ca24b-7fb9-4782-9693-95b6d42548e5.png",
+    "priceBasis": "韩国官网商品列表价",
+    "checkedAt": "2026-10-24",
+    "evidence": "JSON-LD Product.offers 的 KRW price；为查询时列表展示款，未套用信用卡专享折扣。"
+  },
+  {
+    "id": "samsung-17",
+    "brand": "Samsung",
+    "name": "Galaxy Buds4 Pro",
+    "category": "耳机",
+    "variants": [
+      {
+        "id": "listed",
+        "label": "갤럭시 버즈4 프로 · 官网展示款",
+        "price": 323100
+      }
+    ],
+    "source": "https://www.samsung.com/sec/buds/galaxy-buds/galaxy-buds4-pro/",
+    "imageUrl": "https://images.samsung.com/kdp/goods/2026/02/03/33658cb7-cbfa-4200-bc59-9ada3ee1e459.png",
+    "priceBasis": "韩国官网商品列表价",
+    "checkedAt": "2026-10-24",
+    "evidence": "JSON-LD Product.offers 的 KRW price；为查询时列表展示款，未套用信用卡专享折扣。"
+  },
+  {
+    "id": "samsung-18",
+    "brand": "Samsung",
+    "name": "Galaxy Buds4",
+    "category": "耳机",
+    "variants": [
+      {
+        "id": "listed",
+        "label": "갤럭시 버즈4 · 官网展示款",
+        "price": 233100
+      }
+    ],
+    "source": "https://www.samsung.com/sec/buds/galaxy-buds/galaxy-buds4/",
+    "imageUrl": "https://images.samsung.com/kdp/goods/2026/02/03/75ca2f44-6013-406e-b0b3-b57086c33f2c.png",
+    "priceBasis": "韩国官网商品列表价",
+    "checkedAt": "2026-10-24",
+    "evidence": "JSON-LD Product.offers 的 KRW price；为查询时列表展示款，未套用信用卡专享折扣。"
+  },
+  {
+    "id": "samsung-NT960XJG-KC51G",
+    "brand": "Samsung",
+    "name": "Galaxy Book6 Pro · 16 英寸",
+    "category": "电脑",
+    "variants": [
+      {
+        "id": "NT960XJG-KC51G",
+        "label": "갤럭시 북6 프로|그레이|Windows 11 Home|16GB|512GB|40.6 cm|Intel® Core™ Ultra 5 processor 338H|Intel® Arc™ Graphics (16인치-3)",
+        "price": 3110000
+      }
+    ],
+    "source": "https://www.samsung.com/sec/galaxybook/galaxy-book6-series/buy/?modelCode=NT960XJG-KC51G",
+    "imageUrl": "https://images.samsung.com/kdp/goods/2026/02/05/9fa7c327-3e99-4475-b759-f24f48adb412.jpg",
+    "priceBasis": "韩国官网逐型号标价",
+    "checkedAt": "2026-10-24",
+    "evidence": "购买页 ProductGroup.hasVariant 中匹配型号的完整配置及 offers.price；未套用卡专享折扣。"
+  },
+  {
+    "id": "samsung-NT960UJH-XD72Y",
+    "brand": "Samsung",
+    "name": "Galaxy Book6 Ultra · 16 英寸",
+    "category": "电脑",
+    "variants": [
+      {
+        "id": "NT960UJH-XD72Y",
+        "label": "갤럭시 북6 울트라|그레이|Windows 11 Home|32GB|1TB|40.6 cm|Intel® Core™ Ultra 7 processor 356H|Nvidia® GeForce RTX™ 5070",
+        "price": 5830000
+      }
+    ],
+    "source": "https://www.samsung.com/sec/galaxybook/galaxy-book6-series/buy/?modelCode=NT960UJH-XD72Y",
+    "imageUrl": "https://images.samsung.com/kdp/goods/2026/01/26/b1fc7e40-0544-4945-b644-fa6daecc9f8d.jpg",
+    "priceBasis": "韩国官网逐型号标价",
+    "checkedAt": "2026-10-24",
+    "evidence": "购买页 ProductGroup.hasVariant 中匹配型号的完整配置及 offers.price；未套用卡专享折扣。"
+  },
+  {
+    "id": "lv-neverfull",
+    "brand": "Louis Vuitton",
+    "name": "Neverfull MM",
+    "category": "包袋",
+    "variants": [
+      {
+        "id": "M46975",
+        "label": "Monogram · Rose Beige 内衬 · M46975",
+        "price": 2910000
+      }
+    ],
+    "source": "https://kr.louisvuitton.com/kor-kr/products/neverfull-mm-monogram-nvprod5350101v/M46975",
+    "imageUrl": "https://kr.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-neverfull-mm--M46975_PM2_Front%20view.jpg",
+    "priceBasis": "韩国官网公开售价",
+    "checkedAt": "2026-10-24",
+    "evidence": "韩国商品页 M46975，₩2,910,000。官网显示当时无现货；本应用库存仅为情景库存。",
+    "classic": true,
+    "aliases": [
+      "Neverfull",
+      "购物袋"
+    ]
+  },
+  {
+    "id": "gucci-jackie",
+    "brand": "Gucci",
+    "name": "Jackie Slim 中号肩背包",
+    "category": "包袋",
+    "variants": [
+      {
+        "id": "863137AAGFZ1000",
+        "label": "手工处理黑色皮革 · 863137AAGFZ1000",
+        "price": 3300000
+      }
+    ],
+    "source": "https://www.gucci.com/kr/ko/pr/women/handbags/shoulder-bags-for-women/half-moon-bags-for-women/jackie-slim-medium-shoulder-bag-p-863137AAGFZ1000",
+    "imageUrl": "",
+    "priceBasis": "韩国官网公开售价",
+    "checkedAt": "2026-10-24",
+    "evidence": "韩国具体商品搜索索引显示 ₩3,300,000；复核了款号与黑色皮革，不将同系列其他材质价格混用。"
+  },
+  {
+    "id": "gucci-tote",
+    "brand": "Gucci",
+    "name": "Jackie 中号托特包",
+    "category": "包袋",
+    "variants": [
+      {
+        "id": "867015FAFV29651",
+        "label": "Sand / Brown GG 帆布 · 867015FAFV29651",
+        "price": 3300000
+      }
+    ],
+    "source": "https://www.gucci.com/kr/ko/pr/women/handbags/tote-bags-for-women/gucci-jackie-medium-tote-bag-p-867015FAFV29651",
+    "imageUrl": "",
+    "priceBasis": "韩国官网公开售价",
+    "checkedAt": "2026-10-24",
+    "evidence": "韩国具体商品页公开索引 ₩3,300,000。"
+  },
+  {
+    "id": "dior-djoy",
+    "brand": "Dior",
+    "name": "Lady D-Joy 中号手袋",
+    "category": "包袋",
+    "variants": [
+      {
+        "id": "M0540ONGE_M900",
+        "label": "黑色 Cannage 羊皮 · M0540ONGE_M900",
+        "price": 7900000
+      }
+    ],
+    "source": "https://www.dior.com/ko_kr/fashion/products/M0540ONGE_M900",
+    "imageUrl": "https://assets.christiandior.com/is/image/diorprod/M0540ONGEM900_SBG_E01-1?%24r4x5_raw%24=&bfc=on&crop=0%2C0%2C4000%2C5000&hei=600&qlt=80&scale=1&wid=480",
+    "priceBasis": "韩国官网公开售价",
+    "checkedAt": "2026-10-24",
+    "evidence": "韩国官网全部手袋第2页，Lady D-Joy 미디엄 백 블랙 까나쥬 양가죽 ₩7,900,000，并跟进了该款商品链接。"
+  },
+  {
+    "id": "bv-andiamo",
+    "brand": "Bottega Veneta",
+    "name": "Small Andiamo",
+    "category": "包袋",
+    "variants": [
+      {
+        "id": "766014V76A11702",
+        "label": "Glacier · 编织麂皮与山羊皮",
+        "price": 7100000
+      }
+    ],
+    "source": "https://www.bottegaveneta.com/ko-kr/스몰-안디아모-글라씨에-814400132.html",
+    "imageUrl": "https://bottega-veneta.dam.kering.com/asset/6fee74b5-22c4-425b-b6cb-c9c3041a9cb6/Medium/766014V76A11702_A.jpg?v=1",
+    "priceBasis": "韩国官网公开售价",
+    "checkedAt": "2026-10-24",
+    "evidence": "韩国具体商品页 Glacier Small Andiamo ₩7,100,000；图为同款第一张官方商品图。"
+  },
+  {
+    "id": "ysl-puffer",
+    "brand": "Saint Laurent",
+    "name": "Toy Puffer 肩背包",
+    "category": "包袋",
+    "variants": [
+      {
+        "id": "7593371U8073194",
+        "label": "棕色麂皮 · 7593371U8073194",
+        "price": 3490000
+      }
+    ],
+    "source": "https://www.ysl.com/ko-kr/pr/스웨이드%20소재의%20토이%20PUFFER-7593371U8073194.html",
+    "imageUrl": "https://saint-laurent.dam.kering.com/asset/6c8d04d1-6f70-4815-abe5-8c072bb541e0/eCom/7593371U8073194_A.jpg?v=2",
+    "priceBasis": "韩国官网公开售价",
+    "checkedAt": "2026-10-24",
+    "evidence": "韩国具体商品页棕色麂皮 Toy Puffer ₩3,490,000。"
+  },
+  {
+    "id": "tiffany-smile",
+    "brand": "Tiffany & Co.",
+    "name": "T Smile 小号项链",
+    "category": "珠宝",
+    "variants": [
+      {
+        "id": "1364184611",
+        "label": "18K 黄金 · 镶钻 · 小号",
+        "price": 3490000
+      }
+    ],
+    "source": "https://www.tiffany.kr/jewelry/necklaces-pendants/tiffany-t-18k-yellow-gold-diamond-necklaces-pendants-1364184611.html",
+    "imageUrl": "https://media.tiffany.com/is/image/tco/74957013_PDT_MAIN1X1?fmt=webp&hei=282&wid=282",
+    "priceBasis": "韩国官网公开售价",
+    "checkedAt": "2026-10-24",
+    "evidence": "韩国具体商品页 3,490,000원；黄金镶钻款，不混用无钻款价格。"
+  },
+  {
+    "id": "tiffany-hardwear",
+    "brand": "Tiffany & Co.",
+    "name": "HardWear 小号链节手链",
+    "category": "珠宝",
+    "variants": [
+      {
+        "id": "1366375988",
+        "label": "18K 玫瑰金 · 小号链节",
+        "price": 11150000
+      }
+    ],
+    "source": "https://www.tiffany.kr/jewelry/bracelets/tiffany-hardwear-18k-rose-gold-bracelets-1366375988.html",
+    "imageUrl": "",
+    "priceBasis": "韩国官网公开售价",
+    "checkedAt": "2026-10-24",
+    "evidence": "韩国具体商品页 11,150,000원；玫瑰金款。"
+  },
+  {
+    "id": "chanel-coco",
+    "brand": "CHANEL",
+    "name": "COCO MADEMOISELLE 香水",
+    "category": "香氛",
+    "variants": [
+      {
+        "id": "116520",
+        "label": "Eau de Parfum · 100 ml · 116520",
+        "price": 286000
+      }
+    ],
+    "source": "https://www.chanel.com/kr/fragrance/p/116520/coco-mademoiselle-eau-de-parfum-spray/",
+    "imageUrl": "",
+    "priceBasis": "韩国官网公开售价",
+    "checkedAt": "2026-10-24",
+    "evidence": "韩国具体商品页100ml 286,000원；未采用推荐商品栏的其他规格价格。"
+  },
+  {
+    "id": "apple-iphoneair",
+    "brand": "Apple",
+    "name": "iPhone Air",
+    "category": "手机",
+    "variants": [
+      {
+        "id": "MG2U4",
+        "label": "iPhone Air 512GB Light Gold",
+        "price": 2090000
+      },
+      {
+        "id": "MG2V4",
+        "label": "iPhone Air 512GB Sky Blue",
+        "price": 2090000
+      },
+      {
+        "id": "MG2T4",
+        "label": "iPhone Air 512GB Cloud White",
+        "price": 2090000
+      },
+      {
+        "id": "MG2Y4",
+        "label": "iPhone Air 1TB Light Gold",
+        "price": 2690000
+      },
+      {
+        "id": "MG2W4",
+        "label": "iPhone Air 1TB Space Black",
+        "price": 2690000
+      },
+      {
+        "id": "MG2X4",
+        "label": "iPhone Air 1TB Cloud White",
+        "price": 2690000
+      },
+      {
+        "id": "MG2M4",
+        "label": "iPhone Air 256GB Cloud White",
+        "price": 1790000
+      },
+      {
+        "id": "MG2L4",
+        "label": "iPhone Air 256GB Space Black",
+        "price": 1790000
+      }
+    ],
+    "source": "https://www.apple.com/kr/shop/buy-iphone/iphone-air",
+    "imageUrl": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/iphone-air-finish-unselect-gallery-1-202509?wid=1200&hei=630&fmt=jpeg&qlt=95&.v=1757665392198",
+    "priceBasis": "韩国官网公开售价",
+    "checkedAt": "2026-10-24",
+    "evidence": "韩国官网 analytics.products 中匹配容量、颜色的 fullPrice。"
+  },
+  {
+    "id": "apple-iphoneduo",
+    "brand": "Apple",
+    "name": "iPhone Duo",
+    "category": "手机",
+    "variants": [
+      {
+        "id": "MK2H4",
+        "label": "iPhone Duo 1TB Star White",
+        "price": 4190000
+      },
+      {
+        "id": "MK2J4",
+        "label": "iPhone Duo 1TB Night Sky",
+        "price": 4190000
+      },
+      {
+        "id": "MK2F4",
+        "label": "iPhone Duo 512GB Star White",
+        "price": 3590000
+      },
+      {
+        "id": "MK2G4",
+        "label": "iPhone Duo 512GB Night Sky",
+        "price": 3590000
+      },
+      {
+        "id": "MK2D4",
+        "label": "iPhone Duo 256GB Star White",
+        "price": 3290000
+      },
+      {
+        "id": "MK2E4",
+        "label": "iPhone Duo 256GB Night Sky",
+        "price": 3290000
+      },
+      {
+        "id": "MK2K4",
+        "label": "iPhone Duo 2TB Star White",
+        "price": 5090000
+      },
+      {
+        "id": "MK2L4",
+        "label": "iPhone Duo 2TB Night Sky",
+        "price": 5090000
+      }
+    ],
+    "source": "https://www.apple.com/kr/shop/buy-iphone/iphone-duo",
+    "imageUrl": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/iphone-duo-finish-unselect-gallery-2-202609?wid=1200&hei=630&fmt=jpeg&qlt=95&.v=1788026660137",
+    "priceBasis": "韩国官网公开售价",
+    "checkedAt": "2026-10-24",
+    "evidence": "韩国官网 analytics.products 中匹配容量、颜色的 fullPrice。"
+  },
+  {
+    "id": "apple-18-pro",
+    "brand": "Apple",
+    "name": "iPhone 18 Pro",
+    "category": "手机",
+    "variants": [
+      {
+        "id": "pro-1tb",
+        "label": "1TB · Black",
+        "price": 2890000
+      },
+      {
+        "id": "pro-2tb",
+        "label": "2TB · Black",
+        "price": 3790000
+      }
+    ],
+    "source": "https://www.apple.com/kr/shop/buy-iphone/iphone-18-pro",
+    "imageUrl": "",
+    "priceBasis": "韩国官网公开售价",
+    "checkedAt": "2026-10-24",
+    "evidence": "2026-10-24 韩国官网商品页逐配置列价；Pro 1TB/2TB 黑色 ₩2,890,000/₩3,790,000；Pro Max ₩3,090,000/₩3,990,000。"
+  },
+  {
+    "id": "apple-18-pro-max",
+    "brand": "Apple",
+    "name": "iPhone 18 Pro Max",
+    "category": "手机",
+    "variants": [
+      {
+        "id": "pro-max-1tb",
+        "label": "1TB · Black",
+        "price": 3090000
+      },
+      {
+        "id": "pro-max-2tb",
+        "label": "2TB · Black",
+        "price": 3990000
+      }
+    ],
+    "source": "https://www.apple.com/kr/shop/buy-iphone/iphone-18-pro",
+    "imageUrl": "",
+    "priceBasis": "韩国官网公开售价",
+    "checkedAt": "2026-10-24",
+    "evidence": "2026-10-24 韩国官网商品页逐配置列价；Pro 1TB/2TB 黑色 ₩2,890,000/₩3,790,000；Pro Max ₩3,090,000/₩3,990,000。"
+  },
+  {
+    "id": "apple-watch12",
+    "brand": "Apple",
+    "name": "Apple Watch Series 12",
+    "category": "穿戴",
+    "variants": [
+      {
+        "id": "s12-42-gps-nike",
+        "label": "42mm GPS · 深空灰铝金属 · After Dark Black Nike 运动表带",
+        "price": 599000
+      }
+    ],
+    "source": "https://www.apple.com/kr/shop/buy-watch/apple-watch/42mm-gps-space-gray-%EC%95%8C%EB%A3%A8%EB%AF%B8%EB%8A%84-%EC%95%A0%ED%94%84%ED%84%B0-%EB%8B%A4%ED%81%AC-%EB%B8%94%EB%9E%99-nike-%EC%8A%A4%ED%8F%AC%EC%B8%A0-%EB%B0%B4%EB%93%9C",
+    "imageUrl": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/s12-case-unselect-gallery-1-202609_GEO_KR?wid=1200&hei=630&fmt=jpeg&qlt=95&.v=1787726537738",
+    "priceBasis": "韩国官网公开售价",
+    "checkedAt": "2026-10-24",
+    "evidence": "已进入具体42mm GPS + Nike运动表带组合页，JSON-LD Offer.price 为₩599,000；不是仅用表壳起价。",
+    "imageKind": "系列示意图"
+  },
+  {
+    "id": "apple-18-scenario",
+    "brand": "Apple",
+    "name": "iPhone 18",
+    "category": "手机",
+    "variants": [
+      {
+        "id": "1tb",
+        "label": "1TB · 情景预设配置",
+        "price": 2390000
+      },
+      {
+        "id": "2tb",
+        "label": "2TB · 情景预设配置",
+        "price": 3290000
+      }
+    ],
+    "source": "https://www.apple.com/kr/shop/buy-iphone",
+    "imageUrl": "",
+    "priceBasis": "情景估算价 · 非官方定价",
+    "checkedAt": "2026-10-24",
+    "evidence": "用户明确要求纳入的情景预设型号。韩国官网未确认这些型号与容量组合，因此单独标为估算，不作为真实公开售价。",
+    "estimated": true,
+    "scenarioModel": true
+  },
+  {
+    "id": "apple-18air-scenario",
+    "brand": "Apple",
+    "name": "iPhone 18 Air",
+    "category": "手机",
+    "variants": [
+      {
+        "id": "1tb",
+        "label": "1TB · 情景预设配置",
+        "price": 2690000
+      },
+      {
+        "id": "2tb",
+        "label": "2TB · 情景预设配置",
+        "price": 3590000
+      }
+    ],
+    "source": "https://www.apple.com/kr/shop/buy-iphone",
+    "imageUrl": "",
+    "priceBasis": "情景估算价 · 非官方定价",
+    "checkedAt": "2026-10-24",
+    "evidence": "用户明确要求纳入的情景预设型号。韩国官网未确认这些型号与容量组合，因此单独标为估算，不作为真实公开售价。",
+    "estimated": true,
+    "scenarioModel": true
+  },
+  {
+    "id": "lv-onthego",
+    "brand": "Louis Vuitton",
+    "name": "OnTheGo MM",
+    "category": "包袋",
+    "variants": [
+      {
+        "id": "standard",
+        "label": "Monogram · MM",
+        "price": 4710000
+      }
+    ],
+    "source": "https://kr.louisvuitton.com/kor-kr/women/handbags/totes/monogram/_/N-t1eeo6yx-au9d5fge",
+    "imageUrl": "",
+    "priceBasis": "韩国官网公开售价",
+    "checkedAt": "2026-10-24",
+    "evidence": "2026-10-24 品牌韩国官网分类页或首页的该名称、材质/配色、尺寸对应公开售价；未套用汇率或其他材质价格。"
+  },
+  {
+    "id": "lv-neverfull-gm",
+    "brand": "Louis Vuitton",
+    "name": "Neverfull GM",
+    "category": "包袋",
+    "variants": [
+      {
+        "id": "standard",
+        "label": "Monogram · GM",
+        "price": 3010000
+      }
+    ],
+    "source": "https://kr.louisvuitton.com/kor-kr/women/handbags/totes/monogram/_/N-t1eeo6yx-au9d5fge",
+    "imageUrl": "",
+    "priceBasis": "韩国官网公开售价",
+    "checkedAt": "2026-10-24",
+    "evidence": "2026-10-24 品牌韩国官网分类页或首页的该名称、材质/配色、尺寸对应公开售价；未套用汇率或其他材质价格。"
+  },
+  {
+    "id": "dior-mini",
+    "brand": "Dior",
+    "name": "Diorly 迷你手袋",
+    "category": "包袋",
+    "variants": [
+      {
+        "id": "standard",
+        "label": "黑色 Flat MacroCannage 粒面小牛皮",
+        "price": 4550000
+      }
+    ],
+    "source": "https://www.dior.com/ko_kr/fashion/womens-fashion/bags/all-the-bags?page=2",
+    "imageUrl": "",
+    "priceBasis": "韩国官网公开售价",
+    "checkedAt": "2026-10-24",
+    "evidence": "2026-10-24 品牌韩国官网分类页或首页的该名称、材质/配色、尺寸对应公开售价；未套用汇率或其他材质价格。"
+  },
+  {
+    "id": "dior-small",
+    "brand": "Dior",
+    "name": "Diorly 小号手袋",
+    "category": "包袋",
+    "variants": [
+      {
+        "id": "standard",
+        "label": "巧克力色麂皮小牛皮",
+        "price": 5700000
+      }
+    ],
+    "source": "https://www.dior.com/ko_kr/fashion/womens-fashion/bags/all-the-bags?page=2",
+    "imageUrl": "",
+    "priceBasis": "韩国官网公开售价",
+    "checkedAt": "2026-10-24",
+    "evidence": "2026-10-24 品牌韩国官网分类页或首页的该名称、材质/配色、尺寸对应公开售价；未套用汇率或其他材质价格。"
+  },
+  {
+    "id": "dior-mini-djoy",
+    "brand": "Dior",
+    "name": "Lady D-Joy 迷你手袋",
+    "category": "包袋",
+    "variants": [
+      {
+        "id": "standard",
+        "label": "黑色 Cannage 羊皮",
+        "price": 6500000
+      }
+    ],
+    "source": "https://www.dior.com/ko_kr/fashion/womens-fashion/bags/all-the-bags?page=2",
+    "imageUrl": "",
+    "priceBasis": "韩国官网公开售价",
+    "checkedAt": "2026-10-24",
+    "evidence": "2026-10-24 品牌韩国官网分类页或首页的该名称、材质/配色、尺寸对应公开售价；未套用汇率或其他材质价格。"
+  },
+  {
+    "id": "bv-mini",
+    "brand": "Bottega Veneta",
+    "name": "Mini Andiamo",
+    "category": "包袋",
+    "variants": [
+      {
+        "id": "standard",
+        "label": "Fondant",
+        "price": 6100000
+      }
+    ],
+    "source": "https://www.bottegaveneta.com/ko-kr/안디아모-백",
+    "imageUrl": "",
+    "priceBasis": "韩国官网公开售价",
+    "checkedAt": "2026-10-24",
+    "evidence": "2026-10-24 品牌韩国官网分类页或首页的该名称、材质/配色、尺寸对应公开售价；未套用汇率或其他材质价格。"
+  },
+  {
+    "id": "bv-clutch",
+    "brand": "Bottega Veneta",
+    "name": "Andiamo Clutch 25",
+    "category": "包袋",
+    "variants": [
+      {
+        "id": "standard",
+        "label": "黑色 · 25",
+        "price": 5240000
+      }
+    ],
+    "source": "https://www.bottegaveneta.com/ko-kr/안디아모-백",
+    "imageUrl": "",
+    "priceBasis": "韩国官网公开售价",
+    "checkedAt": "2026-10-24",
+    "evidence": "2026-10-24 品牌韩国官网分类页或首页的该名称、材质/配色、尺寸对应公开售价；未套用汇率或其他材质价格。"
+  },
+  {
+    "id": "ysl-loafer",
+    "brand": "Saint Laurent",
+    "name": "Laurent 乐福鞋",
+    "category": "鞋履",
+    "variants": [
+      {
+        "id": "standard",
+        "label": "麂皮款 · 标准款",
+        "price": 1590000
+      }
+    ],
+    "source": "https://www.ysl.com/ko-kr/ca/suede",
+    "imageUrl": "",
+    "priceBasis": "韩国官网公开售价",
+    "checkedAt": "2026-10-24",
+    "evidence": "2026-10-24 品牌韩国官网分类页或首页的该名称、材质/配色、尺寸对应公开售价；未套用汇率或其他材质价格。"
+  },
+  {
+    "id": "ysl-loulou",
+    "brand": "Saint Laurent",
+    "name": "Loulou 小号肩背包",
+    "category": "包袋",
+    "variants": [
+      {
+        "id": "standard",
+        "label": "绗缝麂皮款",
+        "price": 4220000
+      }
+    ],
+    "source": "https://www.ysl.com/ko-kr/ca/suede",
+    "imageUrl": "",
+    "priceBasis": "韩国官网公开售价",
+    "checkedAt": "2026-10-24",
+    "evidence": "2026-10-24 品牌韩国官网分类页或首页的该名称、材质/配色、尺寸对应公开售价；未套用汇率或其他材质价格。",
+    "classic": true,
+    "aliases": [
+      "Loulou",
+      "圣罗兰"
+    ]
+  },
+  {
+    "id": "tiffany-circle",
+    "brand": "Tiffany & Co.",
+    "name": "T1 Circle 吊坠",
+    "category": "珠宝",
+    "variants": [
+      {
+        "id": "standard",
+        "label": "18K 黄金 · 白色珍珠母贝",
+        "price": 2900000
+      }
+    ],
+    "source": "https://www.tiffany.kr/jewelry/",
+    "imageUrl": "",
+    "priceBasis": "韩国官网公开售价",
+    "checkedAt": "2026-10-24",
+    "evidence": "2026-10-24 品牌韩国官网分类页或首页的该名称、材质/配色、尺寸对应公开售价；未套用汇率或其他材质价格。"
+  },
+  {
+    "id": "tiffany-smile-rg",
+    "brand": "Tiffany & Co.",
+    "name": "T Smile 小号吊坠",
+    "category": "珠宝",
+    "variants": [
+      {
+        "id": "standard",
+        "label": "玫瑰金 · 小号 · 无钻",
+        "price": 2380000
+      }
+    ],
+    "source": "https://www.tiffany.kr/jewelry/",
+    "imageUrl": "",
+    "priceBasis": "韩国官网公开售价",
+    "checkedAt": "2026-10-24",
+    "evidence": "2026-10-24 品牌韩国官网分类页或首页的该名称、材质/配色、尺寸对应公开售价；未套用汇率或其他材质价格。"
+  },
+  {
+    "id": "tiffany-note",
+    "brand": "Tiffany & Co.",
+    "name": "Knot 小号吊坠",
+    "category": "珠宝",
+    "variants": [
+      {
+        "id": "standard",
+        "label": "玫瑰金与铂金 · 镶钻",
+        "price": 5500000
+      }
+    ],
+    "source": "https://www.tiffany.kr/jewelry/",
+    "imageUrl": "",
+    "priceBasis": "韩国官网公开售价",
+    "checkedAt": "2026-10-24",
+    "evidence": "2026-10-24 品牌韩国官网分类页或首页的该名称、材质/配色、尺寸对应公开售价；未套用汇率或其他材质价格。"
+  },
+  {
+    "id": "prada-buckle",
+    "brand": "Prada",
+    "name": "Buckle 小号皮革手袋",
+    "category": "包袋",
+    "variants": [
+      {
+        "id": "standard",
+        "label": "Black / Briarwood · 腰带款",
+        "price": 6000000
+      }
+    ],
+    "source": "https://www.prada.com/kr/ko/womens/bags/c/10062KR",
+    "imageUrl": "",
+    "priceBasis": "韩国官网公开售价",
+    "checkedAt": "2026-10-24",
+    "evidence": "2026-10-24 品牌韩国官网分类页或首页的该名称、材质/配色、尺寸对应公开售价；未套用汇率或其他材质价格。"
+  },
+  {
+    "id": "prada-bonnie",
+    "brand": "Prada",
+    "name": "Bonnie 迷你肩背包",
+    "category": "包袋",
+    "variants": [
+      {
+        "id": "standard",
+        "label": "黑色皮革",
+        "price": 3550000
+      }
+    ],
+    "source": "https://www.prada.com/kr/ko/womens/bags/c/10062KR",
+    "imageUrl": "",
+    "priceBasis": "韩国官网公开售价",
+    "checkedAt": "2026-10-24",
+    "evidence": "2026-10-24 品牌韩国官网分类页或首页的该名称、材质/配色、尺寸对应公开售价；未套用汇率或其他材质价格。"
+  },
+  {
+    "id": "prada-bonnie-medium",
+    "brand": "Prada",
+    "name": "Bonnie 中号手袋",
+    "category": "包袋",
+    "variants": [
+      {
+        "id": "standard",
+        "label": "Dark Brown 皮革",
+        "price": 4700000
+      }
+    ],
+    "source": "https://www.prada.com/kr/ko/womens/bags/c/10062KR",
+    "imageUrl": "",
+    "priceBasis": "韩国官网公开售价",
+    "checkedAt": "2026-10-24",
+    "evidence": "2026-10-24 品牌韩国官网分类页或首页的该名称、材质/配色、尺寸对应公开售价；未套用汇率或其他材质价格。"
+  },
+  {
+    "id": "hermes-scarf",
+    "brand": "Hermès",
+    "name": "Selle en Éclats 丝巾 90",
+    "category": "配饰",
+    "variants": [
+      {
+        "id": "standard",
+        "label": "90cm 丝巾 · 官网展示款",
+        "price": 990000
+      }
+    ],
+    "source": "https://www.hermes.com/kr/ko/",
+    "imageUrl": "",
+    "priceBasis": "韩国官网公开售价",
+    "checkedAt": "2026-10-24",
+    "evidence": "2026-10-24 品牌韩国官网分类页或首页的该名称、材质/配色、尺寸对应公开售价；未套用汇率或其他材质价格。"
+  },
+  {
+    "id": "samsung-s26-ultra",
+    "brand": "Samsung",
+    "name": "Galaxy S26 Ultra",
+    "category": "手机",
+    "variants": [
+      {
+        "id": "listed",
+        "label": "갤럭시 S26 울트라 자급제 · 官网展示款",
+        "price": 1770800
+      }
+    ],
+    "source": "https://www.samsung.com/sec/smartphones/galaxy-s26-ultra/",
+    "imageUrl": "https://images.samsung.com/kdp/goods/2026/01/30/b3a58f22-3a19-4c20-93d2-d84670e2e233.png",
+    "priceBasis": "韩国官网商品列表活动价",
+    "checkedAt": "2026-10-24",
+    "evidence": "韩国官网 Product.offers 的展示价格；非运营商合约款，也不是另加指定信用卡返现后的价格。"
+  },
+  {
+    "id": "samsung-s26-plus",
+    "brand": "Samsung",
+    "name": "Galaxy S26+",
+    "category": "手机",
+    "variants": [
+      {
+        "id": "listed",
+        "label": "갤럭시 S26+ 자급제 · 官网展示款",
+        "price": 1456700
+      }
+    ],
+    "source": "https://www.samsung.com/sec/smartphones/galaxy-s26/",
+    "imageUrl": "https://images.samsung.com/kdp/goods/2026/01/29/8a048319-ef9d-4c1a-aa35-ce0e2b6d4c15.png",
+    "priceBasis": "韩国官网商品列表活动价",
+    "checkedAt": "2026-10-24",
+    "evidence": "韩国官网 Product.offers 的展示价格；非运营商合约款，也不是另加指定信用卡返现后的价格。"
+  },
+  {
+    "id": "samsung-s26",
+    "brand": "Samsung",
+    "name": "Galaxy S26",
+    "category": "手机",
+    "variants": [
+      {
+        "id": "listed",
+        "label": "갤럭시 S26 자급제 · 官网展示款",
+        "price": 1276600
+      }
+    ],
+    "source": "https://www.samsung.com/sec/smartphones/galaxy-s26/",
+    "imageUrl": "https://images.samsung.com/kdp/goods/2026/01/29/d67557b7-4d1e-4a91-9e0e-eb5ebacc0f71.png",
+    "priceBasis": "韩国官网商品列表活动价",
+    "checkedAt": "2026-10-24",
+    "evidence": "韩国官网 Product.offers 的展示价格；非运营商合约款，也不是另加指定信用卡返现后的价格。"
+  },
+  {
+    "id": "prada-carry",
+    "brand": "Prada",
+    "name": "Carry 迷你皮革手袋",
+    "category": "包袋",
+    "variants": [
+      {
+        "id": "1BA511_ASK_F0002_V_TOO",
+        "label": "黑色皮革 · 1BA511_ASK_F0002_V_TOO",
+        "price": 3550000
+      }
+    ],
+    "source": "https://www.prada.com/kr/ko/p/프라다-캐리-미니-가죽-핸드백/1BA511_ASK_F0002_V_TOO",
+    "imageUrl": "https://www.prada.com/content/dam/pradabkg_products/1/1BA/1BA511/ASKF0002/1BA511_ASK_F0002_V_TOO_SLF.jpg/_jcr_content/renditions/cq5dam.web.hebebed.600.600.jpg",
+    "priceBasis": "韩国官网公开售价",
+    "checkedAt": "2026-10-24",
+    "evidence": "直接从当次韩国官网页面 __ALGOLIA_STATE__ 读取精确PV、韩元Price.Value及对应商品图。"
+  },
+  {
+    "id": "prada-bonnie-handbag",
+    "brand": "Prada",
+    "name": "Bonnie 迷你皮革手提包",
+    "category": "包袋",
+    "variants": [
+      {
+        "id": "1BA486_2CYR_F0002_V_OOM",
+        "label": "黑色皮革 · 1BA486_2CYR_F0002_V_OOM",
+        "price": 4200000
+      }
+    ],
+    "source": "https://www.prada.com/kr/ko/p/프라다-보니-가죽-미니백/1BA486_2CYR_F0002_V_OOM",
+    "imageUrl": "https://www.prada.com/content/dam/pradabkg_products/1/1BA/1BA486/2CYRF0002/1BA486_2CYR_F0002_V_OOM_SLF.jpg/_jcr_content/renditions/cq5dam.web.hebebed.600.600.jpg",
+    "priceBasis": "韩国官网公开售价",
+    "checkedAt": "2026-10-24",
+    "evidence": "直接从当次韩国官网页面 __ALGOLIA_STATE__ 读取精确PV、韩元Price.Value及对应商品图。"
+  },
+  {
+    "id": "hermes-garden-party",
+    "brand": "Hermès",
+    "name": "Garden Party 30 托特包",
+    "category": "包袋",
+    "variants": [
+      {
+        "id": "H051551CKCO",
+        "label": "Officier 帆布 / Negonda 牛皮 · 30 × 21 × 13cm",
+        "price": 4440000
+      }
+    ],
+    "source": "https://www.hermes.com/kr/ko/product/garden-party-30-%EB%B0%B1-H051551CKCO/",
+    "imageUrl": "https://assets.hermes.com/is/image/hermesproduct/051551CKCO_front_wm_101?%24product_default_bg%24=",
+    "priceBasis": "韩国官网公开售价",
+    "checkedAt": "2026-10-24",
+    "evidence": "韩国官网具体商品页对应款号公开韩元价格；标签采用正文所选规格，不以页面标题或分类页的颜色概述替代。部分官网款式已无现货；应用仅使用独立的情景库存。",
+    "collection": "包袋",
+    "description": "帆布与牛皮组合，Clou de Selle 按扣开合。"
+  },
+  {
+    "id": "hermes-evelyne",
+    "brand": "Hermès",
+    "name": "Evelyne 23 Poche III 斜挎包",
+    "category": "包袋",
+    "variants": [
+      {
+        "id": "H087941CK2S",
+        "label": "Sesame · Clemence 牛皮 · 23 × 24 × 6cm",
+        "price": 5750000
+      }
+    ],
+    "source": "https://www.hermes.com/kr/ko/product/evelyne-23-poche-iii-%EB%B0%B1-H087941CK2S/",
+    "imageUrl": "https://assets.hermes.com/is/image/hermesproduct/087941CK2S_front_wm_101?%24product_default_bg%24=",
+    "priceBasis": "韩国官网公开售价",
+    "checkedAt": "2026-10-24",
+    "evidence": "韩国官网具体商品页对应款号公开韩元价格；标签采用正文所选规格，不以页面标题或分类页的颜色概述替代。部分官网款式已无现货；应用仅使用独立的情景库存。",
+    "collection": "包袋",
+    "description": "穿孔 H 标识，可拆卸帆布肩带。"
+  },
+  {
+    "id": "hermes-halzan",
+    "brand": "Hermès",
+    "name": "Halzan 25 手袋",
+    "category": "包袋",
+    "variants": [
+      {
+        "id": "H082027CC55",
+        "label": "Rouge H · Clemence 牛皮 · 25 × 17 × 8cm",
+        "price": 8860000
+      }
+    ],
+    "source": "https://www.hermes.com/kr/ko/product/halzan-25-%EB%B0%B1-H082027CC55/",
+    "imageUrl": "https://assets.hermes.com/is/image/hermesproduct/082027CC55_front_wm_101?%24product_default_bg%24=",
+    "priceBasis": "韩国官网公开售价",
+    "checkedAt": "2026-10-24",
+    "evidence": "韩国官网具体商品页对应款号公开韩元价格；标签采用正文所选规格，不以页面标题或分类页的颜色概述替代。部分官网款式已无现货；应用仅使用独立的情景库存。",
+    "collection": "包袋",
+    "description": "马镫造型提手，搭配可拆卸肩带，可作斜挎包、托特包或手拿包。"
+  },
+  {
+    "id": "hermes-2424",
+    "brand": "Hermès",
+    "name": "24/24 - 21 手袋",
+    "category": "包袋",
+    "variants": [
+      {
+        "id": "H085157CKAM",
+        "label": "Rouge H / Rouge Radieux · 21 × 17 × 10.5cm",
+        "price": 15000000
+      }
+    ],
+    "source": "https://www.hermes.com/kr/ko/product/2424---21-%EB%B0%B1-H085157CKAM/",
+    "imageUrl": "https://assets.hermes.com/is/image/hermesproduct/085157CKAM_front_wm_101?%24product_default_bg%24=",
+    "priceBasis": "韩国官网公开售价",
+    "checkedAt": "2026-10-24",
+    "evidence": "韩国官网具体商品页对应款号公开韩元价格；标签采用正文所选规格，不以页面标题或分类页的颜色概述替代。部分官网款式已无现货；应用仅使用独立的情景库存。",
+    "collection": "包袋",
+    "description": "Evercolor 与 Swift 牛皮双拼，可拆卸肩带带来多种背法。"
+  },
+  {
+    "id": "hermes-lindy-mini",
+    "brand": "Hermès",
+    "name": "Lindy II Mini 手袋",
+    "category": "包袋",
+    "variants": [
+      {
+        "id": "H085956CC10",
+        "label": "Craie · Clemence 牛皮 · 19 × 13 × 9.5cm",
+        "price": 12170000
+      }
+    ],
+    "source": "https://www.hermes.com/kr/ko/product/lindy-ii-%EB%AF%B8%EB%8B%88-%EB%B0%B1-H085956CC10/",
+    "imageUrl": "https://assets.hermes.com/is/image/hermesproduct/085956CC10_front_wm_101?%24product_default_bg%24=",
+    "priceBasis": "韩国官网公开售价",
+    "checkedAt": "2026-10-24",
+    "evidence": "韩国官网具体商品页对应款号公开韩元价格；标签采用正文所选规格，不以页面标题或分类页的颜色概述替代。部分官网款式已无现货；应用仅使用独立的情景库存。",
+    "collection": "包袋",
+    "description": "迷你尺寸，内外侧袋与拉链开合，可手提、肩背或斜挎。"
+  },
+  {
+    "id": "hermes-plume",
+    "brand": "Hermès",
+    "name": "Plume Mini 手袋",
+    "category": "包袋",
+    "variants": [
+      {
+        "id": "H086559CK3Q",
+        "label": "Rose Sakura · Mysore 山羊皮 · 21 × 15 × 8cm",
+        "price": 11000000
+      }
+    ],
+    "source": "https://www.hermes.com/kr/ko/product/plume-%EB%AF%B8%EB%8B%88-%EB%B0%B1-H086559CK3Q/",
+    "imageUrl": "https://assets.hermes.com/is/image/hermesproduct/086559CK3Q_front_wm_101?%24product_default_bg%24=",
+    "priceBasis": "韩国官网公开售价",
+    "checkedAt": "2026-10-24",
+    "evidence": "韩国官网具体商品页对应款号公开韩元价格；标签采用正文所选规格，不以页面标题或分类页的颜色概述替代。部分官网款式已无现货；应用仅使用独立的情景库存。",
+    "collection": "包袋",
+    "description": "轻巧的手提廓形，搭配钯金镀层金属件。"
+  },
+  {
+    "id": "hermes-in-the-loop",
+    "brand": "Hermès",
+    "name": "In-The-Loop 18 手袋",
+    "category": "包袋",
+    "variants": [
+      {
+        "id": "H084274CKAZ",
+        "label": "Rose Sakura · 18 × 19.5 × 12cm",
+        "price": 7400000
+      }
+    ],
+    "source": "https://www.hermes.com/kr/ko/product/hermes-in-the-loop-18-%EB%B0%B1-H084274CKAZ/",
+    "imageUrl": "https://assets.hermes.com/is/image/hermesproduct/084274CKAZ_front_wm_101?%24product_default_bg%24=",
+    "priceBasis": "韩国官网公开售价",
+    "checkedAt": "2026-10-24",
+    "evidence": "韩国官网具体商品页对应款号公开韩元价格；标签采用正文所选规格，不以页面标题或分类页的颜色概述替代。部分官网款式已无现货；应用仅使用独立的情景库存。",
+    "collection": "包袋",
+    "description": "Clemence 与 Swift 牛皮，Chaine d’Ancre 锚链扣，无衬里设计。"
+  },
+  {
+    "id": "hermes-picotin",
+    "brand": "Hermès",
+    "name": "Picotin Lock 22 手袋",
+    "category": "包袋",
+    "variants": [
+      {
+        "id": "H060991CKH0",
+        "label": "Gris Misty · Clemence 牛皮 · 22 × 21 × 17cm",
+        "price": 5750000
+      }
+    ],
+    "source": "https://www.hermes.com/kr/ko/product/picotin-lock-22-%EB%B0%B1-H060991CKH0/",
+    "imageUrl": "https://assets.hermes.com/is/image/hermesproduct/060991CKH0_front_wm_101?%24product_default_bg%24=",
+    "priceBasis": "韩国官网公开售价",
+    "checkedAt": "2026-10-24",
+    "evidence": "韩国官网具体商品页对应款号公开韩元价格；标签采用正文所选规格，不以页面标题或分类页的颜色概述替代。部分官网款式已无现货；应用仅使用独立的情景库存。",
+    "collection": "包袋",
+    "description": "桶形手提包，以皮革束带与挂锁收拢包口。"
+  },
+  {
+    "id": "hermes-lindy26",
+    "brand": "Hermès",
+    "name": "Lindy 26 手袋",
+    "category": "包袋",
+    "variants": [
+      {
+        "id": "H073428CKH0",
+        "label": "Gris Misty · Clemence 牛皮 · 26 号",
+        "price": 14510000
+      }
+    ],
+    "source": "https://www.hermes.com/kr/ko/product/lindy-26-%EB%B0%B1-H073428CKH0/",
+    "imageUrl": "https://assets.hermes.com/is/image/hermesproduct/073428CKH0_front_wm_101?%24product_default_bg%24=",
+    "priceBasis": "韩国官网公开售价",
+    "checkedAt": "2026-10-24",
+    "evidence": "韩国官网具体商品页对应款号公开韩元价格；标签采用正文所选规格，不以页面标题或分类页的颜色概述替代。部分官网款式已无现货；应用仅使用独立的情景库存。",
+    "collection": "包袋",
+    "description": "拉链开合，配提手及肩带，可手提或肩背。"
+  },
+  {
+    "id": "hermes-avalon-throw",
+    "brand": "Hermès",
+    "name": "Avalon 羊毛羊绒毯",
+    "category": "家居",
+    "variants": [
+      {
+        "id": "H102668M52",
+        "label": "Ecru / Camel · 135 × 170cm",
+        "price": 2750000
+      }
+    ],
+    "source": "https://www.hermes.com/kr/ko/product/avalon-%EC%93%B0%EB%A1%9C%EC%9A%B0-%ED%94%8C%EB%9E%98%EB%93%9C-H102668Mv52/",
+    "imageUrl": "https://assets.hermes.com/is/image/hermesproduct/avalon-%EC%93%B0%EB%A1%9C%EC%9A%B0-%ED%94%8C%EB%9E%98%EB%93%9C--102668M%2052-worn-2-0-0-800-800_g.jpg",
+    "priceBasis": "韩国官网公开售价",
+    "checkedAt": "2026-10-24",
+    "evidence": "韩国官网具体商品页对应款号公开韩元价格；标签采用正文所选规格，不以页面标题或分类页的颜色概述替代。部分官网款式已无现货；应用仅使用独立的情景库存。",
+    "collection": "毯子与靠垫",
+    "description": "90% 美利奴羊毛、10% 羊绒，提花织造与毯式锁边。"
+  },
+  {
+    "id": "hermes-brides-cushion",
+    "brand": "Hermès",
+    "name": "Brides de Gala 靠垫",
+    "category": "家居",
+    "variants": [
+      {
+        "id": "H104328M05",
+        "label": "Liege · 50 × 50cm",
+        "price": 1200000
+      }
+    ],
+    "source": "https://www.hermes.com/kr/ko/product/brides-de-gala-%EC%BF%A0%EC%85%98-H104328Mv05/",
+    "imageUrl": "https://assets.hermes.com/is/image/hermesproduct/brides-de-gala-%EC%BF%A0%EC%85%98--104328M%2005-above-wm-1-0-0-800-800_g.jpg",
+    "priceBasis": "韩国官网公开售价",
+    "checkedAt": "2026-10-24",
+    "evidence": "韩国官网具体商品页对应款号公开韩元价格；标签采用正文所选规格，不以页面标题或分类页的颜色概述替代。部分官网款式已无现货；应用仅使用独立的情景库存。",
+    "collection": "毯子与靠垫",
+    "description": "100% 美利奴羊毛可拆卸外套，提花马具图案。"
+  },
+  {
+    "id": "hermes-avalon-cushion",
+    "brand": "Hermès",
+    "name": "Avalon Cab 羊绒靠垫",
+    "category": "家居",
+    "variants": [
+      {
+        "id": "H104324M02",
+        "label": "Foret · 43 × 43cm",
+        "price": 2170000
+      }
+    ],
+    "source": "https://www.hermes.com/kr/ko/product/avalon-cab-%EC%BF%A0%EC%85%98-H104324Mv02/",
+    "imageUrl": "https://assets.hermes.com/is/image/hermesproduct/avalon-cab-%EC%BF%A0%EC%85%98--104324M%2002-front-wm-1-0-0-800-800_g.jpg",
+    "priceBasis": "韩国官网公开售价",
+    "checkedAt": "2026-10-24",
+    "evidence": "韩国官网具体商品页对应款号公开韩元价格；标签采用正文所选规格，不以页面标题或分类页的颜色概述替代。部分官网款式已无现货；应用仅使用独立的情景库存。",
+    "collection": "毯子与靠垫",
+    "description": "100% 羊绒外套，手工纺纱、织造与染色。"
+  },
+  {
+    "id": "hermes-atmos",
+    "brand": "Hermès",
+    "name": "Atmos 羊绒颈枕",
+    "category": "家居",
+    "variants": [
+      {
+        "id": "H104863M02",
+        "label": "Bleu Nuit · 44 × 27cm",
+        "price": 970000
+      }
+    ],
+    "source": "https://www.hermes.com/kr/ko/product/atmos-%EB%AA%A9-%EB%B2%A0%EA%B0%9C-H104863Mv02/",
+    "imageUrl": "https://assets.hermes.com/is/image/hermesproduct/atmos-%EB%AA%A9-%EB%B2%A0%EA%B0%9C--104863M%2002-above-wm-1-0-0-800-800_g.jpg",
+    "priceBasis": "韩国官网公开售价",
+    "checkedAt": "2026-10-24",
+    "evidence": "韩国官网具体商品页对应款号公开韩元价格；标签采用正文所选规格，不以页面标题或分类页的颜色概述替代。部分官网款式已无现货；应用仅使用独立的情景库存。",
+    "collection": "毯子与靠垫",
+    "description": "100% 羊绒外套，手工毡化处理与羊绒滚边。"
+  },
+  {
+    "id": "hermes-gourmand",
+    "brand": "Hermès",
+    "name": "H Gourmand 羊毛毯",
+    "category": "家居",
+    "variants": [
+      {
+        "id": "H104350M03",
+        "label": "Sable · 100 × 140cm",
+        "price": 2090000
+      }
+    ],
+    "source": "https://www.hermes.com/kr/ko/product/h-gourmand-%ED%94%8C%EB%9E%98%EB%93%9C-H104350Mv03/",
+    "imageUrl": "https://assets.hermes.com/is/image/hermesproduct/h-gourmand-%ED%94%8C%EB%9E%98%EB%93%9C--104350M%2003-flat-wm-1-0-0-800-800_g.jpg",
+    "priceBasis": "韩国官网公开售价",
+    "checkedAt": "2026-10-24",
+    "evidence": "韩国官网具体商品页对应款号公开韩元价格；标签采用正文所选规格，不以页面标题或分类页的颜色概述替代。部分官网款式已无现货；应用仅使用独立的情景库存。",
+    "collection": "毯子与靠垫",
+    "description": "100% 美利奴羊毛提花织毯。"
+  },
+  {
+    "id": "hermes-ribambelles",
+    "brand": "Hermès",
+    "name": "Ribambelles 马克杯双杯套装",
+    "category": "家居",
+    "variants": [
+      {
+        "id": "P066231P",
+        "label": "n°1 & 2 · 每只 250ml · 两件套",
+        "price": 900000
+      }
+    ],
+    "source": "https://www.hermes.com/kr/ko/product/ribambelles-%EB%A8%B8%EA%B7%B8%EC%BB%B5-2%EA%B0%9C-%EC%84%B8%ED%8A%B8n%C2%B01-%26-2-P066231P/",
+    "imageUrl": "https://assets.hermes.com/is/image/hermesproduct/ribambelles-%EB%A8%B8%EA%B7%B8%EC%BB%B5-2%EA%B0%9C-%EC%84%B8%ED%8A%B8n%C2%B01-%26-2--066231P-front-wm-1-0-0-800-800_g.jpg",
+    "priceBasis": "韩国官网公开售价",
+    "checkedAt": "2026-10-24",
+    "evidence": "韩国官网具体商品页对应款号公开韩元价格；标签采用正文所选规格，不以页面标题或分类页的颜色概述替代。部分官网款式已无现货；应用仅使用独立的情景库存。",
+    "collection": "茶具与餐瓷",
+    "description": "瓷质马克杯套装，多色图案装饰。"
+  },
+  {
+    "id": "hermes-hippomobile",
+    "brand": "Hermès",
+    "name": "Hippomobile 马克杯 n°3",
+    "category": "家居",
+    "variants": [
+      {
+        "id": "P048231P",
+        "label": "300ml · 高 9.5cm · 单只",
+        "price": 400000
+      }
+    ],
+    "source": "https://www.hermes.com/kr/ko/product/hermes-hippomobile-%EB%A8%B8%EA%B7%B8%EC%BB%B5-n%C2%B03-P048231P/",
+    "imageUrl": "https://assets.hermes.com/is/image/hermesproduct/hermes-hippomobile-%EB%A8%B8%EA%B7%B8%EC%BB%B5-n%C2%B03--048231P-worn-3-0-0-800-800_g.jpg",
+    "priceBasis": "韩国官网公开售价",
+    "checkedAt": "2026-10-24",
+    "evidence": "韩国官网具体商品页对应款号公开韩元价格；标签采用正文所选规格，不以页面标题或分类页的颜色概述替代。部分官网款式已无现货；应用仅使用独立的情景库存。",
+    "collection": "茶具与餐瓷",
+    "description": "瓷质马克杯，Hippomobile 系列图案。"
+  },
+  {
+    "id": "hermes-teapot",
+    "brand": "Hermès",
+    "name": "Tressages Equestres 茶壶",
+    "category": "家居",
+    "variants": [
+      {
+        "id": "P057018P",
+        "label": "1050ml · 直径 21cm · 含滤网",
+        "price": 1830000
+      }
+    ],
+    "source": "https://www.hermes.com/kr/ko/product/tressages-equestres-%EC%A3%BC%EC%A0%84%EC%9E%90-P057018P/",
+    "imageUrl": "https://assets.hermes.com/is/image/hermesproduct/tressages-equestres-%EC%A3%BC%EC%A0%84%EC%9E%90--057018P-front-wm-1-0-0-800-800_g.jpg",
+    "priceBasis": "韩国官网公开售价",
+    "checkedAt": "2026-10-24",
+    "evidence": "韩国官网具体商品页对应款号公开韩元价格；标签采用正文所选规格，不以页面标题或分类页的颜色概述替代。部分官网款式已无现货；应用仅使用独立的情景库存。",
+    "collection": "茶具与餐瓷",
+    "description": "带滤网的瓷质茶壶，马术编织纹样。"
+  },
+  {
+    "id": "hermes-vase",
+    "brand": "Hermès",
+    "name": "Tressages Equestres 花瓶",
+    "category": "家居",
+    "variants": [
+      {
+        "id": "P057054P",
+        "label": "瓷质花瓶 · 单件",
+        "price": 4400000
+      }
+    ],
+    "source": "https://www.hermes.com/kr/ko/product/tressages-equestres-%ED%99%94%EB%B3%91-P057054P/",
+    "imageUrl": "https://assets.hermes.com/is/image/hermesproduct/tressages-equestres-%ED%99%94%EB%B3%91--057054P-front-wm-1-0-0-800-800_g.jpg",
+    "priceBasis": "韩国官网公开售价",
+    "checkedAt": "2026-10-24",
+    "evidence": "韩国官网具体商品页对应款号公开韩元价格；标签采用正文所选规格，不以页面标题或分类页的颜色概述替代。部分官网款式已无现货；应用仅使用独立的情景库存。",
+    "collection": "家居摆件",
+    "description": "以马术编织纹样装饰的瓷质花瓶。"
+  },
+  {
+    "id": "hermes-passifolia",
+    "brand": "Hermès",
+    "name": "Passifolia 咖啡杯碟",
+    "category": "家居",
+    "variants": [
+      {
+        "id": "P044017P",
+        "label": "100ml · 咖啡杯与杯碟",
+        "price": 680000
+      }
+    ],
+    "source": "https://www.hermes.com/kr/ko/product/passifolia-%EC%BB%B5%EC%84%B8%ED%8A%B8-P044017P/",
+    "imageUrl": "https://assets.hermes.com/is/image/hermesproduct/passifolia-%EC%BB%B5%EC%84%B8%ED%8A%B8--044017P-worn-1-0-0-800-800_g.jpg",
+    "priceBasis": "韩国官网公开售价",
+    "checkedAt": "2026-10-24",
+    "evidence": "韩国官网具体商品页对应款号公开韩元价格；标签采用正文所选规格，不以页面标题或分类页的颜色概述替代。部分官网款式已无现货；应用仅使用独立的情景库存。",
+    "collection": "茶具与餐瓷",
+    "description": "瓷质咖啡杯配杯碟，Passifolia 植物图案。"
+  },
+  {
+    "id": "hermes-birkin25",
+    "brand": "Hermès",
+    "name": "Birkin 25（BK）手袋",
+    "category": "包袋",
+    "variants": [
+      {
+        "id": "selected",
+        "label": "25 号",
+        "price": 19600000
+      }
+    ],
+    "source": "https://www.hermes.com/kr/ko/content/106191-birkin/",
+    "imageUrl": "https://assets.hermes.com/is/image/hermesedito/BIRKIN%20EDITO%20VP_1744?wid=767",
+    "priceBasis": "商城定价",
+    "checkedAt": "2026-10-24",
+    "evidence": "用户明确要求自行设定韩元售价且界面不加额外价格说明。此为本地商城定价，非核实的品牌官价；官网系列页只用于核实包型和图片。",
+    "collection": "经典包型",
+    "description": "双提手、翻盖与锁扣，经典 Birkin 廓形。",
+    "classic": true,
+    "aliases": [
+      "BK",
+      "Birkin",
+      "柏金",
+      "铂金包",
+      "爱马仕BK"
+    ],
+    "customPrice": true,
+    "imageKind": "官方包型展示图"
+  },
+  {
+    "id": "hermes-birkin35",
+    "brand": "Hermès",
+    "name": "Birkin 35（BK）手袋",
+    "category": "包袋",
+    "variants": [
+      {
+        "id": "selected",
+        "label": "35 号",
+        "price": 23800000
+      }
+    ],
+    "source": "https://www.hermes.com/kr/ko/content/106191-birkin/",
+    "imageUrl": "https://assets.hermes.com/is/image/hermesedito/23_087092CKAA_241016_3019?wid=767",
+    "priceBasis": "商城定价",
+    "checkedAt": "2026-10-24",
+    "evidence": "用户明确要求自行设定韩元售价且界面不加额外价格说明。此为本地商城定价，非核实的品牌官价；官网系列页只用于核实包型和图片。",
+    "collection": "经典包型",
+    "description": "宽裕的托特包空间，保留 Birkin 的双提手与翻盖设计。",
+    "classic": true,
+    "aliases": [
+      "BK",
+      "Birkin",
+      "柏金",
+      "铂金包"
+    ],
+    "customPrice": true,
+    "imageKind": "官方包型展示图"
+  },
+  {
+    "id": "hermes-kelly25",
+    "brand": "Hermès",
+    "name": "Kelly 25 Retourne 手袋",
+    "category": "包袋",
+    "variants": [
+      {
+        "id": "selected",
+        "label": "25 号 · Retourne",
+        "price": 18700000
+      }
+    ],
+    "source": "https://www.hermes.com/kr/ko/content/106196-kelly/",
+    "imageUrl": "https://assets.hermes.com/is/image/hermesedito/P_11_KELLY_PRODUIT_4?wid=767",
+    "priceBasis": "商城定价",
+    "checkedAt": "2026-10-24",
+    "evidence": "用户明确要求自行设定韩元售价且界面不加额外价格说明。此为本地商城定价，非核实的品牌官价；官网系列页只用于核实包型和图片。",
+    "collection": "经典包型",
+    "description": "柔和的 Retourne 结构，单提手与标志性旋扣。",
+    "classic": true,
+    "aliases": [
+      "Kelly",
+      "凯莉",
+      "凯莉包",
+      "K25"
+    ],
+    "customPrice": true,
+    "imageKind": "官方包型展示图"
+  },
+  {
+    "id": "hermes-kelly28",
+    "brand": "Hermès",
+    "name": "Kelly 28 Sellier 手袋",
+    "category": "包袋",
+    "variants": [
+      {
+        "id": "selected",
+        "label": "28 号 · Sellier",
+        "price": 20400000
+      }
+    ],
+    "source": "https://www.hermes.com/kr/ko/content/106196-kelly/",
+    "imageUrl": "https://assets.hermes.com/is/image/hermesedito/sac_kelly_sellier?wid=767",
+    "priceBasis": "商城定价",
+    "checkedAt": "2026-10-24",
+    "evidence": "用户明确要求自行设定韩元售价且界面不加额外价格说明。此为本地商城定价，非核实的品牌官价；官网系列页只用于核实包型和图片。",
+    "collection": "经典包型",
+    "description": "利落的 Sellier 廓形，单提手与锁扣细节。",
+    "classic": true,
+    "aliases": [
+      "Kelly",
+      "凯莉",
+      "凯莉包",
+      "K28"
+    ],
+    "customPrice": true,
+    "imageKind": "官方包型展示图"
+  },
+  {
+    "id": "hermes-mini-kelly",
+    "brand": "Hermès",
+    "name": "Mini Kelly II 手袋",
+    "category": "包袋",
+    "variants": [
+      {
+        "id": "selected",
+        "label": "Mini · Sellier",
+        "price": 17600000
+      }
+    ],
+    "source": "https://www.hermes.com/kr/ko/content/106196-kelly/",
+    "imageUrl": "https://assets.hermes.com/is/image/hermesedito/sac_kelly_II_sellier_mini?wid=767",
+    "priceBasis": "商城定价",
+    "checkedAt": "2026-10-24",
+    "evidence": "用户明确要求自行设定韩元售价且界面不加额外价格说明。此为本地商城定价，非核实的品牌官价；官网系列页只用于核实包型和图片。",
+    "collection": "经典包型",
+    "description": "精巧的 Mini Kelly II，以单提手和旋扣呈现经典比例。",
+    "classic": true,
+    "aliases": [
+      "Kelly",
+      "凯莉",
+      "凯莉包",
+      "迷你凯莉",
+      "Mini Kelly"
+    ],
+    "customPrice": true,
+    "imageKind": "官方包型展示图"
+  },
+  {
+    "id": "chanel-classic",
+    "brand": "CHANEL",
+    "name": "Classic 11.12 经典翻盖包",
+    "category": "包袋",
+    "variants": [
+      {
+        "id": "A01112Y0129594305",
+        "label": "黑色羊皮 · 金色金属 · 25.5 × 15.5 × 6.5cm",
+        "price": 18800000
+      }
+    ],
+    "source": "https://www.chanel.com/kr/fashion/p/A01112Y0129594305/classic-11-12-handbag-lambskin-gold-tone-metal/",
+    "imageUrl": "https://www.chanel.com/images///c_crop%2Cw_1600%2Cg_north%2Cf_auto%2Cq_auto%3Agood%2Cdpr_1.1/w_3200/-9555564101662.jpg",
+    "priceBasis": "韩国官网公开售价",
+    "checkedAt": "2026-10-24",
+    "evidence": "2026-10-24 读取品牌韩国官网具体商品页，对应所选款号、材质和尺寸公开价格。",
+    "collection": "经典包型",
+    "description": "菱格绗缝、双 C 旋扣与穿皮链条。",
+    "classic": true,
+    "aliases": [
+      "CF",
+      "Classic Flap",
+      "经典口盖包",
+      "香奈儿"
+    ]
+  },
+  {
+    "id": "chanel-255",
+    "brand": "CHANEL",
+    "name": "2.55 经典翻盖包",
+    "category": "包袋",
+    "variants": [
+      {
+        "id": "A37586Y04634C3906",
+        "label": "黑色 / 酒红色 · 复古小牛皮 · 24 × 16 × 7.5cm",
+        "price": 18800000
+      }
+    ],
+    "source": "https://www.chanel.com/kr/fashion/p/A37586Y04634C3906/2-55-handbag-aged-calfskin-gold-tone-metal/",
+    "imageUrl": "https://www.chanel.com/images///c_crop%2Cw_1600%2Cg_north%2Cf_auto%2Cq_auto%3Agood%2Cdpr_1.1/w_3200/-9555549847582.jpg",
+    "priceBasis": "韩国官网公开售价",
+    "checkedAt": "2026-10-24",
+    "evidence": "2026-10-24 读取品牌韩国官网具体商品页，对应所选款号、材质和尺寸公开价格。",
+    "collection": "经典包型",
+    "description": "复古小牛皮，矩形锁扣与链条肩带。",
+    "classic": true,
+    "aliases": [
+      "255",
+      "Reissue",
+      "香奈儿"
+    ]
+  },
+  {
+    "id": "lv-speedy",
+    "brand": "Louis Vuitton",
+    "name": "Speedy Bandoulière 25 手袋",
+    "category": "包袋",
+    "variants": [
+      {
+        "id": "M46977",
+        "label": "Monogram · 25 × 19 × 15cm",
+        "price": 2880000
+      }
+    ],
+    "source": "https://kr.louisvuitton.com/kor-kr/products/speedy-bandouliere-25-monogram-nvprod5320019v/M46977",
+    "imageUrl": "https://kr.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-speedy-bandouliere-25--M46977_PM2_Front%20view.jpg",
+    "priceBasis": "韩国官网公开售价",
+    "checkedAt": "2026-10-24",
+    "evidence": "2026-10-24 读取品牌韩国官网具体商品页，对应所选款号、材质和尺寸公开价格。",
+    "collection": "经典包型",
+    "description": "Monogram 帆布、双提手与可拆卸肩带。",
+    "classic": true,
+    "aliases": [
+      "Speedy",
+      "枕头包",
+      "路易威登",
+      "LV"
+    ]
+  },
+  {
+    "id": "lv-alma",
+    "brand": "Louis Vuitton",
+    "name": "Alma BB 手袋",
+    "category": "包袋",
+    "variants": [
+      {
+        "id": "M46990",
+        "label": "Monogram · 23.5 × 17.5 × 11.5cm",
+        "price": 2880000
+      }
+    ],
+    "source": "https://kr.louisvuitton.com/kor-kr/products/alma-bb-monogram-nvprod5190086v/M46990",
+    "imageUrl": "https://kr.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-alma-bb--M46990_PM2_Front%20view.jpg",
+    "priceBasis": "韩国官网公开售价",
+    "checkedAt": "2026-10-24",
+    "evidence": "2026-10-24 读取品牌韩国官网具体商品页，对应所选款号、材质和尺寸公开价格。",
+    "collection": "经典包型",
+    "description": "拱形轮廓与卷柄，配双拉链、挂锁和可拆卸肩带。",
+    "classic": true,
+    "aliases": [
+      "Alma",
+      "贝壳包",
+      "路易威登",
+      "LV"
+    ]
+  },
+  {
+    "id": "dior-lady",
+    "brand": "Dior",
+    "name": "Lady Dior 中号手袋",
+    "category": "包袋",
+    "variants": [
+      {
+        "id": "M0565ONGE_M900",
+        "label": "黑色 Cannage 羊皮 · 24 × 21 × 12cm",
+        "price": 9200000
+      }
+    ],
+    "source": "https://www.dior.com/ko_kr/fashion/products/M0565ONGE_M900",
+    "imageUrl": "",
+    "priceBasis": "韩国官网公开售价",
+    "checkedAt": "2026-10-24",
+    "evidence": "2026-10-24 读取品牌韩国官网具体商品页，对应所选款号、材质和尺寸公开价格。",
+    "collection": "经典包型",
+    "description": "Cannage 绗缝、D.I.O.R. 字母吊饰与可拆卸肩带。",
+    "classic": true,
+    "aliases": [
+      "戴妃包",
+      "Lady Dior",
+      "迪奥"
+    ]
+  },
+  {
+    "id": "dior-saddle",
+    "brand": "Dior",
+    "name": "Saddle 马鞍包",
+    "category": "包袋",
+    "variants": [
+      {
+        "id": "M0455CBAA_M900",
+        "label": "黑色粒面小牛皮 · 25.5 × 20 × 6.5cm",
+        "price": 6500000
+      }
+    ],
+    "source": "https://www.dior.com/ko_kr/fashion/products/M0455CBAA_M900",
+    "imageUrl": "",
+    "priceBasis": "韩国官网公开售价",
+    "checkedAt": "2026-10-24",
+    "evidence": "2026-10-24 读取品牌韩国官网具体商品页，对应所选款号、材质和尺寸公开价格。",
+    "collection": "经典包型",
+    "description": "马鞍廓形与 D 形马镫细节，配可调节肩带。",
+    "classic": true,
+    "aliases": [
+      "马鞍包",
+      "Saddle",
+      "迪奥"
+    ]
+  },
+  {
+    "id": "gucci-jackie1961",
+    "brand": "Gucci",
+    "name": "Jackie 1961 中号肩背包",
+    "category": "包袋",
+    "variants": [
+      {
+        "id": "863136AAGDJ1000",
+        "label": "黑色皮革 · 31.5 × 22 × 4.5cm",
+        "price": 4600000
+      }
+    ],
+    "source": "https://www.gucci.com/kr/ko/pr/women/handbags/shoulder-bags-for-women/half-moon-bags-for-women/gucci-jackie-1961-medium-shoulder-bag-p-863136AAGDJ1000",
+    "imageUrl": "https://media.gucci.com/style/DarkGray_Center_0_0_490x490/1791563429/863136_AAGDJ_1000_002_100_0000_Light-1961.jpg",
+    "priceBasis": "韩国官网公开售价",
+    "checkedAt": "2026-10-24",
+    "evidence": "2026-10-24 读取品牌韩国官网具体商品页，对应所选款号、材质和尺寸公开价格。",
+    "collection": "经典包型",
+    "description": "新月形轮廓，柔软粒面皮革与标志性活塞锁扣。",
+    "classic": true,
+    "aliases": [
+      "Jackie",
+      "杰基包",
+      "腋下包",
+      "古驰"
+    ]
+  },
+  {
+    "id": "prada-galleria",
+    "brand": "Prada",
+    "name": "Galleria 小号手袋",
+    "category": "包袋",
+    "variants": [
+      {
+        "id": "1BA896_NZV_F0002_V_EOO",
+        "label": "黑色 Saffiano 牛皮 · 24.5 × 16.5 × 11cm",
+        "price": 6250000
+      }
+    ],
+    "source": "https://www.prada.com/kr/en/p/prada-galleria-small-saffiano-leather-bag/1BA896_NZV_F0002_V_EOO",
+    "imageUrl": "https://www.prada.com/content/dam/pradabkg_products/1/1BA/1BA896/NZVF0002/1BA896_NZV_F0002_V_EOO_SLF.jpg/_jcr_content/renditions/cq5dam.web.hebebed.600.600.jpg",
+    "priceBasis": "韩国官网公开售价",
+    "checkedAt": "2026-10-24",
+    "evidence": "2026-10-24 读取品牌韩国官网具体商品页，对应所选款号、材质和尺寸公开价格。",
+    "collection": "经典包型",
+    "description": "Saffiano 十字纹皮革、双提手与可拆卸肩带。",
+    "classic": true,
+    "aliases": [
+      "Galleria",
+      "杀手包",
+      "普拉达"
+    ]
+  },
+  {
+    "id": "bv-jodie",
+    "brand": "Bottega Veneta",
+    "name": "Mini Jodie 手袋",
+    "category": "包袋",
+    "variants": [
+      {
+        "id": "651876VCPP59143",
+        "label": "Chalk · 羊皮 · 26 × 13 × 8.5cm",
+        "price": 4400000
+      }
+    ],
+    "source": "https://www.bottegaveneta.com/ko-kr/%EB%AF%B8%EB%8B%88-%EC%A1%B0%EB%94%94-%EC%B4%88%ED%81%AC-809647343.html",
+    "imageUrl": "https://bottega-veneta.dam.kering.com/m/1261504313b2a1/Medium-651876VCPP59143_A.jpg?v=10",
+    "priceBasis": "韩国官网公开售价",
+    "checkedAt": "2026-10-24",
+    "evidence": "2026-10-24 读取品牌韩国官网具体商品页，对应所选款号、材质和尺寸公开价格。",
+    "collection": "经典包型",
+    "description": "Intrecciato 编织羊皮，圆润包身与打结提手。",
+    "classic": true,
+    "aliases": [
+      "Jodie",
+      "饺子包",
+      "葆蝶家",
+      "BV"
+    ]
+  }
+]

@@ -1,0 +1,9 @@
+__pycache__/
+*.py[cod]
+build-checks/
+backups/
+saves/
+*.zip
+*.log
+.DS_Store
+Thumbs.db
