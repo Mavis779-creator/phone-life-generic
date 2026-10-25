@@ -14,7 +14,7 @@ initializeStory=function(){
  }
  state.templateConfigured=true;
 };
-storyWelcomeHtml=function(){const s=storyState(),name=s.player.stageName||'我';return `<div class="st-welcome-top"><span>${esc(CONFIG.template.app.title)}</span><span class="st-welcome-edition">YOUR PHONE, YOUR WORLD</span></div><div class="st-welcome-scroll"><div class="st-welcome-hero"><div class="st-welcome-eyebrow">从空白开始</div><h1>你好，<br><span>${esc(name)}</span></h1><p>${esc(CONFIG.template.app.hero)}<br>自己添加人物、照片与生活记录。</p></div><section class="st-welcome-save"><div class="st-welcome-stats"><span><strong>${state.friends.length}</strong>联系人</span><span><strong>${state.photos.length}</strong>照片与视频</span><span><strong>${state.notes.length}</strong>备忘录</span></div></section><div class="st-welcome-options">${button('st-welcome-start','进入我的手机','','st-welcome-primary')}<div class="st-welcome-secondary">${button('st-welcome-custom','编辑人物与关系','','st-welcome-choice')}${button('st-welcome-direct','直接进入手机','','st-welcome-choice')}</div></div><div class="st-welcome-footer">${button('st-passcode','设置解锁密码','','st-inline-action')}<span>${devicePasscode()===templateDefaultPin()?templateInitialPinLabel():'已设置自定义密码'}</span><p>没有预置消息或剧情。内容保存在当前浏览器。</p></div></div>`;};
+/* Generic opening UI is defined in landing.js, after the content studio. */
 function templateContact(key){return storyState().characters['custom-'+key];}
 function initializeTemplateMainline(){
  const s=storyState(),scenario=CONFIG.template.scenario;if(!s.enabled||s.mainline||!scenario?.nodes.length)return;

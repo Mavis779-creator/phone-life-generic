@@ -15,6 +15,8 @@ node tests\ai.cjs
 if errorlevel 1 goto failed
 node tests\authoring.cjs
 if errorlevel 1 goto failed
+node tests\landing.cjs
+if errorlevel 1 goto failed
 node tests\ai-server.mjs
 if errorlevel 1 goto failed
 node tests\authoring-server.mjs

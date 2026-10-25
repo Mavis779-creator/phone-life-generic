@@ -1,0 +1,67 @@
+{
+  "scope": "Mock DOM/navigation/state; no real browser visual or device QA",
+  "passed": 15,
+  "failed": 0,
+  "results": [
+    {
+      "name": "fresh landing has one phone entry, two authoring paths and no generated content",
+      "status": "PASS"
+    },
+    {
+      "name": "read-only landing never installs a saved draft, enables AI or calls the network",
+      "status": "PASS"
+    },
+    {
+      "name": "draft and running, paused, completed story states render accurately",
+      "status": "PASS"
+    },
+    {
+      "name": "phone entry retains paused progress and never restarts or installs a chapter",
+      "status": "PASS"
+    },
+    {
+      "name": "script entry opens editor directly and root Back returns to the locked start",
+      "status": "PASS"
+    },
+    {
+      "name": "manual entry selects characters for empty phones and conversation editing for existing cast",
+      "status": "PASS"
+    },
+    {
+      "name": "nested authoring navigation returns to studio before returning to start",
+      "status": "PASS"
+    },
+    {
+      "name": "home gesture and explicit home route both return to start without losing editor drafts",
+      "status": "PASS"
+    },
+    {
+      "name": "identity setup returns to the landing without resuming the story",
+      "status": "PASS"
+    },
+    {
+      "name": "saving a profile from the start page never enables a paused chapter",
+      "status": "PASS"
+    },
+    {
+      "name": "source-configured scenarios remain available through an explicit start action",
+      "status": "PASS"
+    },
+    {
+      "name": "correct password is still required after leaving the creation session",
+      "status": "PASS"
+    },
+    {
+      "name": "custom PIN and long markup-bearing names/titles remain private and escaped",
+      "status": "PASS"
+    },
+    {
+      "name": "studio refresh updates a visible landing after an async draft completes",
+      "status": "PASS"
+    },
+    {
+      "name": "regular in-phone Back/Home remain unchanged and revisit wording persists",
+      "status": "PASS"
+    }
+  ]
+}
