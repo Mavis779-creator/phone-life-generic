@@ -1,8 +1,8 @@
 {
-  "version": "1.1.0",
+  "version": "1.2.0",
   "preset": "blank",
   "namespace": "phone-life-blank-v1-blank",
-  "sha256": "668bea5b3463356e0caf97bf7ce61ef63f3db337b4ef5001ef7f4f6620d7d350",
+  "sha256": "0a60780661de69486ec2561e7ce0f27f178865a30a45beab66d919834290a0d5",
   "configuration": "config/phone.config.json",
   "runtimeExternalDependencies": false,
   "assemblyBaselineSha256": "2dbac32539490a3d715bba176089e4ef0f7a9bd8b4ea6e50f464fb1c57512957"

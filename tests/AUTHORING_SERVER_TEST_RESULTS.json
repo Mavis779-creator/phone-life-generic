@@ -1,0 +1,31 @@
+{
+  "scope": "Real loopback HTTP and mocked provider; no live API calls or user keys",
+  "passed": 6,
+  "failed": 0,
+  "results": [
+    {
+      "name": "script endpoint requires pairing and permitted origin before provider access",
+      "status": "PASS"
+    },
+    {
+      "name": "script uses strict package tool, writing guidance and no client secret",
+      "status": "PASS"
+    },
+    {
+      "name": "invalid script, unknown preset, excessive length and oversized requests fail before provider",
+      "status": "PASS"
+    },
+    {
+      "name": "provider output with cyclic graph or executable fields cannot reach the phone",
+      "status": "PASS"
+    },
+    {
+      "name": "chat-compatible script generation shares the validated story schema",
+      "status": "PASS"
+    },
+    {
+      "name": "front-end compile through real backend stages, explicit install links messages/posts/events",
+      "status": "PASS"
+    }
+  ]
+}

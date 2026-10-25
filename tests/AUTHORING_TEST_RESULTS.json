@@ -1,0 +1,99 @@
+{
+  "scope": "VM/mock compiler; no live API, browser visual QA or user saves",
+  "passed": 23,
+  "failed": 0,
+  "results": [
+    {
+      "name": "blank studio and every editor tab render without creating content or network",
+      "status": "PASS"
+    },
+    {
+      "name": "natural writing guidance and three editable style presets are available",
+      "status": "PASS"
+    },
+    {
+      "name": "valid package passes both browser and server-shared validation",
+      "status": "PASS"
+    },
+    {
+      "name": "cycle, invalid refs, missing translations, extra properties and prototype keys fail",
+      "status": "PASS"
+    },
+    {
+      "name": "size limits and script file formats fail without replacing the draft",
+      "status": "PASS"
+    },
+    {
+      "name": "text import is local and JSON package import only stages a draft",
+      "status": "PASS"
+    },
+    {
+      "name": "installation immediately delivers the opening and first platform effect",
+      "status": "PASS"
+    },
+    {
+      "name": "group bubbles retain distinct speaker names and ordinary pacing advances",
+      "status": "PASS"
+    },
+    {
+      "name": "choice unlocks one branch, skips the other, joins and triggers all platform effects once",
+      "status": "PASS"
+    },
+    {
+      "name": "progress and idempotent effects survive a saved runtime reload",
+      "status": "PASS"
+    },
+    {
+      "name": "failed installation rolls back cast, group, messages and workspace progress",
+      "status": "PASS"
+    },
+    {
+      "name": "install undo preserves unrelated later notes and restores the previous phone",
+      "status": "PASS"
+    },
+    {
+      "name": "manual conversations work offline, preserve quotes/translations and support reorder/edit/delete/undo",
+      "status": "PASS"
+    },
+    {
+      "name": "manual conversation cannot mutate an active storyline or impersonate a group outsider",
+      "status": "PASS"
+    },
+    {
+      "name": "failed manual DM insert never leaves a newly created empty conversation",
+      "status": "PASS"
+    },
+    {
+      "name": "every social platform supports offline posts with account isolation and retained comments",
+      "status": "PASS"
+    },
+    {
+      "name": "stale undo refuses to overwrite later user changes",
+      "status": "PASS"
+    },
+    {
+      "name": "editor text drafts persist across reload and rendered markup is escaped",
+      "status": "PASS"
+    },
+    {
+      "name": "AI compiler only sends selected script and requirements, stages rather than installs",
+      "status": "PASS"
+    },
+    {
+      "name": "disabled, canceled, invalid and stale compiler responses never overwrite a draft",
+      "status": "PASS"
+    },
+    {
+      "name": "node editing form creates a playable chapter without AI or a preset",
+      "status": "PASS"
+    },
+    {
+      "name": "editing target and pending draft are restored together after reload",
+      "status": "PASS"
+    },
+    {
+      "name": "full JSON editor refuses malformed drafts and retains the previous package",
+      "status": "PASS"
+    }
+  ]
+}

@@ -13,7 +13,11 @@ node tests\template.cjs
 if errorlevel 1 goto failed
 node tests\ai.cjs
 if errorlevel 1 goto failed
+node tests\authoring.cjs
+if errorlevel 1 goto failed
 node tests\ai-server.mjs
+if errorlevel 1 goto failed
+node tests\authoring-server.mjs
 if errorlevel 1 goto failed
 echo All checks passed. These are logic tests, not browser or device tests.
 pause

@@ -18,7 +18,7 @@ if args.validate:
  print("Configuration OK:",template["preset"],template["app"]["title"]);raise SystemExit(0)
 root=Path(__file__).resolve().parents[1]
 base=(root/'project/CURRENT_BASELINE_v0_6.html').read_text(encoding='utf-8')
-modules='\n\n'.join((root/'src'/f).read_text(encoding='utf-8') for f in ['system.js','social.js','life.js','calls.js','creator.js','weverse.js','youtube.js','social-ui.js','kakao-reference.js','threads-reference.js','video-x-reference.js','reference-events.js','productivity.js','lock-screen.js','shop.js','delivery.js','social-detail-polish.js','events.js','call-polish.js','music-reference.js','story-data.js','story-engine.js','story-ui.js','onboarding.js','message-world.js','message-mainline.js','kakao-plus.js','template-runtime.js','ai-contract.js','ai.js'])
+modules='\n\n'.join((root/'src'/f).read_text(encoding='utf-8') for f in ['system.js','social.js','life.js','calls.js','creator.js','weverse.js','youtube.js','social-ui.js','kakao-reference.js','threads-reference.js','video-x-reference.js','reference-events.js','productivity.js','lock-screen.js','shop.js','delivery.js','social-detail-polish.js','events.js','call-polish.js','music-reference.js','story-data.js','story-engine.js','story-ui.js','onboarding.js','message-world.js','message-mainline.js','kakao-plus.js','template-runtime.js','ai-contract.js','writing-prompts.js','authoring-contract.js','ai.js','authoring.js'])
 names=set(re.findall(r'^(?:async )?function (\w+)\(',modules,re.M))
 lines=base.splitlines()
 removed=set(range(212,245))|set(range(270,285))|set(range(403,427))|{429,431,432,433}
@@ -33,10 +33,10 @@ base='\n'.join(line for i,line in enumerate(lines,1) if i not in removed)
 namespace=template['namespace']+'-'+template['preset']
 base=base.replace("const STORAGE_KEY = 'idol-phone-life-v04-state';","const STORAGE_KEY = '"+namespace+"-state';")
 base=base.replace("indexedDB.open('idol-phone-life-assets',1)","indexedDB.open('"+namespace+"-assets',1)")
-base=base.replace('爱豆手机生活模拟器 · v0.6',html.escape(template['app']['title'])+' · 通用模板 v1.1')
+base=base.replace('爱豆手机生活模拟器 · v0.6',html.escape(template['app']['title'])+' · 通用模板 v1.2')
 # Preserve native brand colors. Document/table styling does not recolor the product.
 base=base.replace('maximum-scale=1, ','').replace(' · v0.6',' · v1.6')
-base=base.replace('</style>', '\n'+(root/'src/ai.css').read_text(encoding='utf-8')+'\n</style>',1)
+base=base.replace('</style>', '\n'+(root/'src/ai.css').read_text(encoding='utf-8')+'\n'+(root/'src/authoring.css').read_text(encoding='utf-8')+'\n</style>',1)
 base=base.replace('</style>', '\n'+(root/'src/interface.css').read_text(encoding='utf-8')+'\n</style>',1)
 base=base.replace('</style>', '\n'+(root/'src/social-ui.css').read_text(encoding='utf-8')+'\n</style>',1)
 base=base.replace('</style>', '\n'+(root/'src/reference.css').read_text(encoding='utf-8')+'\n</style>',1)
@@ -112,6 +112,6 @@ base=base.replace('挂断后返回桌面','挂断后打开 Instagram 主页')
 output.mkdir(parents=True,exist_ok=True);(output/'project').mkdir(exist_ok=True)
 (output/'project/index.html').write_text(base,encoding='utf-8')
 (output/'index.html').write_text(base,encoding='utf-8')
-info={'version':'1.1.0','preset':template['preset'],'namespace':namespace,'sha256':hashlib.sha256((output/'index.html').read_bytes()).hexdigest(),'configuration':'config/phone.config.json','runtimeExternalDependencies':False,'assemblyBaselineSha256':hashlib.sha256((root/'project/CURRENT_BASELINE_v0_6.html').read_bytes()).hexdigest()}
+info={'version':'1.2.0','preset':template['preset'],'namespace':namespace,'sha256':hashlib.sha256((output/'index.html').read_bytes()).hexdigest(),'configuration':'config/phone.config.json','runtimeExternalDependencies':False,'assemblyBaselineSha256':hashlib.sha256((root/'project/CURRENT_BASELINE_v0_6.html').read_bytes()).hexdigest()}
 (output/'BUILD_INFO.json').write_text(json.dumps(info,ensure_ascii=False,indent=2)+'\n',encoding='utf-8')
 print('Built:',str(output/'index.html'),'preset='+template['preset'],str(len(base))+' characters')
