@@ -1,0 +1,119 @@
+{
+  "scope": "Mock model and VM state tests; no live API/browser/device validation",
+  "passed": 28,
+  "failed": 0,
+  "results": [
+    {
+      "name": "blank AI remains disabled with no boot network calls",
+      "status": "PASS"
+    },
+    {
+      "name": "AI screen, settings and per-chat entry render without presets",
+      "status": "PASS"
+    },
+    {
+      "name": "unknown operation, extra fields and prototype keys are rejected",
+      "status": "PASS"
+    },
+    {
+      "name": "invalid date, untranslated foreign reply and overlong action list rejected",
+      "status": "PASS"
+    },
+    {
+      "name": "one transaction updates contacts/group/messages/posts/calendar/relationships",
+      "status": "PASS"
+    },
+    {
+      "name": "undo survives reload and restores all AI-created content",
+      "status": "PASS"
+    },
+    {
+      "name": "undo preserves unrelated later notes",
+      "status": "PASS"
+    },
+    {
+      "name": "undo refuses to overwrite later manual contact edits",
+      "status": "PASS"
+    },
+    {
+      "name": "read notifications do not prevent undo of AI messages",
+      "status": "PASS"
+    },
+    {
+      "name": "invalid later operation rolls back earlier character creation",
+      "status": "PASS"
+    },
+    {
+      "name": "storage failure rolls back the complete plan",
+      "status": "PASS"
+    },
+    {
+      "name": "permission toggles enforce scope before any mutation",
+      "status": "PASS"
+    },
+    {
+      "name": "disabled AI refuses manual plans",
+      "status": "PASS"
+    },
+    {
+      "name": "account isolation blocks writes to an unselected private account",
+      "status": "PASS"
+    },
+    {
+      "name": "active X alternate account receives its own NPC post only",
+      "status": "PASS"
+    },
+    {
+      "name": "character rename migrates DM identity and preserves text",
+      "status": "PASS"
+    },
+    {
+      "name": "role replies only target the selected conversation and actual participants",
+      "status": "PASS"
+    },
+    {
+      "name": "group nonmember cannot inject a message",
+      "status": "PASS"
+    },
+    {
+      "name": "context omits PIN, cards, tokens, files and unrelated private DMs",
+      "status": "PASS"
+    },
+    {
+      "name": "role context contains only participants and selected chat text",
+      "status": "PASS"
+    },
+    {
+      "name": "stale model context is refused without changing the manual edit",
+      "status": "PASS"
+    },
+    {
+      "name": "data with markup stays escaped in console and app surfaces",
+      "status": "PASS"
+    },
+    {
+      "name": "fetch flow applies a validated plan and does not persist connection token",
+      "status": "PASS"
+    },
+    {
+      "name": "model network/format failure leaves all phone content intact",
+      "status": "PASS"
+    },
+    {
+      "name": "cancel prevents a delayed response from applying",
+      "status": "PASS"
+    },
+    {
+      "name": "automatic replies are triggered only by an enabled, connected user send",
+      "status": "PASS"
+    },
+    {
+      "name": "background changes do not replace an unsaved form or active music view",
+      "status": "PASS"
+    },
+    {
+      "name": "quick-added Kakao friends become usable group role participants only after opt-in",
+      "status": "PASS"
+    }
+  ]
+}

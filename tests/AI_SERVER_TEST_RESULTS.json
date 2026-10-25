@@ -1,0 +1,87 @@
+{
+  "scope": "Loopback HTTP and mock upstream; no real OpenAI/provider request",
+  "passed": 20,
+  "failed": 0,
+  "results": [
+    {
+      "name": "backend serves the built phone without serving source/secrets",
+      "status": "PASS"
+    },
+    {
+      "name": "health is available but session/bootstrap never discloses a token",
+      "status": "PASS"
+    },
+    {
+      "name": "missing or invalid connection code prevents any upstream call",
+      "status": "PASS"
+    },
+    {
+      "name": "authorized status reports configuration without API key or pairing token",
+      "status": "PASS"
+    },
+    {
+      "name": "unapproved browser origin is rejected before calling provider",
+      "status": "PASS"
+    },
+    {
+      "name": "local-file CORS requires a connection code and reflects only that origin",
+      "status": "PASS"
+    },
+    {
+      "name": "preflight exposes only supported headers/methods",
+      "status": "PASS"
+    },
+    {
+      "name": "Responses request uses forced strict tool call with store disabled",
+      "status": "PASS"
+    },
+    {
+      "name": "invalid JSON and non-object request do not trigger provider",
+      "status": "PASS"
+    },
+    {
+      "name": "text body and oversized context are refused",
+      "status": "PASS"
+    },
+    {
+      "name": "prototype-bearing request is rejected without execution",
+      "status": "PASS"
+    },
+    {
+      "name": "malformed or executable model output is rejected",
+      "status": "PASS"
+    },
+    {
+      "name": "role mode rejects out-of-scope model actions",
+      "status": "PASS"
+    },
+    {
+      "name": "missing API key reports a configuration error without network access",
+      "status": "PASS"
+    },
+    {
+      "name": "upstream errors never forward secret response bodies",
+      "status": "PASS"
+    },
+    {
+      "name": "chat-compatible adapter uses the same validated plan contract",
+      "status": "PASS"
+    },
+    {
+      "name": "request rate limit returns 429 before an extra model call",
+      "status": "PASS"
+    },
+    {
+      "name": "configured hosted frontend origin is supported",
+      "status": "PASS"
+    },
+    {
+      "name": "arbitrary API URLs and embedded credentials cannot be chosen by a request",
+      "status": "PASS"
+    },
+    {
+      "name": "frontend to real loopback backend to mocked model applies and persists live changes",
+      "status": "PASS"
+    }
+  ]
+}
