@@ -37,7 +37,7 @@ function storyEnabled(){return !!state.story?.enabled&&state.story.version===STO
 function storyNow(){return Date.now()+(state.story?.clock.offset||0);}
 function storyAtomic(fn){
  const snapshot=JSON.stringify(state),oldSuppress=suppressSave;let result;
- try{suppressSave=true;result=fn();suppressSave=oldSuppress;if(!oldSuppress&&!saveState())throw Error('剧情未能保存，本次变动已撤销。请检查存储空间。');}
+ try{suppressSave=true;result=fn();suppressSave=oldSuppress;if(!oldSuppress&&!saveState())throw Error('未能保存，本次改动已撤销。请检查可用存储空间。');}
  catch(e){suppressSave=oldSuppress;state=JSON.parse(snapshot);throw e;}
  invalidate();return result;
 }

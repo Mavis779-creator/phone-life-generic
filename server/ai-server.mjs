@@ -4,7 +4,7 @@ import {fileURLToPath,pathToFileURL} from 'node:url';
 import {resolve,dirname} from 'node:path';
 import {randomBytes,timingSafeEqual} from 'node:crypto';
 import {createRequire} from 'node:module';
-const require=createRequire(import.meta.url),contract=require('../src/ai-contract.js'),authoring=require('../src/authoring-contract.js'),writing=require('../src/writing-prompts.js');
+const require=createRequire(import.meta.url),contract=require('../src/ai-contract.js'),authoring=require('../src/authoring-contract.js'),writing=require('../src/writing-prompts.js'),kakaoLanguage=require('../src/kakao-language-contract.js');
 export const ROOT=resolve(dirname(fileURLToPath(import.meta.url)),'..');
 export function readEnv(file){const out={};if(!existsSync(file))return out;for(const line of readFileSync(file,'utf8').split(/\r?\n/)){const m=/^\s*([A-Z_][A-Z0-9_]*)\s*=\s*(.*?)\s*$/.exec(line);if(m){let v=m[2];if((v.startsWith('"')&&v.endsWith('"'))||(v.startsWith("'")&&v.endsWith("'")))v=v.slice(1,-1);out[m[1]]=v;}}return out;}
 const SYSTEM=`你是 PHONE LIFE 的角色与生活导演。只提出结构化操作，不执行代码、不访问真实服务。
@@ -48,7 +48,9 @@ export function createPhoneServer({env=process.env,token=env.PHONE_AI_TOKEN||ran
    else if(!['direct','roleplay'].includes(data.mode)||typeof data.instruction!=='string'||!data.instruction.trim()||data.instruction.length>6000||!data.context||typeof data.context!=='object')throw fail(400,'指令与上下文无效');
    const model=(typeof data.model==='string'&&data.model.trim())||env.OPENAI_MODEL;if(!model||model.length>120)throw fail(400,'请配置有效模型 ID');
    const tool={type:'function',name:scriptMode?'propose_story_package':'propose_phone_changes',description:scriptMode?'Compile an editable phone story package from the supplied script.':'Propose validated local simulator changes for the player request.',parameters:scriptMode?authoring.schema:contract.schema,strict:true};
-   const system=scriptMode?[writing.compiler,writing.natural,writing.presets[data.preset].text].join('\n'):[SYSTEM,writing.natural].join('\n');
+   const language=data.kakaoLanguage||data.context?.kakaoPreferences?.mode;if(language&&!['bilingual','zh'].includes(language))throw fail(400,'聊天语言选项无效');
+   const languageRules=language?`所有新建联系人姓名必须用中文汉字或中文译名，原名放简介，handle 可保留原文。KakaoTalk 角色消息采用 ${language==='zh'?'仅中文：text 使用中文，不包含韩文':'中韩双语：text 用自然韩文，translation 用对应中文；简短表情和 OK 可原样保留'}。玩家原话保持原样。剧本 choice.options 的第3项是角色回应，韩文回应需要第4项中文译文。其他平台按脚本设定语言。`:'';
+   const system=scriptMode?[writing.compiler,writing.natural,writing.presets[data.preset].text,languageRules].join('\n'):[SYSTEM,writing.natural,languageRules].join('\n');
    const payload=scriptMode?{sourceScript:data.sourceScript,playerBrief:data.playerBrief,writingPrompt:data.writingPrompt,today:new Date().toISOString().slice(0,10)}:{mode:data.mode,instruction:data.instruction,context:data.context,recentTurns:(Array.isArray(data.recentTurns)?data.recentTurns:[]).slice(-6)};
    const prompt=JSON.stringify(payload),budget=Math.min(scriptMode?24000:12000,Math.max(1024,Number(scriptMode?env.AI_SCRIPT_MAX_OUTPUT_TOKENS:env.AI_MAX_OUTPUT_TOKENS)||(scriptMode?16000:6000)));
    const body=style==='responses'?{model,instructions:system,input:prompt,tools:[tool],tool_choice:{type:'function',name:tool.name},parallel_tool_calls:false,max_output_tokens:budget,store:false}:{model,messages:[{role:'system',content:system},{role:'user',content:prompt}],tools:[{type:'function',function:{name:tool.name,description:tool.description,parameters:tool.parameters,strict:true}}],tool_choice:{type:'function',function:{name:tool.name}},parallel_tool_calls:false,max_completion_tokens:budget};
@@ -60,6 +62,7 @@ export function createPhoneServer({env=process.env,token=env.PHONE_AI_TOKEN||ran
     if(!call||typeof call.arguments!=='string'||call.arguments.length>(scriptMode?180000:160000))throw fail(502,'模型未返回完整提案，请缩短章节或提高输出上限');
     let plan;try{plan=(scriptMode?authoring.validate:contract.validatePlan)(JSON.parse(call.arguments));}catch{throw fail(502,'模型返回的格式或剧情依赖无效，本次未修改手机');}
     if(!scriptMode&&data.mode==='roleplay'&&(plan.actions.length>2||plan.actions.some(a=>a.type!=='send_message'||a.speaker==='player'||a.platform!==data.context.selectedConversation?.platform||a.target!==data.context.selectedConversation?.target||a.accountIndex!==data.context.selectedConversation?.accountIndex||!data.context.selectedConversation?.members?.includes(a.speaker))))throw fail(502,'角色回复超出当前会话范围，本次未修改手机');
+    if(language)try{(scriptMode?kakaoLanguage.story:kakaoLanguage.plan)(plan,language);}catch(e){throw fail(502,e.message+'；本次未修改手机，请重试');}
     send(200,{[scriptMode?'package':'plan']:plan,model,usage:result.usage||null});
    }finally{clearTimeout(timer);inFlight--;}
   }catch(e){send(e.status||(e.name==='AbortError'?504:e instanceof SyntaxError?400:500),{error:e.status?e.message:e.name==='AbortError'?'模型响应超时，可重新发送指令':'请求未完成，本次未修改手机'});}

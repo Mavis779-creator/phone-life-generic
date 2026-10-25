@@ -13,6 +13,8 @@
 | 内容工作室、脚本包、分支联动及编辑草稿 | 23 项 VM / 模拟模型检查通过 |
 | 脚本编排接口与前后端完整流程 | 6 项回环 HTTP / 模拟模型检查通过 |
 | 开始页状态、创作往返与锁屏衔接 | 15 项 VM 导航 / 状态检查通过 |
+| 25个应用渲染、界面入口及KKT语言/姓名 | 40项VM/模拟模型检查通过 |
+| KKT语言与中文姓名的服务端校验 | 5项回环HTTP/模拟模型检查通过 |
 | 配置与本地素材哈希检查 | 构建时执行 |
 | 根目录 HTML 与 project 构建镜像 | 一致 |
 | 消息/人物/社交动态/邮件/文件/音乐的全新空状态 | 已检查 |
@@ -25,8 +27,10 @@ VM 使用模拟 DOM、时钟、存储和媒体接口，检查真实应用代码�
 
 AI 后端检查使用临时回环端口和模拟模型响应，验证真实 HTTP 路径及手机状态同步；没有配置真实 API Key、发送付费模型请求或验证账号模型权限。AI 默认关闭。
 
-`tests/TEMPLATE_TEST_RESULTS.json`、`tests/AI_TEST_RESULTS.json`、`tests/AI_SERVER_TEST_RESULTS.json` 以及 `tests/AUTHORING_TEST_RESULTS.json`、`tests/AUTHORING_SERVER_TEST_RESULTS.json` 以及 `tests/LANDING_TEST_RESULTS.json` 保存逐项结果；可按 README 的命令在自己的环境重新运行。修改默认内容后，涉及默认数量或字段的断言应随之调整。
+`tests/TEMPLATE_TEST_RESULTS.json`、`tests/AI_TEST_RESULTS.json`、`tests/AI_SERVER_TEST_RESULTS.json` 以及 `tests/AUTHORING_TEST_RESULTS.json`、`tests/AUTHORING_SERVER_TEST_RESULTS.json` 以及 `tests/LANDING_TEST_RESULTS.json` 以及 `tests/UI_LANGUAGE_TEST_RESULTS.json`、`tests/LANGUAGE_SERVER_TEST_RESULTS.json` 保存逐项结果；可按 README 的命令在自己的环境重新运行。修改默认内容后，涉及默认数量或字段的断言应随之调整。
 
 脚本编排检查包含开场立即通知、群聊人物区分、分支跳过与汇合、五个社交平台帖子和日历联动、刷新后的幂等执行、安装失败回滚、离线双方对话和帖子编辑、草稿与编辑对象一起恢复、账号隔离与撤销。后端检查验证强制工具调用、共享结构校验、认证/来源限制、超大正文、两个模型接口适配器以及显式安装前不修改手机。测试虚构人物仅存在于 tests 的夹具中，不是手机可选择的预设。
 
 1.2.1 开始页使用独立彩色样式，未改手机桌面。检查覆盖草稿、运行/暂停/完成、创作直接进入和嵌套返回、主页手势、PIN 错误重试、未保存表单草稿、异步编排后开始页刷新，以及长名称/标题的转义。未进行真实浏览器视觉和触摸测试。
+
+1.3.0 的样式清点与逐应用记录见 [UI_REVIEW.md](UI_REVIEW.md)。检查统计仅为源码声明；25个应用入口和社交有内容页面已做模拟DOM渲染，未做真实浏览器截图/几何测量或与原生应用像素对照。新KKT语言、中文姓名、四段选项、未完成连接表单及迟到结果处理均有回归检查。

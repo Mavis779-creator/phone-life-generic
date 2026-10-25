@@ -1,0 +1,27 @@
+{
+  "scope": "Mock provider and local HTTP only; no live model or real key",
+  "passed": 5,
+  "failed": 0,
+  "results": [
+    {
+      "name": "bilingual response enforces Korean original and real Chinese translation",
+      "status": "PASS"
+    },
+    {
+      "name": "Chinese mode rejects Korean and accepts Chinese without adding fake translations",
+      "status": "PASS"
+    },
+    {
+      "name": "new generated character names must use Chinese while account handles stay original",
+      "status": "PASS"
+    },
+    {
+      "name": "script package mode applies to KKT lines and translated choices",
+      "status": "PASS"
+    },
+    {
+      "name": "unknown language and non-Chinese generated script cast are refused",
+      "status": "PASS"
+    }
+  ]
+}

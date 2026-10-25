@@ -1,0 +1,167 @@
+{
+  "scope": "Source-render/state and mocked model; no browser layout, real platform parity or live model quality validation",
+  "passed": 40,
+  "failed": 0,
+  "results": [
+    {
+      "name": "desktop app renders and declares style scope: 日历",
+      "status": "PASS"
+    },
+    {
+      "name": "desktop app renders and declares style scope: 照片",
+      "status": "PASS"
+    },
+    {
+      "name": "desktop app renders and declares style scope: KakaoTalk",
+      "status": "PASS"
+    },
+    {
+      "name": "desktop app renders and declares style scope: Instagram",
+      "status": "PASS"
+    },
+    {
+      "name": "desktop app renders and declares style scope: 邮件",
+      "status": "PASS"
+    },
+    {
+      "name": "desktop app renders and declares style scope: 备忘录",
+      "status": "PASS"
+    },
+    {
+      "name": "desktop app renders and declares style scope: Safari",
+      "status": "PASS"
+    },
+    {
+      "name": "desktop app renders and declares style scope: 音乐",
+      "status": "PASS"
+    },
+    {
+      "name": "desktop app renders and declares style scope: 电话",
+      "status": "PASS"
+    },
+    {
+      "name": "desktop app renders and declares style scope: 生活计划",
+      "status": "PASS"
+    },
+    {
+      "name": "desktop app renders and declares style scope: 通知中心",
+      "status": "PASS"
+    },
+    {
+      "name": "desktop app renders and declares style scope: 设置",
+      "status": "PASS"
+    },
+    {
+      "name": "desktop app renders and declares style scope: X",
+      "status": "PASS"
+    },
+    {
+      "name": "desktop app renders and declares style scope: Threads",
+      "status": "PASS"
+    },
+    {
+      "name": "desktop app renders and declares style scope: TikTok",
+      "status": "PASS"
+    },
+    {
+      "name": "desktop app renders and declares style scope: Weverse",
+      "status": "PASS"
+    },
+    {
+      "name": "desktop app renders and declares style scope: YouTube",
+      "status": "PASS"
+    },
+    {
+      "name": "desktop app renders and declares style scope: 相机",
+      "status": "PASS"
+    },
+    {
+      "name": "desktop app renders and declares style scope: 地图",
+      "status": "PASS"
+    },
+    {
+      "name": "desktop app renders and declares style scope: Gmail",
+      "status": "PASS"
+    },
+    {
+      "name": "desktop app renders and declares style scope: 文件",
+      "status": "PASS"
+    },
+    {
+      "name": "desktop app renders and declares style scope: 语音备忘录",
+      "status": "PASS"
+    },
+    {
+      "name": "desktop app renders and declares style scope: 提醒事项",
+      "status": "PASS"
+    },
+    {
+      "name": "desktop app renders and declares style scope: 商城",
+      "status": "PASS"
+    },
+    {
+      "name": "desktop app renders and declares style scope: 食光外卖",
+      "status": "PASS"
+    },
+    {
+      "name": "settings retains all existing device/media/save actions in native groups",
+      "status": "PASS"
+    },
+    {
+      "name": "phone keypad/history and maps detail retain functional controls and no character placeholder glyphs",
+      "status": "PASS"
+    },
+    {
+      "name": "all social search, detail and message routes render with user content",
+      "status": "PASS"
+    },
+    {
+      "name": "default bilingual displays original and real Chinese translation without technical prefix",
+      "status": "PASS"
+    },
+    {
+      "name": "Chinese view, chat preview, quoted text and lock notice share one preference",
+      "status": "PASS"
+    },
+    {
+      "name": "missing old translation remains explicit and never silently erases original",
+      "status": "PASS"
+    },
+    {
+      "name": "language switching persists without changing old messages, draft or actor names",
+      "status": "PASS"
+    },
+    {
+      "name": "language setting is reachable from chat menu and does not inject an AI header button",
+      "status": "PASS"
+    },
+    {
+      "name": "new generated contacts require Chinese names while handles and existing manual names remain flexible",
+      "status": "PASS"
+    },
+    {
+      "name": "generation language validates Korean plus Chinese and rejects mixed mode output",
+      "status": "PASS"
+    },
+    {
+      "name": "bilingual scripted choices preserve their Chinese translation on actual delivery",
+      "status": "PASS"
+    },
+    {
+      "name": "invalid generated language/name never writes a role response or replaces a script draft",
+      "status": "PASS"
+    },
+    {
+      "name": "script compiler transmits selected language and accepts a matching bilingual package",
+      "status": "PASS"
+    },
+    {
+      "name": "changing language from connection settings keeps unsubmitted fields and does not enable AI",
+      "status": "PASS"
+    },
+    {
+      "name": "language changed during compilation prevents an old-mode package from replacing the draft",
+      "status": "PASS"
+    }
+  ]
+}

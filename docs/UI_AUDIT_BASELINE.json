@@ -1,0 +1,1858 @@
+{
+  "scope": "Source declarations only; no computed cascade, browser geometry or screenshot validation",
+  "apps": [
+    {
+      "id": "calendar",
+      "name": "日历"
+    },
+    {
+      "id": "photos",
+      "name": "照片"
+    },
+    {
+      "id": "kakao",
+      "name": "KakaoTalk"
+    },
+    {
+      "id": "instagram",
+      "name": "Instagram"
+    },
+    {
+      "id": "mail",
+      "name": "邮件"
+    },
+    {
+      "id": "notes",
+      "name": "备忘录"
+    },
+    {
+      "id": "safari",
+      "name": "Safari"
+    },
+    {
+      "id": "applemusic",
+      "name": "音乐"
+    },
+    {
+      "id": "phone",
+      "name": "电话"
+    },
+    {
+      "id": "company",
+      "name": "生活计划"
+    },
+    {
+      "id": "notifications",
+      "name": "通知中心"
+    },
+    {
+      "id": "settings",
+      "name": "设置"
+    },
+    {
+      "id": "x",
+      "name": "X"
+    },
+    {
+      "id": "threads",
+      "name": "Threads"
+    },
+    {
+      "id": "tiktok",
+      "name": "TikTok"
+    },
+    {
+      "id": "weverse",
+      "name": "Weverse"
+    },
+    {
+      "id": "youtube",
+      "name": "YouTube"
+    },
+    {
+      "id": "camera",
+      "name": "相机"
+    },
+    {
+      "id": "maps",
+      "name": "地图"
+    },
+    {
+      "id": "gmail",
+      "name": "Gmail"
+    },
+    {
+      "id": "files",
+      "name": "文件"
+    },
+    {
+      "id": "voicememos",
+      "name": "语音备忘录"
+    },
+    {
+      "id": "reminders",
+      "name": "提醒事项"
+    },
+    {
+      "id": "shop",
+      "name": "商城"
+    },
+    {
+      "id": "delivery",
+      "name": "食光外卖"
+    }
+  ],
+  "files": [
+    {
+      "file": "ai.css",
+      "smallTextDeclarations": [
+        {
+          "selector": ".ai-intro small,.ai-turn small",
+          "px": 11.0,
+          "decorativeException": false
+        }
+      ]
+    },
+    {
+      "file": "authoring.css",
+      "smallTextDeclarations": [
+        {
+          "selector": ".au-studio header small",
+          "px": 10.0,
+          "decorativeException": false
+        },
+        {
+          "selector": ".au-studio small",
+          "px": 11.0,
+          "decorativeException": false
+        }
+      ]
+    },
+    {
+      "file": "call-polish.css",
+      "smallTextDeclarations": [
+        {
+          "selector": ".native-phone-call .call-heading",
+          "px": 10.0,
+          "decorativeException": false
+        },
+        {
+          "selector": ".native-phone-controls small",
+          "px": 11.0,
+          "decorativeException": false
+        }
+      ]
+    },
+    {
+      "file": "delivery.css",
+      "smallTextDeclarations": [
+        {
+          "selector": ".de-intro>small",
+          "px": 9.0,
+          "decorativeException": false
+        },
+        {
+          "selector": ".de-store-card p",
+          "px": 11.0,
+          "decorativeException": false
+        },
+        {
+          "selector": ".de-store-card small",
+          "px": 11.0,
+          "decorativeException": false
+        },
+        {
+          "selector": ".de-store-card span",
+          "px": 10.0,
+          "decorativeException": false
+        },
+        {
+          "selector": ".de-footnote",
+          "px": 10.0,
+          "decorativeException": false
+        },
+        {
+          "selector": ".de-tabs button",
+          "px": 10.0,
+          "decorativeException": false
+        },
+        {
+          "selector": ".de-cartbar small",
+          "px": 10.0,
+          "decorativeException": false
+        },
+        {
+          "selector": ".de-store-head small",
+          "px": 11.0,
+          "decorativeException": false
+        },
+        {
+          "selector": ".de-menu-row p",
+          "px": 11.0,
+          "decorativeException": false
+        },
+        {
+          "selector": ".de-cartline small",
+          "px": 11.0,
+          "decorativeException": false
+        },
+        {
+          "selector": ".de-panel>small",
+          "px": 10.0,
+          "decorativeException": false
+        },
+        {
+          "selector": ".de-order-card b",
+          "px": 11.0,
+          "decorativeException": false
+        },
+        {
+          "selector": ".de-order-card small",
+          "px": 11.0,
+          "decorativeException": false
+        },
+        {
+          "selector": ".de-order-head small",
+          "px": 10.0,
+          "decorativeException": false
+        },
+        {
+          "selector": ".de-brand-mark small",
+          "px": 9.0,
+          "decorativeException": false
+        },
+        {
+          "selector": ".de-result-count",
+          "px": 11.0,
+          "decorativeException": false
+        },
+        {
+          "selector": ".de-brand-mark b",
+          "px": 10.0,
+          "decorativeException": false
+        }
+      ]
+    },
+    {
+      "file": "interface.css",
+      "smallTextDeclarations": [
+        {
+          "selector": ".private-mark",
+          "px": 11.0,
+          "decorativeException": false
+        },
+        {
+          "selector": ".widget-event",
+          "px": 10.0,
+          "decorativeException": false
+        },
+        {
+          "selector": ".recent-caption",
+          "px": 11.0,
+          "decorativeException": false
+        },
+        {
+          "selector": ".app-label",
+          "px": 11.0,
+          "decorativeException": false
+        },
+        {
+          "selector": ".search-pill",
+          "px": 11.0,
+          "decorativeException": false
+        },
+        {
+          "selector": "#storageWarning",
+          "px": 11.0,
+          "decorativeException": false
+        },
+        {
+          "selector": ".kakao-tabbar button small",
+          "px": 9.0,
+          "decorativeException": false
+        },
+        {
+          "selector": ".chat-bubble .translation",
+          "px": 11.0,
+          "decorativeException": false
+        },
+        {
+          "selector": ".chat-meta",
+          "px": 9.0,
+          "decorativeException": false
+        },
+        {
+          "selector": ".quoted,.quote-preview",
+          "px": 11.0,
+          "decorativeException": false
+        },
+        {
+          "selector": ".post-action span",
+          "px": 10.0,
+          "decorativeException": false
+        },
+        {
+          "selector": ".social-bottom button small",
+          "px": 9.0,
+          "decorativeException": false
+        },
+        {
+          "selector": ".media-placeholder small",
+          "px": 11.0,
+          "decorativeException": false
+        },
+        {
+          "selector": ".spotify-hero>small",
+          "px": 10.0,
+          "decorativeException": false
+        },
+        {
+          "selector": ".spotify-track>span:last-child",
+          "px": 11.0,
+          "decorativeException": false
+        },
+        {
+          "selector": ".photo-tile .media-placeholder small",
+          "px": 9.0,
+          "decorativeException": false
+        },
+        {
+          "selector": ".photo-viewer-actions button",
+          "px": 11.0,
+          "decorativeException": false
+        },
+        {
+          "selector": ".favorite-label,.video-label",
+          "px": 10.0,
+          "decorativeException": false
+        },
+        {
+          "selector": ".calendar-grid b",
+          "px": 11.0,
+          "decorativeException": false
+        },
+        {
+          "selector": ".phone-tabs small",
+          "px": 9.0,
+          "decorativeException": false
+        },
+        {
+          "selector": ".call-record span:last-child",
+          "px": 11.0,
+          "decorativeException": false
+        },
+        {
+          "selector": ".mail-detail small",
+          "px": 11.0,
+          "decorativeException": false
+        },
+        {
+          "selector": ".browser-toolbar button",
+          "px": 11.0,
+          "decorativeException": false
+        },
+        {
+          "selector": ".offline-page>small",
+          "px": 11.0,
+          "decorativeException": false
+        },
+        {
+          "selector": ".local-map small",
+          "px": 10.0,
+          "decorativeException": false
+        },
+        {
+          "selector": ".settings-cell>span small",
+          "px": 11.0,
+          "decorativeException": false
+        },
+        {
+          "selector": ".camera-preview small",
+          "px": 10.0,
+          "decorativeException": false
+        },
+        {
+          "selector": ".camera-shutter",
+          "px": 10.0,
+          "decorativeException": false
+        },
+        {
+          "selector": ".sheet-content .account-option small",
+          "px": 11.0,
+          "decorativeException": false
+        },
+        {
+          "selector": ".notification-row .translation",
+          "px": 11.0,
+          "decorativeException": false
+        },
+        {
+          "selector": ".widget-event",
+          "px": 9.0,
+          "decorativeException": false
+        },
+        {
+          "selector": ".app-label",
+          "px": 10.0,
+          "decorativeException": false
+        },
+        {
+          "selector": ".creator-sheet .creator-row small",
+          "px": 11.0,
+          "decorativeException": false
+        },
+        {
+          "selector": ".creator-app small",
+          "px": 11.0,
+          "decorativeException": false
+        },
+        {
+          "selector": ".creator-bottom button",
+          "px": 10.0,
+          "decorativeException": false
+        },
+        {
+          "selector": ".creator-bottom span",
+          "px": 10.0,
+          "decorativeException": false
+        },
+        {
+          "selector": ".creator-kicker",
+          "px": 11.0,
+          "decorativeException": false
+        },
+        {
+          "selector": ".creator-app .small-note",
+          "px": 11.0,
+          "decorativeException": false
+        },
+        {
+          "selector": ".wv-community-cover small",
+          "px": 8.0,
+          "decorativeException": false
+        },
+        {
+          "selector": ".wv-artist-badge",
+          "px": 9.0,
+          "decorativeException": true
+        },
+        {
+          "selector": ".wv-quick button",
+          "px": 10.0,
+          "decorativeException": false
+        },
+        {
+          "selector": ".wv-post>header small",
+          "px": 10.0,
+          "decorativeException": false
+        },
+        {
+          "selector": ".wv-check",
+          "px": 10.0,
+          "decorativeException": false
+        },
+        {
+          "selector": ".wv-comment button",
+          "px": 11.0,
+          "decorativeException": false
+        },
+        {
+          "selector": ".wv-profile-stats small",
+          "px": 10.0,
+          "decorativeException": false
+        },
+        {
+          "selector": ".wv-dm-note",
+          "px": 10.0,
+          "decorativeException": false
+        },
+        {
+          "selector": ".wv-dm-message small",
+          "px": 9.0,
+          "decorativeException": false
+        },
+        {
+          "selector": ".yt-thumb em",
+          "px": 10.0,
+          "decorativeException": false
+        },
+        {
+          "selector": ".yt-empty-thumb small",
+          "px": 10.0,
+          "decorativeException": false
+        },
+        {
+          "selector": ".yt-video-info small",
+          "px": 10.0,
+          "decorativeException": false
+        },
+        {
+          "selector": ".yt-video-card.compact .yt-empty-thumb small",
+          "px": 8.0,
+          "decorativeException": false
+        },
+        {
+          "selector": ".yt-video-card.compact .yt-video-info small",
+          "px": 9.0,
+          "decorativeException": false
+        },
+        {
+          "selector": ".yt-watch-info>small",
+          "px": 10.0,
+          "decorativeException": false
+        },
+        {
+          "selector": ".yt-comment small",
+          "px": 10.0,
+          "decorativeException": false
+        },
+        {
+          "selector": ".yt-comment button",
+          "px": 10.0,
+          "decorativeException": false
+        },
+        {
+          "selector": ".yt-creator-heart",
+          "px": 10.0,
+          "decorativeException": false
+        },
+        {
+          "selector": ".yt-profile p",
+          "px": 11.0,
+          "decorativeException": false
+        },
+        {
+          "selector": ".yt-profile button",
+          "px": 10.0,
+          "decorativeException": false
+        },
+        {
+          "selector": ".yt-channel-cover span",
+          "px": 8.0,
+          "decorativeException": false
+        },
+        {
+          "selector": ".yt-channel-head p",
+          "px": 11.0,
+          "decorativeException": false
+        },
+        {
+          "selector": ".live-pill",
+          "px": 11.0,
+          "decorativeException": false
+        },
+        {
+          "selector": ".live-chat strong",
+          "px": 11.0,
+          "decorativeException": false
+        },
+        {
+          "selector": ".creator-actions button",
+          "px": 11.0,
+          "decorativeException": false
+        },
+        {
+          "selector": ".call-heading",
+          "px": 11.0,
+          "decorativeException": false
+        },
+        {
+          "selector": ".call-person>small",
+          "px": 10.0,
+          "decorativeException": false
+        },
+        {
+          "selector": ".call-control small",
+          "px": 10.0,
+          "decorativeException": false
+        },
+        {
+          "selector": ".call-media-hint",
+          "px": 9.0,
+          "decorativeException": false
+        },
+        {
+          "selector": ".call-self-preview>span",
+          "px": 9.0,
+          "decorativeException": false
+        },
+        {
+          "selector": ".call-message .translation",
+          "px": 11.0,
+          "decorativeException": false
+        },
+        {
+          "selector": "#callBanner",
+          "px": 11.0,
+          "decorativeException": false
+        },
+        {
+          "selector": ".call-media-hint",
+          "px": 8.0,
+          "decorativeException": false
+        }
+      ]
+    },
+    {
+      "file": "landing.css",
+      "smallTextDeclarations": [
+        {
+          "selector": ".pl-landing .pl-brand",
+          "px": 11.0,
+          "decorativeException": false
+        },
+        {
+          "selector": ".pl-local",
+          "px": 10.0,
+          "decorativeException": false
+        },
+        {
+          "selector": ".pl-greeting>span:last-child",
+          "px": 10.0,
+          "decorativeException": false
+        },
+        {
+          "selector": ".pl-enter small",
+          "px": 11.0,
+          "decorativeException": false
+        },
+        {
+          "selector": ".pl-section-label>span",
+          "px": 9.0,
+          "decorativeException": false
+        },
+        {
+          "selector": ".pl-create-card small",
+          "px": 11.0,
+          "decorativeException": false
+        },
+        {
+          "selector": ".pl-card-top",
+          "px": 10.0,
+          "decorativeException": false
+        },
+        {
+          "selector": ".pl-status",
+          "px": 9.0,
+          "decorativeException": false
+        },
+        {
+          "selector": ".pl-progress-meta",
+          "px": 9.0,
+          "decorativeException": false
+        },
+        {
+          "selector": ".pl-content-card>p",
+          "px": 10.0,
+          "decorativeException": false
+        },
+        {
+          "selector": ".pl-draft-link",
+          "px": 10.0,
+          "decorativeException": false
+        },
+        {
+          "selector": ".pl-empty-card h2",
+          "px": 11.0,
+          "decorativeException": false
+        },
+        {
+          "selector": ".pl-empty-card p",
+          "px": 10.0,
+          "decorativeException": false
+        },
+        {
+          "selector": ".pl-footer nav button",
+          "px": 9.0,
+          "decorativeException": false
+        },
+        {
+          "selector": ".pl-footnote",
+          "px": 9.0,
+          "decorativeException": false
+        },
+        {
+          "selector": ".pl-footnote",
+          "px": 8.0,
+          "decorativeException": false
+        }
+      ]
+    },
+    {
+      "file": "lock-screen.css",
+      "smallTextDeclarations": [
+        {
+          "selector": "#lockLayer .lock-status",
+          "px": 11.0,
+          "decorativeException": false
+        },
+        {
+          "selector": "#lockLayer .lock-focus",
+          "px": 11.0,
+          "decorativeException": false
+        },
+        {
+          "selector": ".lk-widget small",
+          "px": 10.0,
+          "decorativeException": false
+        },
+        {
+          "selector": ".lk-notification-heading",
+          "px": 10.0,
+          "decorativeException": false
+        },
+        {
+          "selector": ".lk-notice-icon>b",
+          "px": 10.0,
+          "decorativeException": false
+        },
+        {
+          "selector": ".lk-notice-head>time",
+          "px": 10.0,
+          "decorativeException": false
+        },
+        {
+          "selector": ".lk-notice-translation",
+          "px": 10.0,
+          "decorativeException": false
+        },
+        {
+          "selector": ".lk-stack-label",
+          "px": 9.0,
+          "decorativeException": false
+        },
+        {
+          "selector": ".lk-clear-group",
+          "px": 11.0,
+          "decorativeException": false
+        },
+        {
+          "selector": "#lockLayer .lock-swipe-hint",
+          "px": 10.0,
+          "decorativeException": false
+        },
+        {
+          "selector": ".lk-music-top small",
+          "px": 10.0,
+          "decorativeException": false
+        },
+        {
+          "selector": ".lk-music-progress",
+          "px": 9.0,
+          "decorativeException": false
+        },
+        {
+          "selector": ".di-compact-time",
+          "px": 9.0,
+          "decorativeException": false
+        },
+        {
+          "selector": ".di-expanded-head small",
+          "px": 11.0,
+          "decorativeException": false
+        },
+        {
+          "selector": ".lk-notice-body",
+          "px": 11.0,
+          "decorativeException": false
+        },
+        {
+          "selector": ".lk-notice-translation",
+          "px": 9.0,
+          "decorativeException": false
+        },
+        {
+          "selector": ".lk-widget strong",
+          "px": 11.0,
+          "decorativeException": false
+        },
+        {
+          "selector": ".lk-widget small",
+          "px": 9.0,
+          "decorativeException": false
+        },
+        {
+          "selector": ".lk-notice-head time",
+          "px": 9.0,
+          "decorativeException": false
+        },
+        {
+          "selector": ".di-compact-time",
+          "px": 8.0,
+          "decorativeException": false
+        }
+      ]
+    },
+    {
+      "file": "music-reference.css",
+      "smallTextDeclarations": [
+        {
+          "selector": ".am-album>small",
+          "px": 11.0,
+          "decorativeException": false
+        },
+        {
+          "selector": ".am-art>small",
+          "px": 10.0,
+          "decorativeException": false
+        },
+        {
+          "selector": ".am-tabs>button",
+          "px": 10.0,
+          "decorativeException": false
+        },
+        {
+          "selector": ".am-station>small",
+          "px": 8.0,
+          "decorativeException": false
+        },
+        {
+          "selector": ".am-onair>span",
+          "px": 11.0,
+          "decorativeException": false
+        },
+        {
+          "selector": ".am-note",
+          "px": 11.0,
+          "decorativeException": false
+        },
+        {
+          "selector": ".am-player-top>small",
+          "px": 9.0,
+          "decorativeException": false
+        },
+        {
+          "selector": ".am-player .player-times",
+          "px": 10.0,
+          "decorativeException": false
+        },
+        {
+          "selector": ".am-audio-note",
+          "px": 9.0,
+          "decorativeException": false
+        },
+        {
+          "selector": ".am-library-button small",
+          "px": 11.0,
+          "decorativeException": false
+        },
+        {
+          "selector": ".am-playlist-tracks label small",
+          "px": 11.0,
+          "decorativeException": false
+        }
+      ]
+    },
+    {
+      "file": "productivity.css",
+      "smallTextDeclarations": [
+        {
+          "selector": ".pu-bottom button",
+          "px": 10.0,
+          "decorativeException": false
+        },
+        {
+          "selector": ".pu-bottom small",
+          "px": 10.0,
+          "decorativeException": false
+        },
+        {
+          "selector": ".gm-categories small",
+          "px": 10.0,
+          "decorativeException": false
+        },
+        {
+          "selector": ".gm-mail-copy time",
+          "px": 10.0,
+          "decorativeException": false
+        },
+        {
+          "selector": ".gm-mail-copy em",
+          "px": 10.0,
+          "decorativeException": false
+        },
+        {
+          "selector": ".gm-message header small",
+          "px": 11.0,
+          "decorativeException": false
+        },
+        {
+          "selector": ".gm-attachments>div>.plain-button",
+          "px": 11.0,
+          "decorativeException": false
+        },
+        {
+          "selector": ".pf-file-open small",
+          "px": 11.0,
+          "decorativeException": false
+        },
+        {
+          "selector": ".pf-grid .pf-file-open small",
+          "px": 9.0,
+          "decorativeException": false
+        },
+        {
+          "selector": ".pu-file-card small",
+          "px": 10.0,
+          "decorativeException": false
+        },
+        {
+          "selector": ".vm-record small",
+          "px": 11.0,
+          "decorativeException": false
+        },
+        {
+          "selector": ".vm-recording-bar>small",
+          "px": 10.0,
+          "decorativeException": false
+        },
+        {
+          "selector": ".pr-task-body time",
+          "px": 11.0,
+          "decorativeException": false
+        }
+      ]
+    },
+    {
+      "file": "reference.css",
+      "smallTextDeclarations": [
+        {
+          "selector": ".yr-private-short",
+          "px": 10.0,
+          "decorativeException": false
+        },
+        {
+          "selector": ".kk-chat-row time",
+          "px": 10.0,
+          "decorativeException": false
+        },
+        {
+          "selector": ".kk-chat-row aside i",
+          "px": 10.0,
+          "decorativeException": false
+        },
+        {
+          "selector": ".kk-services>button",
+          "px": 11.0,
+          "decorativeException": false
+        },
+        {
+          "selector": ".kk-recommended button",
+          "px": 11.0,
+          "decorativeException": false
+        },
+        {
+          "selector": ".kk-profile-posts time",
+          "px": 10.0,
+          "decorativeException": false
+        },
+        {
+          "selector": ".kk-date",
+          "px": 10.0,
+          "decorativeException": false
+        },
+        {
+          "selector": ".kk-message-wrap>small",
+          "px": 10.0,
+          "decorativeException": false
+        },
+        {
+          "selector": ".kk-bubble .translation",
+          "px": 10.0,
+          "decorativeException": false
+        },
+        {
+          "selector": ".kk-line>time",
+          "px": 9.0,
+          "decorativeException": false
+        },
+        {
+          "selector": ".kk-line time>em",
+          "px": 11.0,
+          "decorativeException": false
+        },
+        {
+          "selector": ".kk-quoted",
+          "px": 10.0,
+          "decorativeException": false
+        },
+        {
+          "selector": ".kk-withdrawn",
+          "px": 10.0,
+          "decorativeException": false
+        },
+        {
+          "selector": ".kk-voice button",
+          "px": 11.0,
+          "decorativeException": false
+        },
+        {
+          "selector": ".kk-reply",
+          "px": 11.0,
+          "decorativeException": false
+        },
+        {
+          "selector": ".rt-top small",
+          "px": 11.0,
+          "decorativeException": false
+        },
+        {
+          "selector": ".rt-author time",
+          "px": 11.0,
+          "decorativeException": false
+        },
+        {
+          "selector": ".rt-copy .translation",
+          "px": 11.0,
+          "decorativeException": false
+        },
+        {
+          "selector": ".rt-topic",
+          "px": 11.0,
+          "decorativeException": false
+        },
+        {
+          "selector": ".rt-actions>button",
+          "px": 11.0,
+          "decorativeException": false
+        },
+        {
+          "selector": ".rt-actions span",
+          "px": 11.0,
+          "decorativeException": false
+        },
+        {
+          "selector": ".rt-ghost-label",
+          "px": 10.0,
+          "decorativeException": false
+        },
+        {
+          "selector": ".rt-comment-main time",
+          "px": 10.0,
+          "decorativeException": false
+        },
+        {
+          "selector": ".rt-comment-main .translation",
+          "px": 11.0,
+          "decorativeException": false
+        },
+        {
+          "selector": ".rt-reply-compose>.avatar",
+          "px": 11.0,
+          "decorativeException": false
+        },
+        {
+          "selector": ".rt-reply-context",
+          "px": 10.0,
+          "decorativeException": false
+        },
+        {
+          "selector": ".rt-reply-context button",
+          "px": 11.0,
+          "decorativeException": false
+        },
+        {
+          "selector": ".rt-profile-topics button",
+          "px": 11.0,
+          "decorativeException": false
+        },
+        {
+          "selector": ".rt-search-person small",
+          "px": 11.0,
+          "decorativeException": false
+        },
+        {
+          "selector": ".rt-activity-avatar i",
+          "px": 11.0,
+          "decorativeException": false
+        },
+        {
+          "selector": ".rt-activity-row small",
+          "px": 10.0,
+          "decorativeException": false
+        },
+        {
+          "selector": ".rt-compose .small-note",
+          "px": 10.0,
+          "decorativeException": false
+        },
+        {
+          "selector": ".yr-bottom small",
+          "px": 9.0,
+          "decorativeException": false
+        },
+        {
+          "selector": ".yr-bottom .yr-avatar",
+          "px": 10.0,
+          "decorativeException": false
+        },
+        {
+          "selector": ".yr-channel-strip>button",
+          "px": 11.0,
+          "decorativeException": false
+        },
+        {
+          "selector": ".yr-channel-strip small",
+          "px": 10.0,
+          "decorativeException": false
+        },
+        {
+          "selector": ".yr-library-shelf header button,.yr-media-library header button",
+          "px": 11.0,
+          "decorativeException": false
+        },
+        {
+          "selector": ".yr-history-strip article>small",
+          "px": 10.0,
+          "decorativeException": false
+        },
+        {
+          "selector": ".yr-library-row small",
+          "px": 10.0,
+          "decorativeException": false
+        },
+        {
+          "selector": ".yr-short-stage>aside small",
+          "px": 10.0,
+          "decorativeException": false
+        },
+        {
+          "selector": ".yr-short-caption>div>button+button",
+          "px": 11.0,
+          "decorativeException": false
+        },
+        {
+          "selector": ".yr-capture-controls small",
+          "px": 11.0,
+          "decorativeException": false
+        },
+        {
+          "selector": ".yr-camera-page>.small-note",
+          "px": 10.0,
+          "decorativeException": false
+        },
+        {
+          "selector": ".xr-post-main header>span",
+          "px": 11.0,
+          "decorativeException": false
+        },
+        {
+          "selector": ".xr-post-main header>.plain-button",
+          "px": 11.0,
+          "decorativeException": false
+        },
+        {
+          "selector": ".xr-post-text .translation",
+          "px": 11.0,
+          "decorativeException": false
+        },
+        {
+          "selector": ".xr-post-main footer small",
+          "px": 9.0,
+          "decorativeException": false
+        },
+        {
+          "selector": ".xr-notification small",
+          "px": 10.0,
+          "decorativeException": false
+        },
+        {
+          "selector": ".xr-notification-thumb .scene-photo p",
+          "px": 6.0,
+          "decorativeException": false
+        },
+        {
+          "selector": ".xr-list-row small",
+          "px": 11.0,
+          "decorativeException": false
+        },
+        {
+          "selector": ".xr-explore-hero small",
+          "px": 10.0,
+          "decorativeException": false
+        },
+        {
+          "selector": ".xr-topic-row small",
+          "px": 11.0,
+          "decorativeException": false
+        },
+        {
+          "selector": ".kk-services>button",
+          "px": 10.0,
+          "decorativeException": false
+        },
+        {
+          "selector": ".rt-follow",
+          "px": 11.0,
+          "decorativeException": false
+        },
+        {
+          "selector": ".xr-post-main footer small",
+          "px": 8.0,
+          "decorativeException": false
+        }
+      ]
+    },
+    {
+      "file": "shop.css",
+      "smallTextDeclarations": [
+        {
+          "selector": ".sh-collection .sh-brand-divider>small",
+          "px": 11.0,
+          "decorativeException": false
+        },
+        {
+          "selector": ".sh-hero small,.sh-profile>small",
+          "px": 10.0,
+          "decorativeException": false
+        },
+        {
+          "selector": ".sh-hero>span",
+          "px": 10.0,
+          "decorativeException": false
+        },
+        {
+          "selector": ".sh-list-title select",
+          "px": 11.0,
+          "decorativeException": false
+        },
+        {
+          "selector": ".sh-brand-cover small",
+          "px": 9.0,
+          "decorativeException": false
+        },
+        {
+          "selector": ".sh-tile-info>small",
+          "px": 9.0,
+          "decorativeException": false
+        },
+        {
+          "selector": ".sh-tile-info strong small",
+          "px": 10.0,
+          "decorativeException": false
+        },
+        {
+          "selector": ".sh-footnote",
+          "px": 10.0,
+          "decorativeException": false
+        },
+        {
+          "selector": ".sh-tabs>button",
+          "px": 10.0,
+          "decorativeException": false
+        },
+        {
+          "selector": ".sh-detail>small",
+          "px": 11.0,
+          "decorativeException": false
+        },
+        {
+          "selector": ".sh-row>small",
+          "px": 10.0,
+          "decorativeException": false
+        },
+        {
+          "selector": ".sh-stepper button:last-child:not(:nth-child(3))",
+          "px": 11.0,
+          "decorativeException": false
+        },
+        {
+          "selector": ".sh-detail-facts p",
+          "px": 11.0,
+          "decorativeException": false
+        },
+        {
+          "selector": ".sh-purchase>div small",
+          "px": 10.0,
+          "decorativeException": false
+        },
+        {
+          "selector": ".sh-mini-image .sh-brand-cover b",
+          "px": 11.0,
+          "decorativeException": false
+        },
+        {
+          "selector": ".sh-mini-image .sh-brand-cover span",
+          "px": 9.0,
+          "decorativeException": false
+        },
+        {
+          "selector": ".sh-line-info>small",
+          "px": 9.0,
+          "decorativeException": false
+        },
+        {
+          "selector": ".sh-line-info p",
+          "px": 10.0,
+          "decorativeException": false
+        },
+        {
+          "selector": ".sh-checkout-step",
+          "px": 10.0,
+          "decorativeException": false
+        },
+        {
+          "selector": ".sh-timeline li small",
+          "px": 10.0,
+          "decorativeException": false
+        },
+        {
+          "selector": ".sh-account-grid small",
+          "px": 11.0,
+          "decorativeException": false
+        },
+        {
+          "selector": ".sh-bank-card .sh-row>small",
+          "px": 9.0,
+          "decorativeException": false
+        },
+        {
+          "selector": ".sh-bank-card p",
+          "px": 11.0,
+          "decorativeException": false
+        },
+        {
+          "selector": ".sh-bank-card>small",
+          "px": 10.0,
+          "decorativeException": false
+        },
+        {
+          "selector": ".sh-bank-card button",
+          "px": 10.0,
+          "decorativeException": false
+        },
+        {
+          "selector": ".sh-ledger-name small",
+          "px": 10.0,
+          "decorativeException": false
+        },
+        {
+          "selector": ".sh-chat-card>small",
+          "px": 10.0,
+          "decorativeException": false
+        },
+        {
+          "selector": ".sh-chat-link",
+          "px": 11.0,
+          "decorativeException": false
+        }
+      ]
+    },
+    {
+      "file": "social-ui.css",
+      "smallTextDeclarations": [
+        {
+          "selector": ".so-x-brand small",
+          "px": 8.0,
+          "decorativeException": false
+        },
+        {
+          "selector": ".so-bottom .avatar",
+          "px": 11.0,
+          "decorativeException": false
+        },
+        {
+          "selector": ".so-story small",
+          "px": 10.0,
+          "decorativeException": false
+        },
+        {
+          "selector": ".so-post-head small",
+          "px": 11.0,
+          "decorativeException": false
+        },
+        {
+          "selector": ".so-post-time",
+          "px": 11.0,
+          "decorativeException": false
+        },
+        {
+          "selector": ".so-tags button",
+          "px": 11.0,
+          "decorativeException": false
+        },
+        {
+          "selector": ".scene-photo>span",
+          "px": 9.0,
+          "decorativeException": false
+        },
+        {
+          "selector": ".album-counter",
+          "px": 10.0,
+          "decorativeException": false
+        },
+        {
+          "selector": ".so-x-body .so-icon span",
+          "px": 11.0,
+          "decorativeException": false
+        },
+        {
+          "selector": ".so-person-row time",
+          "px": 10.0,
+          "decorativeException": false
+        },
+        {
+          "selector": ".so-dm-profile>small",
+          "px": 11.0,
+          "decorativeException": false
+        },
+        {
+          "selector": ".so-dm-profile>button",
+          "px": 11.0,
+          "decorativeException": false
+        },
+        {
+          "selector": ".so-message-time",
+          "px": 10.0,
+          "decorativeException": false
+        },
+        {
+          "selector": ".so-message-author",
+          "px": 11.0,
+          "decorativeException": false
+        },
+        {
+          "selector": ".dm-message-bubble .translation",
+          "px": 11.0,
+          "decorativeException": false
+        },
+        {
+          "selector": ".so-message-receipt",
+          "px": 9.0,
+          "decorativeException": false
+        },
+        {
+          "selector": ".so-message-quote",
+          "px": 11.0,
+          "decorativeException": false
+        },
+        {
+          "selector": ".so-system-message",
+          "px": 11.0,
+          "decorativeException": false
+        },
+        {
+          "selector": ".so-replying",
+          "px": 11.0,
+          "decorativeException": false
+        },
+        {
+          "selector": ".so-mini-stats small",
+          "px": 9.0,
+          "decorativeException": false
+        },
+        {
+          "selector": ".so-shared-profile>p",
+          "px": 10.0,
+          "decorativeException": false
+        },
+        {
+          "selector": ".so-mini-grid .scene-photo p",
+          "px": 8.0,
+          "decorativeException": false
+        },
+        {
+          "selector": ".so-shared-profile>small,.so-shared-post>small",
+          "px": 10.0,
+          "decorativeException": false
+        },
+        {
+          "selector": ".so-shared-post>p",
+          "px": 11.0,
+          "decorativeException": false
+        },
+        {
+          "selector": ".so-profile-stats>span",
+          "px": 10.0,
+          "decorativeException": false
+        },
+        {
+          "selector": ".so-profile-grid .scene-photo p",
+          "px": 9.0,
+          "decorativeException": false
+        },
+        {
+          "selector": ".so-grid-text",
+          "px": 11.0,
+          "decorativeException": false
+        },
+        {
+          "selector": ".so-compose-media-tools button",
+          "px": 11.0,
+          "decorativeException": false
+        },
+        {
+          "selector": ".so-draft-hint",
+          "px": 10.0,
+          "decorativeException": false
+        },
+        {
+          "selector": ".so-night-sheet .small-note",
+          "px": 11.0,
+          "decorativeException": false
+        },
+        {
+          "selector": ".so-tag-option small",
+          "px": 11.0,
+          "decorativeException": false
+        },
+        {
+          "selector": ".so-metadata-option small",
+          "px": 11.0,
+          "decorativeException": false
+        },
+        {
+          "selector": ".so-night-sheet .so-person-row small",
+          "px": 11.0,
+          "decorativeException": false
+        },
+        {
+          "selector": ".so-handle",
+          "px": 11.0,
+          "decorativeException": false
+        }
+      ]
+    },
+    {
+      "file": "story.css",
+      "smallTextDeclarations": [
+        {
+          "selector": ".st-entry-copy small",
+          "px": 11.0,
+          "decorativeException": false
+        },
+        {
+          "selector": ".st-eyebrow",
+          "px": 10.0,
+          "decorativeException": false
+        },
+        {
+          "selector": ".st-caption",
+          "px": 11.0,
+          "decorativeException": false
+        },
+        {
+          "selector": ".st-section-heading p",
+          "px": 10.0,
+          "decorativeException": false
+        },
+        {
+          "selector": ".st-field",
+          "px": 11.0,
+          "decorativeException": false
+        },
+        {
+          "selector": ".st-field>span",
+          "px": 11.0,
+          "decorativeException": false
+        },
+        {
+          "selector": ".st-form .small-note",
+          "px": 11.0,
+          "decorativeException": false
+        },
+        {
+          "selector": ".st-form-footer>small",
+          "px": 10.0,
+          "decorativeException": false
+        },
+        {
+          "selector": ".st-section-tools",
+          "px": 11.0,
+          "decorativeException": false
+        },
+        {
+          "selector": ".st-card-heading h2>span",
+          "px": 10.0,
+          "decorativeException": false
+        },
+        {
+          "selector": ".st-card>small",
+          "px": 10.0,
+          "decorativeException": false
+        },
+        {
+          "selector": ".st-person small",
+          "px": 10.0,
+          "decorativeException": false
+        },
+        {
+          "selector": ".st-person-bio",
+          "px": 10.0,
+          "decorativeException": false
+        },
+        {
+          "selector": ".st-person-actions button",
+          "px": 10.0,
+          "decorativeException": false
+        },
+        {
+          "selector": ".st-empty-inline",
+          "px": 10.0,
+          "decorativeException": false
+        },
+        {
+          "selector": ".st-status",
+          "px": 9.0,
+          "decorativeException": false
+        },
+        {
+          "selector": ".st-stats strong small",
+          "px": 11.0,
+          "decorativeException": false
+        },
+        {
+          "selector": ".st-stats span",
+          "px": 9.0,
+          "decorativeException": false
+        },
+        {
+          "selector": ".st-event-copy small",
+          "px": 10.0,
+          "decorativeException": false
+        },
+        {
+          "selector": ".st-event-week",
+          "px": 10.0,
+          "decorativeException": false
+        },
+        {
+          "selector": ".st-detail-line",
+          "px": 11.0,
+          "decorativeException": false
+        },
+        {
+          "selector": ".st-detail-line small",
+          "px": 10.0,
+          "decorativeException": false
+        },
+        {
+          "selector": ".st-action-grid button",
+          "px": 11.0,
+          "decorativeException": false
+        },
+        {
+          "selector": ".st-activity-line",
+          "px": 11.0,
+          "decorativeException": false
+        },
+        {
+          "selector": ".st-phase-list small",
+          "px": 9.0,
+          "decorativeException": false
+        },
+        {
+          "selector": ".st-company .st-person small",
+          "px": 10.0,
+          "decorativeException": false
+        },
+        {
+          "selector": ".st-presence",
+          "px": 11.0,
+          "decorativeException": false
+        },
+        {
+          "selector": ".st-entry-copy small",
+          "px": 10.0,
+          "decorativeException": false
+        },
+        {
+          "selector": ".st-welcome-top>span:first-child",
+          "px": 10.0,
+          "decorativeException": false
+        },
+        {
+          "selector": ".st-welcome-edition",
+          "px": 8.0,
+          "decorativeException": false
+        },
+        {
+          "selector": ".st-welcome-eyebrow",
+          "px": 11.0,
+          "decorativeException": false
+        },
+        {
+          "selector": ".st-welcome-moments>span",
+          "px": 10.0,
+          "decorativeException": false
+        },
+        {
+          "selector": ".st-welcome-save .st-section-tools",
+          "px": 8.0,
+          "decorativeException": false
+        },
+        {
+          "selector": ".st-welcome-save .st-status",
+          "px": 10.0,
+          "decorativeException": false
+        },
+        {
+          "selector": ".st-welcome-identity p",
+          "px": 10.0,
+          "decorativeException": false
+        },
+        {
+          "selector": ".st-welcome-stats>span",
+          "px": 10.0,
+          "decorativeException": false
+        },
+        {
+          "selector": ".st-welcome-primary small",
+          "px": 10.0,
+          "decorativeException": false
+        },
+        {
+          "selector": ".st-welcome-choice small",
+          "px": 10.0,
+          "decorativeException": false
+        },
+        {
+          "selector": ".st-welcome-footer .st-inline-action",
+          "px": 10.0,
+          "decorativeException": false
+        },
+        {
+          "selector": ".st-welcome-footer>span",
+          "px": 10.0,
+          "decorativeException": false
+        },
+        {
+          "selector": ".st-welcome-footer>p",
+          "px": 10.0,
+          "decorativeException": false
+        },
+        {
+          "selector": ".st-auto-caption",
+          "px": 11.0,
+          "decorativeException": false
+        },
+        {
+          "selector": ".st-secondary",
+          "px": 11.0,
+          "decorativeException": false
+        },
+        {
+          "selector": ".st-welcome-edition",
+          "px": 7.0,
+          "decorativeException": false
+        },
+        {
+          "selector": ".st-welcome-choice small",
+          "px": 9.0,
+          "decorativeException": false
+        },
+        {
+          "selector": ".msg-story-caption small",
+          "px": 10.0,
+          "decorativeException": false
+        },
+        {
+          "selector": ".msg-story-panel>small",
+          "px": 10.0,
+          "decorativeException": false
+        },
+        {
+          "selector": ".msg-unfinished",
+          "px": 9.0,
+          "decorativeException": false
+        },
+        {
+          "selector": ".msg-wv-thread small",
+          "px": 11.0,
+          "decorativeException": false
+        },
+        {
+          "selector": ".kkp-import small",
+          "px": 11.0,
+          "decorativeException": false
+        },
+        {
+          "selector": ".kkp-file-row small",
+          "px": 11.0,
+          "decorativeException": false
+        },
+        {
+          "selector": ".kkp-location-card small",
+          "px": 11.0,
+          "decorativeException": false
+        },
+        {
+          "selector": ".kkp-described-photo small,.creator-described-media small",
+          "px": 10.0,
+          "decorativeException": false
+        },
+        {
+          "selector": ".creator-live-description small",
+          "px": 10.0,
+          "decorativeException": false
+        },
+        {
+          "selector": ".msg-story-panel>small",
+          "px": 9.0,
+          "decorativeException": false
+        },
+        {
+          "selector": ".kkp-room-identity",
+          "px": 10.0,
+          "decorativeException": false
+        }
+      ]
+    },
+    {
+      "file": "surface-polish.css",
+      "smallTextDeclarations": [
+        {
+          "selector": ".so-comment-detail-head>.so-icon",
+          "px": 11.0,
+          "decorativeException": false
+        },
+        {
+          "selector": ".rt-search-person>div>small",
+          "px": 11.0,
+          "decorativeException": false
+        },
+        {
+          "selector": ".rich-social .so-search-result-post>small",
+          "px": 11.0,
+          "decorativeException": false
+        },
+        {
+          "selector": ".so-post-detail .so-comment-body small",
+          "px": 11.0,
+          "decorativeException": false
+        },
+        {
+          "selector": ".xr-topic-row small",
+          "px": 11.0,
+          "decorativeException": false
+        },
+        {
+          "selector": ".so-search-suggestion small",
+          "px": 11.0,
+          "decorativeException": false
+        },
+        {
+          "selector": ".sh-brand-divider button",
+          "px": 11.0,
+          "decorativeException": false
+        },
+        {
+          "selector": ".sh-estimate-tag",
+          "px": 9.0,
+          "decorativeException": false
+        },
+        {
+          "selector": ".sh-brand-chips>button",
+          "px": 11.0,
+          "decorativeException": false
+        }
+      ]
+    },
+    {
+      "file": "usability.css",
+      "smallTextDeclarations": []
+    }
+  ],
+  "smallTextTotal": 335,
+  "nonDecorativeSmallTextTotal": 334
+}

@@ -2,7 +2,7 @@
 const assert=require('node:assert/strict'),fs=require('node:fs'),path=require('node:path');
 const {environment}=require('./runtime.cjs'),{fixture}=require('./authoring-fixture.cjs'),contract=require('../src/authoring-contract.js'),writing=require('../src/writing-prompts.js');
 const results=[];async function test(name,fn){try{await fn();results.push({name,status:'PASS'});console.log('PASS',name);}catch(e){results.push({name,status:'FAIL',error:e.stack});console.error('FAIL',name,e.stack);}}
-const env=()=>{const e=environment();Object.assign(e.context,{URL,AbortController,AbortSignal});return e;};
+const env=()=>{const e=environment();Object.assign(e.context,{URL,AbortController,AbortSignal});e.run('state.kakaoPreferences={mode:"zh"}');return e;};
 const json=(e,code)=>JSON.parse(e.run('JSON.stringify('+code+')'));
 function load(e,p=fixture()){e.context.pack=p;e.run('auSetPack(pack)');return e;}
 function install(e){load(e);e.run('auInstall()');return e;}

@@ -1,0 +1,175 @@
+{
+  "scope": "Source declarations only; no computed cascade, browser geometry or screenshot validation",
+  "apps": [
+    {
+      "id": "calendar",
+      "name": "日历"
+    },
+    {
+      "id": "photos",
+      "name": "照片"
+    },
+    {
+      "id": "kakao",
+      "name": "KakaoTalk"
+    },
+    {
+      "id": "instagram",
+      "name": "Instagram"
+    },
+    {
+      "id": "mail",
+      "name": "邮件"
+    },
+    {
+      "id": "notes",
+      "name": "备忘录"
+    },
+    {
+      "id": "safari",
+      "name": "Safari"
+    },
+    {
+      "id": "applemusic",
+      "name": "音乐"
+    },
+    {
+      "id": "phone",
+      "name": "电话"
+    },
+    {
+      "id": "company",
+      "name": "生活计划"
+    },
+    {
+      "id": "notifications",
+      "name": "通知中心"
+    },
+    {
+      "id": "settings",
+      "name": "设置"
+    },
+    {
+      "id": "x",
+      "name": "X"
+    },
+    {
+      "id": "threads",
+      "name": "Threads"
+    },
+    {
+      "id": "tiktok",
+      "name": "TikTok"
+    },
+    {
+      "id": "weverse",
+      "name": "Weverse"
+    },
+    {
+      "id": "youtube",
+      "name": "YouTube"
+    },
+    {
+      "id": "camera",
+      "name": "相机"
+    },
+    {
+      "id": "maps",
+      "name": "地图"
+    },
+    {
+      "id": "gmail",
+      "name": "Gmail"
+    },
+    {
+      "id": "files",
+      "name": "文件"
+    },
+    {
+      "id": "voicememos",
+      "name": "语音备忘录"
+    },
+    {
+      "id": "reminders",
+      "name": "提醒事项"
+    },
+    {
+      "id": "shop",
+      "name": "商城"
+    },
+    {
+      "id": "delivery",
+      "name": "食光外卖"
+    }
+  ],
+  "files": [
+    {
+      "file": "ai.css",
+      "smallTextDeclarations": []
+    },
+    {
+      "file": "authoring.css",
+      "smallTextDeclarations": []
+    },
+    {
+      "file": "call-polish.css",
+      "smallTextDeclarations": []
+    },
+    {
+      "file": "delivery.css",
+      "smallTextDeclarations": []
+    },
+    {
+      "file": "interface.css",
+      "smallTextDeclarations": [
+        {
+          "selector": ".wv-artist-badge",
+          "px": 9.0,
+          "decorativeException": true
+        }
+      ]
+    },
+    {
+      "file": "landing.css",
+      "smallTextDeclarations": []
+    },
+    {
+      "file": "lock-screen.css",
+      "smallTextDeclarations": []
+    },
+    {
+      "file": "music-reference.css",
+      "smallTextDeclarations": []
+    },
+    {
+      "file": "productivity.css",
+      "smallTextDeclarations": []
+    },
+    {
+      "file": "reference.css",
+      "smallTextDeclarations": []
+    },
+    {
+      "file": "shop.css",
+      "smallTextDeclarations": []
+    },
+    {
+      "file": "social-ui.css",
+      "smallTextDeclarations": []
+    },
+    {
+      "file": "story.css",
+      "smallTextDeclarations": []
+    },
+    {
+      "file": "surface-polish.css",
+      "smallTextDeclarations": []
+    },
+    {
+      "file": "usability.css",
+      "smallTextDeclarations": []
+    }
+  ],
+  "smallTextTotal": 1,
+  "nonDecorativeSmallTextTotal": 0
+}
